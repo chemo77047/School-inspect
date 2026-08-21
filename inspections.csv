@@ -1,10 +1,12 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
+2026-08-20,BRAZOS SCHOOL FOR INQUIRY & CREATIVITY,Elementary,grease_trap,1055 W TIDWELL HOUSTON TX,77091,OPEN,0,
 2026-08-19,WHARTON ELEMENTARY SCHOOL,Elementary,inspection,900 W GRAY ST HOUSTON TX,77019,OPEN,3,1 Houston Ordinance Violation: 8-304.11(K) (Violation) | 2 Houston Ordinance Violation: TAC-228.32 (Violation) | 3 Houston Ordinance Violation: 4-601.11(C) (Violation Corrected On Site Repeat)
 2026-08-19,WHARTON ELEMENTARY SCHOOL,Elementary,grease_trap,900 W GRAY ST HOUSTON TX,77019,OPEN,0,
 2026-08-17,ERMEL ELEMENTARY,Elementary,inspection,7103 WOODSMAN TRAIL HOUSTON TX,77040,OPEN,4,1 Houston Ordinance Violation: 3-501.16(A)(1) (Violation Corrected On Site) | 2 Houston Ordinance Violation: 6-202.15(A) (Violation) | 3 Houston Ordinance Violation: 4-601.11(C) (Violation) | 4 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-08-17,ERMEL ELEMENTARY,Elementary,grease_trap,7103 WOODSMAN TRAIL HOUSTON TX,77040,OPEN,0,
 2026-08-14,WOODVIEW ELEMENTARY SCHOOL,Elementary,inspection,9749 CEDARDALE DR HOUSTON TX,77055,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
 2026-08-14,WOODVIEW ELEMENTARY SCHOOL,Elementary,inspection,9749 CEDARDALE DR HOUSTON TX,77055,OPEN,0,
+2026-08-14,WOODVIEW ELEMENTARY SCHOOL,Elementary,inspection,9749 CEDARDALE DR HOUSTON TX,77055,OPEN,2,1 Houston Ordinance Violation: TAC-228.32 (Violation Corrected On Site) | 2 Houston Ordinance Violation: 3-304.14(B) (Violation Corrected On Site)
 2026-08-13,GOODMAN ELEMENTARY,Elementary,inspection,9325 DEER TRAIL HOUSTON TX,77088,OPEN,3,1 Houston Ordinance Violation: 8-304.11(K) (Violation Corrected On Site) | 2 Houston Ordinance Violation: 3-501.16(A)(1) (Violation Corrected On Site Repeat) | 3 Houston Ordinance Violation: 4-204.19 (Violation)
 2026-08-13,GOODMAN ELEMENTARY,Elementary,grease_trap,9325 DEER TRAIL HOUSTON TX,77088,OPEN,0,
 2026-08-11,OSBORNE ELEMENTARY,Elementary,inspection,800 RINGOLD ST HOUSTON TX,77088,OPEN,4,1 Houston Ordinance Violation: 8-304.11(K) (Violation) | 2 Houston Ordinance Violation: 3-305.12 (Violation Repeat) | 3 Houston Ordinance Violation: 4-601.11(C) (Violation) | 4 Houston Ordinance Violation: 5-501.113 (Violation)

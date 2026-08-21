@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-21T16:21:14+00:00",
+  "generated_at": "2026-08-21T22:23:46+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1591,
-  "grease_trap_count": 813,
-  "record_count": 2404,
+  "inspection_count": 1592,
+  "grease_trap_count": 814,
+  "record_count": 2406,
   "campus_count": 468,
-  "violation_count": 2162,
+  "violation_count": 2164,
   "inspections": [
+    {
+      "inspection_id": "3FB0437D-0F3D-615C-836F833DB74736A9",
+      "record_type": "grease_trap",
+      "facility_id": "E7CE90A4-D1AA-518D-0B8DF2CFC36243B3",
+      "campus": "BRAZOS SCHOOL FOR INQUIRY & CREATIVITY",
+      "address": "1055 W TIDWELL HOUSTON TX",
+      "zip": "77091",
+      "site": "FOG 202538",
+      "date": "2026-08-20",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
     {
       "inspection_id": "070B35A1-0166-788E-5B36C8EB3A4C2589",
       "record_type": "inspection",
@@ -135,6 +148,32 @@
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
+    },
+    {
+      "inspection_id": "08845D57-C5DF-8F48-8B90E112D6DFC89D",
+      "record_type": "inspection",
+      "facility_id": "53D38329-03EC-4A95-3BE01438AB2F6B5C",
+      "campus": "WOODVIEW ELEMENTARY SCHOOL",
+      "address": "9749 CEDARDALE DR HOUSTON TX",
+      "zip": "77055",
+      "site": "ESTABLISHMENT",
+      "date": "2026-08-14",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: TAC-228.32",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 3-304.14(B)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
     },
     {
       "inspection_id": "D012B7CE-BD2A-2467-CF098F3B6EA38C42",
