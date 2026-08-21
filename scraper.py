@@ -138,9 +138,19 @@ def fetch_violations(s: requests.Session, insp: Inspection, day: dt.date,
         if len(cells) == 4 and re.fullmatch(r"\d{2}/\d{2}/\d{4}", cells[0]):
             activity = cells[3]
         elif len(cells) == 3 and cells[0].isdigit():
-            items.append({"no": int(cells[0]), "item": cells[1],
-                          "status": cells[2], "activity": activity})
+            item = {"no": int(cells[0]), "item": cells[1],
+                    "status": cells[2], "activity": activity}
+            if not is_placeholder(item):
+                items.append(item)
     return items
+
+
+def is_placeholder(item: dict) -> bool:
+    """Detail pages print one numbered line per checklist entry, so a clean visit still
+    yields rows reading "Houston Ordinance Violation:" with no code and no status. Those
+    are not findings and would otherwise make every inspection look like a violation."""
+    return (not item["status"].strip()
+            and not item["item"].split(":", 1)[-1].strip())
 
 
 def is_fog(insp: Inspection) -> bool:
@@ -194,9 +204,11 @@ def load_existing(path: Path) -> dict[str, dict]:
 def write_json(path: Path, records: dict[str, dict]) -> list[dict]:
     rows = sorted(records.values(), key=lambda i: (i["date"], i["campus"]), reverse=True)
     for row in rows:
-        # stamped on every write so records saved before this field existed get it too
+        # both stamped on every write, so records saved by an older version of this
+        # scraper are corrected in place rather than needing a re-scrape
         row["record_type"] = ("grease_trap" if row["site"].upper().startswith("FOG")
                               else "inspection")
+        row["violations"] = [v for v in row["violations"] if not is_placeholder(v)]
     kitchen = [i for i in rows if i["record_type"] == "inspection"]
     path.write_text(json.dumps({
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
@@ -205,6 +217,7 @@ def write_json(path: Path, records: dict[str, dict]) -> list[dict]:
         "grease_trap_count": len(rows) - len(kitchen),
         "record_count": len(rows),
         "campus_count": len({i["campus"] for i in kitchen}),
+        "violation_count": sum(len(i["violations"]) for i in rows),
         "inspections": rows,
     }, indent=2) + "\n")
     return rows

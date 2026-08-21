@@ -51,6 +51,7 @@ python update_inspections.py --start 2025-07-01 --end 2026-06-30  # backfill
   "grease_trap_count": 813,
   "record_count": 2404,
   "campus_count": 468,
+  "violation_count": 2162,
   "inspections": [
     {
       "inspection_id": "070B35A1-0166-788E-5B36C8EB3A4C2589",
@@ -76,9 +77,17 @@ python update_inspections.py --start 2025-07-01 --end 2026-06-30  # backfill
 ```
 
 `record_type` is `"inspection"` for kitchen inspections and `"grease_trap"` for FOG
-(fats/oils/grease) records. Both carry real citations, but a grease trap is plumbing
+(fats/oils/grease) records. Both can carry real citations, but a grease trap is plumbing
 compliance, not food handling — keep them apart in any dashboard, or every campus looks
 like it has twice as many findings as it does.
+
+`violations` is empty when the visit found nothing, which is the common case: 715 of the
+1,591 kitchen inspections and 739 of the 813 grease-trap records are clean. The detail
+page prints a numbered line for every checklist entry, including a bare
+`"Houston Ordinance Violation:"` with no code and no status when the entry passed, so
+those lines are dropped on parse — every item left in `violations` is a real finding with
+a `status` of `Violation`, `Violation Repeat`, `Violation Corrected On Site`, or
+`Violation Corrected On Site Repeat`.
 
 ## Notes on the source
 

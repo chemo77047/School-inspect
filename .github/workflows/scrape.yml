@@ -2,12 +2,12 @@ name: Scrape inspections
 
 on:
   schedule:
-    # 11:00 and 17:00 America/Chicago. GitHub cron is UTC only and does not follow DST,
-    # so both the CDT (UTC-5) and CST (UTC-6) times are listed; the job is idempotent,
-    # so the extra run during the other half of the year is harmless.
+    # GitHub cron is UTC and ignores daylight saving, so all four candidate hours are
+    # listed and the "gate" job below drops the two that are wrong for the current
+    # offset. Net effect: exactly two runs a day, 11:00 and 17:00 Central, year round.
     - cron: "0 16 * * *"   # 11:00 CDT
-    - cron: "0 22 * * *"   # 17:00 CDT
     - cron: "0 17 * * *"   # 11:00 CST
+    - cron: "0 22 * * *"   # 17:00 CDT
     - cron: "0 23 * * *"   # 17:00 CST
   workflow_dispatch:
     inputs:
@@ -23,7 +23,25 @@ permissions:
   contents: write
 
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.slot.outputs.run }}
+    steps:
+      - id: slot
+        run: |
+          hour=$(TZ=America/Chicago date +%-H)
+          if [ "${{ github.event_name }}" != "schedule" ] \
+             || [ "$hour" = "11" ] || [ "$hour" = "17" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "${hour}:00 Central is not a scheduled slot; skipping"
+          fi
+
   scrape:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
