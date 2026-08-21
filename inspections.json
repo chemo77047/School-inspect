@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T13:56:32+00:00",
+  "generated_at": "2026-08-21T16:21:14+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
   "inspection_count": 1591,
   "grease_trap_count": 813,
@@ -9,6 +9,7 @@
   "inspections": [
     {
       "inspection_id": "070B35A1-0166-788E-5B36C8EB3A4C2589",
+      "record_type": "inspection",
       "facility_id": "5FD7C844-024D-8887-C75777EF353D075F",
       "campus": "WHARTON ELEMENTARY SCHOOL",
       "address": "900 W GRAY ST HOUSTON TX",
@@ -36,11 +37,11 @@
           "status": "Violation Corrected On Site Repeat",
           "activity": "Routine Inspection (001)"
         }
-      ],
-      "record_type": "inspection"
+      ]
     },
     {
       "inspection_id": "06D3F41B-D7DA-E981-0727EECE177A9885",
+      "record_type": "grease_trap",
       "facility_id": "5FD7C844-024D-8887-C75777EF353D075F",
       "campus": "WHARTON ELEMENTARY SCHOOL",
       "address": "900 W GRAY ST HOUSTON TX",
@@ -49,11 +50,11 @@
       "date": "2026-08-19",
       "status": "OPEN",
       "level": "Elementary",
-      "violations": [],
-      "record_type": "grease_trap"
+      "violations": []
     },
     {
       "inspection_id": "9E9B8022-DCA1-7E87-BA085EE187C01E53",
+      "record_type": "inspection",
       "facility_id": "11912",
       "campus": "ERMEL ELEMENTARY",
       "address": "7103 WOODSMAN TRAIL HOUSTON TX",
@@ -87,11 +88,11 @@
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
-      ],
-      "record_type": "inspection"
+      ]
     },
     {
       "inspection_id": "9DDDA2B1-BA8C-FD87-0DBDD6E697341376",
+      "record_type": "grease_trap",
       "facility_id": "11912",
       "campus": "ERMEL ELEMENTARY",
       "address": "7103 WOODSMAN TRAIL HOUSTON TX",
@@ -100,11 +101,11 @@
       "date": "2026-08-17",
       "status": "OPEN",
       "level": "Elementary",
-      "violations": [],
-      "record_type": "grease_trap"
+      "violations": []
     },
     {
       "inspection_id": "08A42E9C-A8DE-0ED1-2818BDE9DEC747BE",
+      "record_type": "inspection",
       "facility_id": "53D38329-03EC-4A95-3BE01438AB2F6B5C",
       "campus": "WOODVIEW ELEMENTARY SCHOOL",
       "address": "9749 CEDARDALE DR HOUSTON TX",
@@ -120,11 +121,11 @@
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
-      ],
-      "record_type": "inspection"
+      ]
     },
     {
       "inspection_id": "088D1D44-F1E1-8950-CFA5DF6AC2D27B0C",
+      "record_type": "inspection",
       "facility_id": "53D38329-03EC-4A95-3BE01438AB2F6B5C",
       "campus": "WOODVIEW ELEMENTARY SCHOOL",
       "address": "9749 CEDARDALE DR HOUSTON TX",
@@ -133,11 +134,11 @@
       "date": "2026-08-14",
       "status": "OPEN",
       "level": "Elementary",
-      "violations": [],
-      "record_type": "inspection"
+      "violations": []
     },
     {
       "inspection_id": "D012B7CE-BD2A-2467-CF098F3B6EA38C42",
+      "record_type": "inspection",
       "facility_id": "11902",
       "campus": "GOODMAN ELEMENTARY",
       "address": "9325 DEER TRAIL HOUSTON TX",
@@ -165,11 +166,11 @@
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
-      ],
-      "record_type": "inspection"
+      ]
     },
     {
       "inspection_id": "CFB949E0-CFC0-042C-8977527857CA4D5A",
+      "record_type": "grease_trap",
       "facility_id": "11902",
       "campus": "GOODMAN ELEMENTARY",
       "address": "9325 DEER TRAIL HOUSTON TX",
@@ -178,8 +179,7 @@
       "date": "2026-08-13",
       "status": "OPEN",
       "level": "Elementary",
-      "violations": [],
-      "record_type": "grease_trap"
+      "violations": []
     },
     {
       "inspection_id": "69B0E9DA-FFB7-4A5F-01FBB729E692BCCF",
