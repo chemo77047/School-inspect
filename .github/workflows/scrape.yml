@@ -1,0 +1,47 @@
+name: Scrape inspections
+
+on:
+  schedule:
+    # 11:00 and 17:00 America/Chicago. GitHub cron is UTC only and does not follow DST,
+    # so both the CDT (UTC-5) and CST (UTC-6) times are listed; the job is idempotent,
+    # so the extra run during the other half of the year is harmless.
+    - cron: "0 16 * * *"   # 11:00 CDT
+    - cron: "0 22 * * *"   # 17:00 CDT
+    - cron: "0 17 * * *"   # 11:00 CST
+    - cron: "0 23 * * *"   # 17:00 CST
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "How many days back to re-scrape"
+        default: "10"
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - run: python update_inspections.py --days ${{ github.event.inputs.days || 10 }}
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add inspections.json inspections.csv
+          git diff --cached --quiet && echo "no new inspections" && exit 0
+          git commit -m "Update inspections ($(date -u +%Y-%m-%d\ %H:%M) UTC)"
+          git push
