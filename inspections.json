@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-24T16:24:26+00:00",
+  "generated_at": "2026-08-24T22:25:23+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
   "inspection_count": 1592,
-  "grease_trap_count": 814,
-  "record_count": 2406,
+  "grease_trap_count": 815,
+  "record_count": 2407,
   "campus_count": 468,
   "violation_count": 2164,
   "inspections": [
+    {
+      "inspection_id": "08AC2B8D-AFCB-310A-84AEA001748A25D4",
+      "record_type": "grease_trap",
+      "facility_id": "12143",
+      "campus": "BUSH ELEMENTARY",
+      "address": "9730 STROUD HOUSTON TX",
+      "zip": "77036",
+      "site": "FOG 84074",
+      "date": "2026-08-24",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
     {
       "inspection_id": "3FB0437D-0F3D-615C-836F833DB74736A9",
       "record_type": "grease_trap",
