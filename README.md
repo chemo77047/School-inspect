@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/chemo77047/School-inspect/main/inspections.jso
 result when anything changed. GitHub often starts scheduled runs late — by minutes,
 occasionally by hours — so treat those times as "twice a day", not as a guarantee.
 
-Each run re-scrapes the **last 10 days**, not just today, because the health department
+Each run re-scrapes the **last 14 days**, not just today, because the health department
 enters inspections several days late. Records are keyed on
 `inspection_id`, so re-scraping the same day merges instead of duplicating, and a late
 entry is picked up on the next run.
@@ -39,7 +39,7 @@ input widens the window for a catch-up run.
 
 ```bash
 pip install -r requirements.txt
-python update_inspections.py                                   # last 10 days
+python update_inspections.py                                   # last 14 days
 python update_inspections.py --days 30
 python update_inspections.py --start 2025-07-01 --end 2026-06-30  # backfill
 ```
