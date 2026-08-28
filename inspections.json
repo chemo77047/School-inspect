@@ -1,12 +1,192 @@
 {
-  "generated_at": "2026-08-26T16:43:13+00:00",
+  "generated_at": "2026-08-28T23:15:36+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1592,
-  "grease_trap_count": 815,
-  "record_count": 2407,
-  "campus_count": 468,
-  "violation_count": 2164,
+  "inspection_count": 1598,
+  "grease_trap_count": 820,
+  "record_count": 2418,
+  "campus_count": 469,
+  "violation_count": 2187,
   "inspections": [
+    {
+      "inspection_id": "A1AF4BB1-F55E-B855-82110D657720EC8D",
+      "record_type": "grease_trap",
+      "facility_id": "11898",
+      "campus": "ALDINE HIGH SCHOOL",
+      "address": "11101 AIRLINE DR HOUSTON TX",
+      "zip": "77037",
+      "site": "FOG 90293",
+      "date": "2026-08-27",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "6F5EFE75-06C0-FE8E-20F476750C4EF8C0",
+      "record_type": "inspection",
+      "facility_id": "11587",
+      "campus": "GREGORY-LINCOLN EDUCATION CENTER",
+      "address": "1101 TAFT HOUSTON TX",
+      "zip": "77019",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-08-26",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: TAC-228.32",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "6F0E4904-DC9C-C9C6-44FFE722B822AF89",
+      "record_type": "grease_trap",
+      "facility_id": "11587",
+      "campus": "GREGORY-LINCOLN EDUCATION CENTER",
+      "address": "1101 TAFT HOUSTON TX",
+      "zip": "77019",
+      "site": "FOG 77317",
+      "date": "2026-08-26",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "7BBE6FB0-CC5C-ABB6-76D084BB8F81F28F",
+      "record_type": "inspection",
+      "facility_id": "E7CE90A4-D1AA-518D-0B8DF2CFC36243B3",
+      "campus": "BRAZOS SCHOOL FOR INQUIRY & CREATIVITY",
+      "address": "1055 W TIDWELL HOUSTON TX",
+      "zip": "77091",
+      "site": "KITCHEN",
+      "date": "2026-08-26",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 4-204.112(A)",
+          "status": "Violation Repeat",
+          "activity": "Reinspection (002)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 4-501.19",
+          "status": "Violation Corrected On Site Repeat",
+          "activity": "Reinspection (002)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "3A43A439-B52A-D929-EF4D42283F2C7B2A",
+      "record_type": "inspection",
+      "facility_id": "11915",
+      "campus": "Carver High School @ EISENHOWER 9TH GRADE",
+      "address": "3550 W GULF BANK HOUSTON TX",
+      "zip": "77088",
+      "site": "Total Sites",
+      "date": "2026-08-25",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 6-201.17(B)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 6-501.14(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "39F83B13-A4BA-1AC8-B249D61AC18B8831",
+      "record_type": "grease_trap",
+      "facility_id": "11915",
+      "campus": "Carver High School @ EISENHOWER 9TH GRADE",
+      "address": "3550 W GULF BANK HOUSTON TX",
+      "zip": "77088",
+      "site": "FOG 101298",
+      "date": "2026-08-25",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "05E95999-C400-4749-FFC5298F6DF0D3F7",
+      "record_type": "inspection",
+      "facility_id": "11900",
+      "campus": "EISENHOWER HIGH SCHOOL",
+      "address": "7922 ANTOINE HOUSTON TX",
+      "zip": "77088",
+      "site": "Establishment",
+      "date": "2026-08-24",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 6-101.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "059EDED5-F926-97C4-83719E0B7C13AE7D",
+      "record_type": "grease_trap",
+      "facility_id": "11900",
+      "campus": "EISENHOWER HIGH SCHOOL",
+      "address": "7922 ANTOINE HOUSTON TX",
+      "zip": "77088",
+      "site": "FOG 80309",
+      "date": "2026-08-24",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
     {
       "inspection_id": "08AC2B8D-AFCB-310A-84AEA001748A25D4",
       "record_type": "grease_trap",
@@ -16,6 +196,69 @@
       "zip": "77036",
       "site": "FOG 84074",
       "date": "2026-08-24",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "6CF02B9C-0C1A-7378-93E56F978FC468A9",
+      "record_type": "inspection",
+      "facility_id": "11911",
+      "campus": "ANDERSON ACADEMY",
+      "address": "7401 WHEATLEY HOUSTON TX",
+      "zip": "77088",
+      "site": "TOTAL SITES",
+      "date": "2026-08-21",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 3-501.17(A)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 2-402.11",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 5,
+          "item": "Houston Ordinance Violation: 5-501.15(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 6,
+          "item": "Houston Ordinance Violation: 6-201.17(B)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "6C78E7D3-BD41-F1ED-ACEB59B553DF1099",
+      "record_type": "grease_trap",
+      "facility_id": "11911",
+      "campus": "ANDERSON ACADEMY",
+      "address": "7401 WHEATLEY HOUSTON TX",
+      "zip": "77088",
+      "site": "FOG 90137",
+      "date": "2026-08-21",
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
@@ -32,6 +275,50 @@
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
+    },
+    {
+      "inspection_id": "3FDB8A23-F8A5-CADB-21C381C78D44BF53",
+      "record_type": "inspection",
+      "facility_id": "E7CE90A4-D1AA-518D-0B8DF2CFC36243B3",
+      "campus": "BRAZOS SCHOOL FOR INQUIRY & CREATIVITY",
+      "address": "1055 W TIDWELL HOUSTON TX",
+      "zip": "77091",
+      "site": "KITCHEN",
+      "date": "2026-08-20",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 24,
+          "item": "Houston Ordinance Violation: TAC-228.32",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 31,
+          "item": "Houston Ordinance Violation: 4-204.112(A)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 44,
+          "item": "Houston Ordinance Violation: 4-501.19",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 48,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
     },
     {
       "inspection_id": "070B35A1-0166-788E-5B36C8EB3A4C2589",
