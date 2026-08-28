@@ -29,14 +29,24 @@ jobs:
       run: ${{ steps.slot.outputs.run }}
     steps:
       - id: slot
+        env:
+          EVENT: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
         run: |
-          hour=$(TZ=America/Chicago date +%-H)
-          if [ "${{ github.event_name }}" != "schedule" ] \
-             || [ "$hour" = "11" ] || [ "$hour" = "17" ]; then
+          # Match on the cron that triggered the run, never on the current clock:
+          # GitHub starts scheduled runs late, sometimes by hours, and a clock check
+          # would skip every delayed run.
+          if [ "$(TZ=America/Chicago date +%z)" = "-0500" ]; then
+            morning="0 16 * * *"; evening="0 22 * * *"   # CDT
+          else
+            morning="0 17 * * *"; evening="0 23 * * *"   # CST
+          fi
+          if [ "$EVENT" != "schedule" ] || [ "$SCHEDULE" = "$morning" ] \
+             || [ "$SCHEDULE" = "$evening" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "${hour}:00 Central is not a scheduled slot; skipping"
+            echo "cron '$SCHEDULE' belongs to the other DST offset; skipping"
           fi
 
   scrape:
