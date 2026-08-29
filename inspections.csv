@@ -1,4 +1,6 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
+2026-08-28,HARTMAN MIDDLE SCHOOL,Middle / Jr. High,grease_trap,7111 WESTOVER HOUSTON TX,77087,OPEN,0,
+2026-08-28,HARTMAN MIDDLE SCHOOL,Middle / Jr. High,inspection,7111 WESTOVER HOUSTON TX,77087,OPEN,1,1 Houston Ordinance Violation: 5-205.15 (Violation Repeat)
 2026-08-27,ALDINE HIGH SCHOOL,High School,grease_trap,11101 AIRLINE DR HOUSTON TX,77037,OPEN,0,
 2026-08-26,GREGORY-LINCOLN EDUCATION CENTER,Middle / Jr. High,inspection,1101 TAFT HOUSTON TX,77019,OPEN,3,1 Houston Ordinance Violation: 8-304.11(K) (Violation Corrected On Site) | 2 Houston Ordinance Violation: TAC-228.32 (Violation Corrected On Site) | 3 Houston Ordinance Violation: 4-601.11(C) (Violation)
 2026-08-26,GREGORY-LINCOLN EDUCATION CENTER,Middle / Jr. High,grease_trap,1101 TAFT HOUSTON TX,77019,OPEN,0,

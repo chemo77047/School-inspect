@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-08-29T03:32:43+00:00",
+  "generated_at": "2026-08-29T19:01:41+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1598,
-  "grease_trap_count": 820,
-  "record_count": 2418,
+  "inspection_count": 1599,
+  "grease_trap_count": 821,
+  "record_count": 2420,
   "campus_count": 469,
-  "violation_count": 2187,
+  "violation_count": 2188,
   "inspections": [
+    {
+      "inspection_id": "DA97EAE6-FEF4-D90B-8DD268A8DE2A8D2C",
+      "record_type": "grease_trap",
+      "facility_id": "11606",
+      "campus": "HARTMAN MIDDLE SCHOOL",
+      "address": "7111 WESTOVER HOUSTON TX",
+      "zip": "77087",
+      "site": "FOG 79452",
+      "date": "2026-08-28",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "DA2FC2FB-D302-E117-A21C6542E5C2FF90",
+      "record_type": "inspection",
+      "facility_id": "11606",
+      "campus": "HARTMAN MIDDLE SCHOOL",
+      "address": "7111 WESTOVER HOUSTON TX",
+      "zip": "77087",
+      "site": "PREMISESS",
+      "date": "2026-08-28",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
     {
       "inspection_id": "A1AF4BB1-F55E-B855-82110D657720EC8D",
       "record_type": "grease_trap",
