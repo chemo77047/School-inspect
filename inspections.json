@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T00:14:16+00:00",
+  "generated_at": "2026-08-31T21:14:36+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1599,
-  "grease_trap_count": 821,
-  "record_count": 2420,
+  "inspection_count": 1601,
+  "grease_trap_count": 823,
+  "record_count": 2424,
   "campus_count": 469,
-  "violation_count": 2188,
+  "violation_count": 2191,
   "inspections": [
     {
       "inspection_id": "DA97EAE6-FEF4-D90B-8DD268A8DE2A8D2C",
@@ -39,6 +39,51 @@
           "activity": "Routine Inspection (001)"
         }
       ]
+    },
+    {
+      "inspection_id": "A3E264B6-D647-776A-D48C8BFC0D345CB3",
+      "record_type": "inspection",
+      "facility_id": "B6BB1063-5056-A20B-FA3BAF45DD2184EF",
+      "campus": "ENERGY INSTITUTE HIGH SCHOOL",
+      "address": "3501 SOUTHMORE BLVD HOUSTON TX",
+      "zip": "77004",
+      "site": "PREMISES",
+      "date": "2026-08-27",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-202.15(D)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 6-501.111(B)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 6-304.11",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "A29B8E4D-BD42-2CB8-C0A26D6D30CDA79B",
+      "record_type": "grease_trap",
+      "facility_id": "B6BB1063-5056-A20B-FA3BAF45DD2184EF",
+      "campus": "ENERGY INSTITUTE HIGH SCHOOL",
+      "address": "3501 SOUTHMORE BLVD HOUSTON TX",
+      "zip": "77004",
+      "site": "FOG 206673 / 2500 gls",
+      "date": "2026-08-27",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
     },
     {
       "inspection_id": "A1AF4BB1-F55E-B855-82110D657720EC8D",
@@ -123,6 +168,32 @@
           "activity": "Reinspection (002)"
         }
       ]
+    },
+    {
+      "inspection_id": "41231B25-AD8C-7491-8D0C11CE541E242E",
+      "record_type": "inspection",
+      "facility_id": "54968",
+      "campus": "DANIEL ORTIZ MIDDLE SCHOOL",
+      "address": "6767 TELEPHONE HOUSTON TX",
+      "zip": "77061",
+      "site": "PREMISES",
+      "date": "2026-08-25",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "411F505F-E04C-ED73-E4D15F3CCF698754",
+      "record_type": "grease_trap",
+      "facility_id": "54968",
+      "campus": "DANIEL ORTIZ MIDDLE SCHOOL",
+      "address": "6767 TELEPHONE HOUSTON TX",
+      "zip": "77061",
+      "site": "FOG 88337",
+      "date": "2026-08-25",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
     },
     {
       "inspection_id": "3A43A439-B52A-D929-EF4D42283F2C7B2A",
