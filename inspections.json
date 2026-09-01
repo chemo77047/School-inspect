@@ -1,12 +1,90 @@
 {
-  "generated_at": "2026-09-01T01:03:20+00:00",
+  "generated_at": "2026-09-01T19:01:01+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1601,
-  "grease_trap_count": 823,
-  "record_count": 2424,
+  "inspection_count": 1611,
+  "grease_trap_count": 825,
+  "record_count": 2436,
   "campus_count": 469,
-  "violation_count": 2191,
+  "violation_count": 2199,
   "inspections": [
+    {
+      "inspection_id": "75D8D812-D0E1-3291-B1468198AE925059",
+      "record_type": "inspection",
+      "facility_id": "CB52C1B1-5056-A20F-9E0BA7F62CB572F3",
+      "campus": "YES PREP ELEMENTARY-SOUTHWEST CAMPUS",
+      "address": "5212 ANDERSON RD HOUSTON TX",
+      "zip": "77053",
+      "site": "250007",
+      "date": "2026-08-31",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-512(b)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "74CBDD9A-FBCC-5DF5-C62C6FADAE0723A7",
+      "record_type": "inspection",
+      "facility_id": "CB52C1B1-5056-A20F-9E0BA7F62CB572F3",
+      "campus": "YES PREP ELEMENTARY-SOUTHWEST CAMPUS",
+      "address": "5212 ANDERSON RD HOUSTON TX",
+      "zip": "77053",
+      "site": "Premises",
+      "date": "2026-08-31",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "7320B5BC-0918-9F99-835A2688049988DA",
+      "record_type": "inspection",
+      "facility_id": "519CEFD4-9636-C424-19BB12E95A0E77D5",
+      "campus": "BILLY R. REAGAN EDUCATION CENTER",
+      "address": "4842 ANDERSON HOUSTON TX",
+      "zip": "77053",
+      "site": "PREMISES",
+      "date": "2026-08-31",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-202.12(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "72130559-B6AF-9BBA-1D2E9362C84E2FF9",
+      "record_type": "grease_trap",
+      "facility_id": "519CEFD4-9636-C424-19BB12E95A0E77D5",
+      "campus": "BILLY R. REAGAN EDUCATION CENTER",
+      "address": "4842 ANDERSON HOUSTON TX",
+      "zip": "77053",
+      "site": "FOG 200415",
+      "date": "2026-08-31",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
     {
       "inspection_id": "DA97EAE6-FEF4-D90B-8DD268A8DE2A8D2C",
       "record_type": "grease_trap",
@@ -35,6 +113,26 @@
         {
           "no": 1,
           "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "DA8489BF-E774-FC80-8992D688276BD57C",
+      "record_type": "inspection",
+      "facility_id": "11606",
+      "campus": "HARTMAN MIDDLE SCHOOL",
+      "address": "7111 WESTOVER HOUSTON TX",
+      "zip": "77087",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-08-28",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-203.14(A)",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         }
@@ -84,6 +182,32 @@
       "status": "OPEN",
       "level": "High School",
       "violations": []
+    },
+    {
+      "inspection_id": "A341C7AB-EB61-486C-9A8F6556D40554CC",
+      "record_type": "inspection",
+      "facility_id": "B6BB1063-5056-A20B-FA3BAF45DD2184EF",
+      "campus": "ENERGY INSTITUTE HIGH SCHOOL",
+      "address": "3501 SOUTHMORE BLVD HOUSTON TX",
+      "zip": "77004",
+      "site": "ESTABLISHMENT",
+      "date": "2026-08-27",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": [
+        {
+          "no": 40,
+          "item": "Houston Ordinance Violation: 4-201.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 50,
+          "item": "Houston Ordinance Violation: 6-304.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
     },
     {
       "inspection_id": "A1AF4BB1-F55E-B855-82110D657720EC8D",
@@ -144,6 +268,45 @@
       "violations": []
     },
     {
+      "inspection_id": "6F8F99A1-EB20-27DF-DC8A92D27A4D7246",
+      "record_type": "grease_trap",
+      "facility_id": "12146",
+      "campus": "COLLINS ELEMENTARY SCHOOL",
+      "address": "9829 TOWN PARK HOUSTON TX",
+      "zip": "77036",
+      "site": "FOG 86283",
+      "date": "2026-08-26",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "6F77F70D-E6C8-5503-5FAC98D6F80B980D",
+      "record_type": "inspection",
+      "facility_id": "12146",
+      "campus": "COLLINS ELEMENTARY SCHOOL",
+      "address": "9829 TOWN PARK HOUSTON TX",
+      "zip": "77036",
+      "site": "PREMISES",
+      "date": "2026-08-26",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "6F5BD122-FEE6-27BA-D048C91FB3C05320",
+      "record_type": "inspection",
+      "facility_id": "12146",
+      "campus": "COLLINS ELEMENTARY SCHOOL",
+      "address": "9829 TOWN PARK HOUSTON TX",
+      "zip": "77036",
+      "site": "KITCHEN",
+      "date": "2026-08-26",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
       "inspection_id": "7BBE6FB0-CC5C-ABB6-76D084BB8F81F28F",
       "record_type": "inspection",
       "facility_id": "E7CE90A4-D1AA-518D-0B8DF2CFC36243B3",
@@ -194,6 +357,26 @@
       "status": "OPEN",
       "level": "Middle / Jr. High",
       "violations": []
+    },
+    {
+      "inspection_id": "41586CBA-E27F-D52B-17620731854BFADD",
+      "record_type": "inspection",
+      "facility_id": "54968",
+      "campus": "DANIEL ORTIZ MIDDLE SCHOOL",
+      "address": "6767 TELEPHONE HOUSTON TX",
+      "zip": "77061",
+      "site": "ESTABLISHMENT",
+      "date": "2026-08-25",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 15,
+          "item": "Houston Ordinance Violation: 3-501.16(A)(1)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
     },
     {
       "inspection_id": "3A43A439-B52A-D929-EF4D42283F2C7B2A",
@@ -299,6 +482,32 @@
       "address": "9730 STROUD HOUSTON TX",
       "zip": "77036",
       "site": "FOG 84074",
+      "date": "2026-08-24",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "08953C42-B09D-EC2B-1F1EE1AE7AA5D72F",
+      "record_type": "inspection",
+      "facility_id": "12143",
+      "campus": "BUSH ELEMENTARY",
+      "address": "9730 STROUD HOUSTON TX",
+      "zip": "77036",
+      "site": "Premises",
+      "date": "2026-08-24",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "0880CA12-E78C-4494-7D06A125F307B06F",
+      "record_type": "inspection",
+      "facility_id": "12143",
+      "campus": "BUSH ELEMENTARY",
+      "address": "9730 STROUD HOUSTON TX",
+      "zip": "77036",
+      "site": "Kitchen",
       "date": "2026-08-24",
       "status": "OPEN",
       "level": "Elementary",
