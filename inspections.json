@@ -1,12 +1,94 @@
 {
-  "generated_at": "2026-09-03T23:48:58+00:00",
+  "generated_at": "2026-09-04T18:43:35+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1611,
-  "grease_trap_count": 825,
-  "record_count": 2436,
+  "inspection_count": 1621,
+  "grease_trap_count": 828,
+  "record_count": 2449,
   "campus_count": 469,
-  "violation_count": 2199,
+  "violation_count": 2230,
   "inspections": [
+    {
+      "inspection_id": "DD9D1898-CB8A-00C0-99F0605C6F3D5443",
+      "record_type": "inspection",
+      "facility_id": "320DA966-5056-A20B-FA4A3B7B16925BEA",
+      "campus": "MILBY HIGH SCHOOL",
+      "address": "1601 BROADWAY HOUSTON TX",
+      "zip": "77012",
+      "site": "PREMISES",
+      "date": "2026-09-02",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "DD9CB319-FC64-9B92-31178DE787E0DBED",
+      "record_type": "grease_trap",
+      "facility_id": "320DA966-5056-A20B-FA4A3B7B16925BEA",
+      "campus": "MILBY HIGH SCHOOL",
+      "address": "1601 BROADWAY HOUSTON TX",
+      "zip": "77012",
+      "site": "FOG 205832",
+      "date": "2026-09-02",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "DC5825A0-B2F9-825B-795EEC8C9E71745C",
+      "record_type": "inspection",
+      "facility_id": "320DA966-5056-A20B-FA4A3B7B16925BEA",
+      "campus": "MILBY HIGH SCHOOL",
+      "address": "1601 BROADWAY HOUSTON TX",
+      "zip": "77012",
+      "site": "MAIN KITCHEN",
+      "date": "2026-09-02",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 3-304.12(E)",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 4-501.11(B)",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 5-501.114",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 5,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 6,
+          "item": "Houston Ordinance Violation: 5-501.115",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 7,
+          "item": "Houston Ordinance Violation: 6-201.16(A)",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        }
+      ]
+    },
     {
       "inspection_id": "75D8D812-D0E1-3291-B1468198AE925059",
       "record_type": "inspection",
@@ -39,6 +121,62 @@
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
+    },
+    {
+      "inspection_id": "75EE314B-E404-652C-F6684FFB50C5CD4E",
+      "record_type": "inspection",
+      "facility_id": "CB52C1B1-5056-A20F-9E0BA7F62CB572F3",
+      "campus": "YES PREP ELEMENTARY-SOUTHWEST CAMPUS",
+      "address": "5212 ANDERSON RD HOUSTON TX",
+      "zip": "77053",
+      "site": "ESTABLISHMENT",
+      "date": "2026-08-31",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-501.111(B)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 4-101.19",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 5,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 6,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 7,
+          "item": "Houston Ordinance Violation: 6-501.16",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
     },
     {
       "inspection_id": "7320B5BC-0918-9F99-835A2688049988DA",
@@ -84,6 +222,178 @@
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
+    },
+    {
+      "inspection_id": "724721DC-CE6C-D3CF-0E35F01BB05C091D",
+      "record_type": "inspection",
+      "facility_id": "519CEFD4-9636-C424-19BB12E95A0E77D5",
+      "campus": "BILLY R. REAGAN EDUCATION CENTER",
+      "address": "4842 ANDERSON HOUSTON TX",
+      "zip": "77053",
+      "site": "KITCHEN",
+      "date": "2026-08-31",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: TAC-228.31(E)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 4-501.11(B)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 5,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 6,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 7,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 8,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "DAAA59E4-B382-8E92-2874629F75A53EFB",
+      "record_type": "grease_trap",
+      "facility_id": "11899",
+      "campus": "STOVALL MIDDLE SCHOOL",
+      "address": "11201 AIRLINE HOUSTON TX",
+      "zip": "77037",
+      "site": "FOG 83945",
+      "date": "2026-08-28",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "DAA352A9-F912-547B-C343AC0D0AF8A1FA",
+      "record_type": "inspection",
+      "facility_id": "11899",
+      "campus": "STOVALL MIDDLE SCHOOL",
+      "address": "11201 AIRLINE HOUSTON TX",
+      "zip": "77037",
+      "site": "PREMISES",
+      "date": "2026-08-28",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "DA4BB524-083A-7D28-4BF2CC43D6F2538E",
+      "record_type": "inspection",
+      "facility_id": "11899",
+      "campus": "STOVALL MIDDLE SCHOOL",
+      "address": "11201 AIRLINE HOUSTON TX",
+      "zip": "77037",
+      "site": "KITCHEN",
+      "date": "2026-08-28",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 16,
+          "item": "Houston Ordinance Violation: 3-501.17(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 29,
+          "item": "Houston Ordinance Violation: 4-204.112(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "E70024EE-AC04-67AE-3E37B4F700F0EB22",
+      "record_type": "inspection",
+      "facility_id": "11401",
+      "campus": "HELMS ELEMENTARY",
+      "address": "503 W 21ST ST HOUSTON TX",
+      "zip": "77008",
+      "site": "Premises",
+      "date": "2026-08-28",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "E6EF2210-AAF3-8059-99E4F8F3CE9B6BAF",
+      "record_type": "grease_trap",
+      "facility_id": "11401",
+      "campus": "HELMS ELEMENTARY",
+      "address": "503 W 21ST ST HOUSTON TX",
+      "zip": "77008",
+      "site": "FOG 76252",
+      "date": "2026-08-28",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "E1FB10B8-F6CF-07E4-115DD23349C705BD",
+      "record_type": "inspection",
+      "facility_id": "11401",
+      "campus": "HELMS ELEMENTARY",
+      "address": "503 W 21ST ST HOUSTON TX",
+      "zip": "77008",
+      "site": "Kitchen",
+      "date": "2026-08-28",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 51,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation Corrected On Site",
+          "activity": "Complaint (003)"
+        }
+      ]
     },
     {
       "inspection_id": "DA97EAE6-FEF4-D90B-8DD268A8DE2A8D2C",
@@ -221,6 +531,57 @@
       "status": "OPEN",
       "level": "High School",
       "violations": []
+    },
+    {
+      "inspection_id": "A1B0A167-BC3B-9F0C-30E020B79987AB8B",
+      "record_type": "inspection",
+      "facility_id": "11898",
+      "campus": "ALDINE HIGH SCHOOL",
+      "address": "11101 AIRLINE DR HOUSTON TX",
+      "zip": "77037",
+      "site": "Premises",
+      "date": "2026-08-27",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "A19BC78D-D2A6-1B44-7DBF1C1E506C8242",
+      "record_type": "inspection",
+      "facility_id": "11898",
+      "campus": "ALDINE HIGH SCHOOL",
+      "address": "11101 AIRLINE DR HOUSTON TX",
+      "zip": "77037",
+      "site": "TOTAL SITES",
+      "date": "2026-08-27",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": [
+        {
+          "no": 13,
+          "item": "Houston Ordinance Violation: TAC-228.31(E)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 24,
+          "item": "Houston Ordinance Violation: TAC-228.32",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 50,
+          "item": "Houston Ordinance Violation: 5-501.114",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 51,
+          "item": "Houston Ordinance Violation: COH-20-25(a)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
     },
     {
       "inspection_id": "6F5EFE75-06C0-FE8E-20F476750C4EF8C0",
