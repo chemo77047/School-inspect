@@ -2,6 +2,10 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-09-02,MILBY HIGH SCHOOL,High School,inspection,1601 BROADWAY HOUSTON TX,77012,OPEN,0,
 2026-09-02,MILBY HIGH SCHOOL,High School,grease_trap,1601 BROADWAY HOUSTON TX,77012,OPEN,0,
 2026-09-02,MILBY HIGH SCHOOL,High School,inspection,1601 BROADWAY HOUSTON TX,77012,OPEN,7,1 Houston Ordinance Violation: 3-304.12(E) (Violation) | 2 Houston Ordinance Violation: 4-501.11(B) (Violation) | 3 Houston Ordinance Violation: 4-501.11(A) (Violation) | 4 Houston Ordinance Violation: 5-501.114 (Violation) | 5 Houston Ordinance Violation: 5-501.113 (Violation) | 6 Houston Ordinance Violation: 5-501.115 (Violation) | 7 Houston Ordinance Violation: 6-201.16(A) (Violation)
+2026-09-02,KIPP Sharpstown MS,Middle / Jr. High,inspection,8440 WESTPARK DR HOUSTON TX,77063,OPEN,2,33 Houston Ordinance Violation: 4-501.11(A) (Violation) | 41 Houston Ordinance Violation: 5-501.114 (Violation)
+2026-09-02,KIPP Sharpstown MS,Middle / Jr. High,grease_trap,8440 WESTPARK DR HOUSTON TX,77063,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
+2026-09-01,WALNUT BEND ELEMENTARY,Elementary,grease_trap,10620 BRIAR FOREST HOUSTON TX,77042,OPEN,0,
+2026-09-01,PAUL REVERE MIDDLE SCHOOL,Middle / Jr. High,grease_trap,10502 BRIAR FOREST HOUSTON TX,77042,OPEN,0,
 2026-08-31,YES PREP ELEMENTARY-SOUTHWEST CAMPUS,Elementary,inspection,5212 ANDERSON RD HOUSTON TX,77053,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
 2026-08-31,YES PREP ELEMENTARY-SOUTHWEST CAMPUS,Elementary,inspection,5212 ANDERSON RD HOUSTON TX,77053,OPEN,0,
 2026-08-31,YES PREP ELEMENTARY-SOUTHWEST CAMPUS,Elementary,inspection,5212 ANDERSON RD HOUSTON TX,77053,OPEN,7,1 Houston Ordinance Violation: 6-501.111(B) (Violation) | 2 Houston Ordinance Violation: 4-101.19 (Violation) | 3 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 4 Houston Ordinance Violation: 5-205.15 (Violation) | 5 Houston Ordinance Violation: 5-501.113 (Violation) | 6 Houston Ordinance Violation: 6-501.12(A) (Violation) | 7 Houston Ordinance Violation: 6-501.16 (Violation)

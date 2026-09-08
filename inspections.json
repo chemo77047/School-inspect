@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T19:09:49+00:00",
+  "generated_at": "2026-09-08T23:52:36+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1621,
-  "grease_trap_count": 828,
-  "record_count": 2449,
+  "inspection_count": 1622,
+  "grease_trap_count": 831,
+  "record_count": 2453,
   "campus_count": 469,
-  "violation_count": 2230,
+  "violation_count": 2233,
   "inspections": [
     {
       "inspection_id": "DD9D1898-CB8A-00C0-99F0605C6F3D5443",
@@ -88,6 +88,78 @@
           "activity": "Complaint (003)"
         }
       ]
+    },
+    {
+      "inspection_id": "DAD54E4D-C911-747E-9A80ABC6A73273C5",
+      "record_type": "inspection",
+      "facility_id": "86337DF3-97D2-05B0-ADFE4AAD90A09D3D",
+      "campus": "KIPP Sharpstown MS",
+      "address": "8440 WESTPARK DR HOUSTON TX",
+      "zip": "77063",
+      "site": "Servery (Sharpstown M.S.)",
+      "date": "2026-09-02",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 33,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 41,
+          "item": "Houston Ordinance Violation: 5-501.114",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "DA1E2F83-0DE1-148C-64A84794EA8E13BD",
+      "record_type": "grease_trap",
+      "facility_id": "86337DF3-97D2-05B0-ADFE4AAD90A09D3D",
+      "campus": "KIPP Sharpstown MS",
+      "address": "8440 WESTPARK DR HOUSTON TX",
+      "zip": "77063",
+      "site": "FOG 109338",
+      "date": "2026-09-02",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-512(b)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "A9BB9236-0377-7588-A3C0A561C849C55B",
+      "record_type": "grease_trap",
+      "facility_id": "17BF4359-B3C1-2FB6-9BBD9FB9950A68C9",
+      "campus": "WALNUT BEND ELEMENTARY",
+      "address": "10620 BRIAR FOREST HOUSTON TX",
+      "zip": "77042",
+      "site": "FOG 105186",
+      "date": "2026-09-01",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "A6898F79-D182-EB1E-2D3376FA9810A017",
+      "record_type": "grease_trap",
+      "facility_id": "11434",
+      "campus": "PAUL REVERE MIDDLE SCHOOL",
+      "address": "10502 BRIAR FOREST HOUSTON TX",
+      "zip": "77042",
+      "site": "FOG 75303",
+      "date": "2026-09-01",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
     },
     {
       "inspection_id": "75D8D812-D0E1-3291-B1468198AE925059",
