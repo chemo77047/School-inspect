@@ -1,12 +1,16 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-09-09,FONVILLE MIDDLE,Middle / Jr. High,grease_trap,725 E LITTLE YORK RD HOUSTON TX,77037,OPEN,0,
 2026-09-09,FONVILLE MIDDLE,Middle / Jr. High,inspection,725 E LITTLE YORK RD HOUSTON TX,77037,OPEN,0,
+2026-09-09,FONVILLE MIDDLE,Middle / Jr. High,inspection,725 E LITTLE YORK RD HOUSTON TX,77037,OPEN,0,
 2026-09-08,JANOWSKI ELEMENTARY SCHOOL,Elementary,inspection,7500 BAUMAN HOUSTON TX,77022,OPEN,0,
 2026-09-08,JANOWSKI ELEMENTARY SCHOOL,Elementary,grease_trap,7500 BAUMAN HOUSTON TX,77022,OPEN,0,
+2026-09-08,JANOWSKI ELEMENTARY SCHOOL,Elementary,inspection,7500 BAUMAN HOUSTON TX,77022,OPEN,2,37 Houston Ordinance Violation: 4-501.11(A) (Violation) | 45 Houston Ordinance Violation: 5-501.114 (Violation)
 2026-09-04,DURKEE ELEMENTARY,Elementary,grease_trap,7301 NORDLING HOUSTON TX,77076,OPEN,0,
 2026-09-04,DURKEE ELEMENTARY,Elementary,inspection,7301 NORDLING HOUSTON TX,77076,OPEN,0,
+2026-09-04,DURKEE ELEMENTARY,Elementary,inspection,7301 NORDLING HOUSTON TX,77076,OPEN,1,38 Houston Ordinance Violation: 4-501.11(A) (Violation Repeat)
 2026-09-03,BUSSEY ELEMENTARY,Elementary,grease_trap,11555 AIRLINE DR HOUSTON TX,77037,OPEN,0,
 2026-09-03,BUSSEY ELEMENTARY,Elementary,inspection,11555 AIRLINE DR HOUSTON TX,77037,OPEN,0,
+2026-09-03,BUSSEY ELEMENTARY,Elementary,inspection,11555 AIRLINE DR HOUSTON TX,77037,OPEN,2,16 Houston Ordinance Violation: 3-501.18(A) (Violation Corrected On Site) | 47 Houston Ordinance Violation: 5-501.114 (Violation)
 2026-09-02,MILBY HIGH SCHOOL,High School,inspection,1601 BROADWAY HOUSTON TX,77012,OPEN,0,
 2026-09-02,MILBY HIGH SCHOOL,High School,grease_trap,1601 BROADWAY HOUSTON TX,77012,OPEN,0,
 2026-09-02,MILBY HIGH SCHOOL,High School,inspection,1601 BROADWAY HOUSTON TX,77012,OPEN,7,1 Houston Ordinance Violation: 3-304.12(E) (Violation) | 2 Houston Ordinance Violation: 4-501.11(B) (Violation) | 3 Houston Ordinance Violation: 4-501.11(A) (Violation) | 4 Houston Ordinance Violation: 5-501.114 (Violation) | 5 Houston Ordinance Violation: 5-501.113 (Violation) | 6 Houston Ordinance Violation: 5-501.115 (Violation) | 7 Houston Ordinance Violation: 6-201.16(A) (Violation)

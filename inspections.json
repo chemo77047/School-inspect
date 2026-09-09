@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T18:58:25+00:00",
+  "generated_at": "2026-09-09T23:52:05+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1626,
+  "inspection_count": 1630,
   "grease_trap_count": 835,
-  "record_count": 2461,
+  "record_count": 2465,
   "campus_count": 469,
-  "violation_count": 2233,
+  "violation_count": 2238,
   "inspections": [
     {
       "inspection_id": "3EB96980-C917-75EC-02332DDD3A329630",
@@ -28,6 +28,19 @@
       "address": "725 E LITTLE YORK RD HOUSTON TX",
       "zip": "77037",
       "site": "Premises",
+      "date": "2026-09-09",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "3EA3B6E5-9C14-D743-479EFA086E720626",
+      "record_type": "inspection",
+      "facility_id": "11514",
+      "campus": "FONVILLE MIDDLE",
+      "address": "725 E LITTLE YORK RD HOUSTON TX",
+      "zip": "77037",
+      "site": "Kitchen",
       "date": "2026-09-09",
       "status": "OPEN",
       "level": "Middle / Jr. High",
@@ -60,6 +73,32 @@
       "violations": []
     },
     {
+      "inspection_id": "0A711D52-F4FE-82E0-C4D7C054AF7EE1E0",
+      "record_type": "inspection",
+      "facility_id": "11416",
+      "campus": "JANOWSKI ELEMENTARY SCHOOL",
+      "address": "7500 BAUMAN HOUSTON TX",
+      "zip": "77022",
+      "site": "TOTAL SITES",
+      "date": "2026-09-08",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 37,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 45,
+          "item": "Houston Ordinance Violation: 5-501.114",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
       "inspection_id": "3D012308-CF3C-B6E3-B8B263238244677F",
       "record_type": "grease_trap",
       "facility_id": "11533",
@@ -86,6 +125,26 @@
       "violations": []
     },
     {
+      "inspection_id": "3CE61CAD-F450-F8CF-0F0D08F8EFA50DD3",
+      "record_type": "inspection",
+      "facility_id": "11533",
+      "campus": "DURKEE ELEMENTARY",
+      "address": "7301 NORDLING HOUSTON TX",
+      "zip": "77076",
+      "site": "Total Establishment",
+      "date": "2026-09-04",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 38,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
       "inspection_id": "0992E533-0A5A-6932-6A6926BFB6E27388",
       "record_type": "grease_trap",
       "facility_id": "61132",
@@ -110,6 +169,32 @@
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
+    },
+    {
+      "inspection_id": "097A86DB-B65F-ABF4-3FFCC5EC9B36608B",
+      "record_type": "inspection",
+      "facility_id": "61132",
+      "campus": "BUSSEY ELEMENTARY",
+      "address": "11555 AIRLINE DR HOUSTON TX",
+      "zip": "77037",
+      "site": "TOTAL SITES",
+      "date": "2026-09-03",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 16,
+          "item": "Houston Ordinance Violation: 3-501.18(A)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 47,
+          "item": "Houston Ordinance Violation: 5-501.114",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
     },
     {
       "inspection_id": "DD9D1898-CB8A-00C0-99F0605C6F3D5443",
