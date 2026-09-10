@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-10T18:51:57+00:00",
+  "generated_at": "2026-09-10T23:46:06+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1630,
-  "grease_trap_count": 835,
-  "record_count": 2465,
+  "inspection_count": 1634,
+  "grease_trap_count": 837,
+  "record_count": 2471,
   "campus_count": 469,
   "violation_count": 2238,
   "inspections": [
@@ -44,6 +44,45 @@
       "date": "2026-09-09",
       "status": "OPEN",
       "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "0D1F37D8-CE84-8665-C44F69B85DCF9D40",
+      "record_type": "grease_trap",
+      "facility_id": "2711A651-D15A-59D0-A6A4E3121F103DC3",
+      "campus": "NEFF ELEMENTARY SCHOOL",
+      "address": "8301 NEFF HOUSTON TX",
+      "zip": "77036",
+      "site": "FOG 202211",
+      "date": "2026-09-08",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "0CF979C7-E681-A2A2-0361B47E377FA21A",
+      "record_type": "inspection",
+      "facility_id": "2711A651-D15A-59D0-A6A4E3121F103DC3",
+      "campus": "NEFF ELEMENTARY SCHOOL",
+      "address": "8301 NEFF HOUSTON TX",
+      "zip": "77036",
+      "site": "PREMISES",
+      "date": "2026-09-08",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "0CDEAA05-0210-0CB1-6AF811F5FE44CAA0",
+      "record_type": "inspection",
+      "facility_id": "2711A651-D15A-59D0-A6A4E3121F103DC3",
+      "campus": "NEFF ELEMENTARY SCHOOL",
+      "address": "8301 NEFF HOUSTON TX",
+      "zip": "77036",
+      "site": "ESTABLISHMENT",
+      "date": "2026-09-08",
+      "status": "OPEN",
+      "level": "Elementary",
       "violations": []
     },
     {
@@ -143,6 +182,45 @@
           "activity": "Routine Inspection (001)"
         }
       ]
+    },
+    {
+      "inspection_id": "3FA2AEDC-D6D8-F779-6D6F046021F4DA50",
+      "record_type": "grease_trap",
+      "facility_id": "12121",
+      "campus": "BETTY BEST ELEMENTARY SCHOOL",
+      "address": "10000 CENTRE PKWY HOUSTON TX",
+      "zip": "77036",
+      "site": "FOG 90981",
+      "date": "2026-09-04",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "3F6C01C9-D458-3B5D-907A7DBEDF5DBC0F",
+      "record_type": "inspection",
+      "facility_id": "12121",
+      "campus": "BETTY BEST ELEMENTARY SCHOOL",
+      "address": "10000 CENTRE PKWY HOUSTON TX",
+      "zip": "77036",
+      "site": "Premises",
+      "date": "2026-09-04",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "3F4ACD6D-B157-BC88-76677A3D257D64CA",
+      "record_type": "inspection",
+      "facility_id": "12121",
+      "campus": "BETTY BEST ELEMENTARY SCHOOL",
+      "address": "10000 CENTRE PKWY HOUSTON TX",
+      "zip": "77036",
+      "site": "Kitchen",
+      "date": "2026-09-04",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
     },
     {
       "inspection_id": "0992E533-0A5A-6932-6A6926BFB6E27388",
