@@ -1,12 +1,138 @@
 {
-  "generated_at": "2026-09-10T23:46:06+00:00",
+  "generated_at": "2026-09-11T18:53:26+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1634,
-  "grease_trap_count": 837,
-  "record_count": 2471,
+  "inspection_count": 1638,
+  "grease_trap_count": 839,
+  "record_count": 2477,
   "campus_count": 469,
-  "violation_count": 2238,
+  "violation_count": 2258,
   "inspections": [
+    {
+      "inspection_id": "75A72213-B464-9B21-157CAFA67BAC5AC2",
+      "record_type": "inspection",
+      "facility_id": "5704C41E-FCDF-EBAF-D8B006A4BEFA2AA1",
+      "campus": "PROVISION MIDDLE SCHOOL",
+      "address": "4590 WILMINGTON HOUSTON TX",
+      "zip": "77051",
+      "site": "KITCHEN-Middle School",
+      "date": "2026-09-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: TAC-228.32",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 4-501.11(B)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 5,
+          "item": "Houston Ordinance Violation: 5-202.13",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 6,
+          "item": "Houston Ordinance Violation: 6-202.14",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 7,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 8,
+          "item": "Houston Ordinance Violation: 5-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 9,
+          "item": "Houston Ordinance Violation: 5-501.111",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 10,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 11,
+          "item": "Houston Ordinance Violation: COH-21-244(b)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 12,
+          "item": "Houston Ordinance Violation: 6-304.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "75861F62-DC53-22C3-AB5BC89F6FFC8C8C",
+      "record_type": "grease_trap",
+      "facility_id": "5704C41E-FCDF-EBAF-D8B006A4BEFA2AA1",
+      "campus": "PROVISION MIDDLE SCHOOL",
+      "address": "4590 WILMINGTON HOUSTON TX",
+      "zip": "77051",
+      "site": "FOG 107259",
+      "date": "2026-09-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-522",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "7565F8F5-D852-4793-1E8FD82681FB4DFC",
+      "record_type": "inspection",
+      "facility_id": "5704C41E-FCDF-EBAF-D8B006A4BEFA2AA1",
+      "campus": "PROVISION MIDDLE SCHOOL",
+      "address": "4590 WILMINGTON HOUSTON TX",
+      "zip": "77051",
+      "site": "PREMISES",
+      "date": "2026-09-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
     {
       "inspection_id": "3EB96980-C917-75EC-02332DDD3A329630",
       "record_type": "grease_trap",
@@ -132,6 +258,83 @@
         {
           "no": 45,
           "item": "Houston Ordinance Violation: 5-501.114",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "0EC8BB1B-CADE-81E0-AACFFA216D59BBDC",
+      "record_type": "grease_trap",
+      "facility_id": "B85F9C55-C7CC-93C7-4B5AB9819E7DE136",
+      "campus": "ALMEDA ELEMENTARY",
+      "address": "14226 ALMEDA SCHOOL RD HOUSTON TX",
+      "zip": "77047",
+      "site": "FOG",
+      "date": "2026-09-08",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "0EAAB14E-0870-19C7-4F03F5643DC35B51",
+      "record_type": "inspection",
+      "facility_id": "B85F9C55-C7CC-93C7-4B5AB9819E7DE136",
+      "campus": "ALMEDA ELEMENTARY",
+      "address": "14226 ALMEDA SCHOOL RD HOUSTON TX",
+      "zip": "77047",
+      "site": "KITCHEN",
+      "date": "2026-09-08",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "0E76B4B7-DB5C-BDFD-CBA778CD91D8838A",
+      "record_type": "inspection",
+      "facility_id": "B85F9C55-C7CC-93C7-4B5AB9819E7DE136",
+      "campus": "ALMEDA ELEMENTARY",
+      "address": "14226 ALMEDA SCHOOL RD HOUSTON TX",
+      "zip": "77047",
+      "site": "PREMISES",
+      "date": "2026-09-08",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-202.12(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 5-205.15",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }

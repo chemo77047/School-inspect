@@ -1,4 +1,7 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
+2026-09-10,PROVISION MIDDLE SCHOOL,Middle / Jr. High,inspection,4590 WILMINGTON HOUSTON TX,77051,OPEN,12,1 Houston Ordinance Violation: TAC-228.32 (Violation) | 2 Houston Ordinance Violation: 6-202.15(A) (Violation) | 3 Houston Ordinance Violation: 4-501.11(B) (Violation) | 4 Houston Ordinance Violation: 4-601.11(C) (Violation) | 5 Houston Ordinance Violation: 5-202.13 (Violation) | 6 Houston Ordinance Violation: 6-202.14 (Violation) | 7 Houston Ordinance Violation: 5-501.113 (Violation) | 8 Houston Ordinance Violation: 5-501.11 (Violation) | 9 Houston Ordinance Violation: 5-501.111 (Violation) | 10 Houston Ordinance Violation: 6-501.11 (Violation) | 11 Houston Ordinance Violation: COH-21-244(b) (Violation) | 12 Houston Ordinance Violation: 6-304.11 (Violation)
+2026-09-10,PROVISION MIDDLE SCHOOL,Middle / Jr. High,grease_trap,4590 WILMINGTON HOUSTON TX,77051,OPEN,1,1 Houston Ordinance Violation: COH-47-522 (Violation)
+2026-09-10,PROVISION MIDDLE SCHOOL,Middle / Jr. High,inspection,4590 WILMINGTON HOUSTON TX,77051,OPEN,1,1 Houston Ordinance Violation: 4-402.11(A)(3) (Violation)
 2026-09-09,FONVILLE MIDDLE,Middle / Jr. High,grease_trap,725 E LITTLE YORK RD HOUSTON TX,77037,OPEN,0,
 2026-09-09,FONVILLE MIDDLE,Middle / Jr. High,inspection,725 E LITTLE YORK RD HOUSTON TX,77037,OPEN,0,
 2026-09-09,FONVILLE MIDDLE,Middle / Jr. High,inspection,725 E LITTLE YORK RD HOUSTON TX,77037,OPEN,0,
@@ -8,6 +11,9 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-09-08,JANOWSKI ELEMENTARY SCHOOL,Elementary,inspection,7500 BAUMAN HOUSTON TX,77022,OPEN,0,
 2026-09-08,JANOWSKI ELEMENTARY SCHOOL,Elementary,grease_trap,7500 BAUMAN HOUSTON TX,77022,OPEN,0,
 2026-09-08,JANOWSKI ELEMENTARY SCHOOL,Elementary,inspection,7500 BAUMAN HOUSTON TX,77022,OPEN,2,37 Houston Ordinance Violation: 4-501.11(A) (Violation) | 45 Houston Ordinance Violation: 5-501.114 (Violation)
+2026-09-08,ALMEDA ELEMENTARY,Elementary,grease_trap,14226 ALMEDA SCHOOL RD HOUSTON TX,77047,OPEN,0,
+2026-09-08,ALMEDA ELEMENTARY,Elementary,inspection,14226 ALMEDA SCHOOL RD HOUSTON TX,77047,OPEN,4,1 Houston Ordinance Violation: 6-202.15(A) (Violation) | 2 Houston Ordinance Violation: 5-205.15 (Violation Repeat) | 3 Houston Ordinance Violation: 5-501.113 (Violation) | 4 Houston Ordinance Violation: 6-501.12(A) (Violation)
+2026-09-08,ALMEDA ELEMENTARY,Elementary,inspection,14226 ALMEDA SCHOOL RD HOUSTON TX,77047,OPEN,2,1 Houston Ordinance Violation: 5-202.12(C) (Violation) | 2 Houston Ordinance Violation: 5-205.15 (Violation)
 2026-09-04,DURKEE ELEMENTARY,Elementary,grease_trap,7301 NORDLING HOUSTON TX,77076,OPEN,0,
 2026-09-04,DURKEE ELEMENTARY,Elementary,inspection,7301 NORDLING HOUSTON TX,77076,OPEN,0,
 2026-09-04,DURKEE ELEMENTARY,Elementary,inspection,7301 NORDLING HOUSTON TX,77076,OPEN,1,38 Houston Ordinance Violation: 4-501.11(A) (Violation Repeat)
