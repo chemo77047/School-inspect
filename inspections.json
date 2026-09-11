@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-11T18:53:26+00:00",
+  "generated_at": "2026-09-11T23:55:21+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1638,
+  "inspection_count": 1639,
   "grease_trap_count": 839,
-  "record_count": 2477,
-  "campus_count": 469,
+  "record_count": 2478,
+  "campus_count": 470,
   "violation_count": 2258,
   "inspections": [
     {
@@ -170,6 +170,19 @@
       "date": "2026-09-09",
       "status": "OPEN",
       "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "0FF4D12B-FC82-9F05-4808B03105FF03D1",
+      "record_type": "inspection",
+      "facility_id": "78B035F6-5056-A20F-9E3A0367E8BCC65C",
+      "campus": "THE APPLE TREE ACADEMY",
+      "address": "5308 PALMETTO HOUSTON TX",
+      "zip": "77081",
+      "site": "ESTABLISHMENT",
+      "date": "2026-09-08",
+      "status": "OPEN",
+      "level": "Elementary",
       "violations": []
     },
     {
