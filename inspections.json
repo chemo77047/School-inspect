@@ -1,12 +1,96 @@
 {
-  "generated_at": "2026-09-17T23:57:07+00:00",
+  "generated_at": "2026-09-18T18:45:50+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1639,
-  "grease_trap_count": 839,
-  "record_count": 2478,
+  "inspection_count": 1641,
+  "grease_trap_count": 841,
+  "record_count": 2482,
   "campus_count": 470,
-  "violation_count": 2258,
+  "violation_count": 2263,
   "inspections": [
+    {
+      "inspection_id": "D94B552C-A5B8-1ABA-BA1F74C1E75C9A9E",
+      "record_type": "inspection",
+      "facility_id": "11917",
+      "campus": "HARRIS ACADEMY",
+      "address": "3130 HOLDER FOREST DR HOUSTON TX",
+      "zip": "77088",
+      "site": "TOTAL SITES",
+      "date": "2026-09-17",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-201.17(B)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "D906D6D1-948B-9DC6-811CEF736B69E870",
+      "record_type": "grease_trap",
+      "facility_id": "11917",
+      "campus": "HARRIS ACADEMY",
+      "address": "3130 HOLDER FOREST DR HOUSTON TX",
+      "zip": "77088",
+      "site": "FOG 86686",
+      "date": "2026-09-17",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "A6017977-A1E0-F058-AA8F610C64F6BFC0",
+      "record_type": "inspection",
+      "facility_id": "11904",
+      "campus": "DREW ACADEMY",
+      "address": "1910 W LITTLE YORK RD HOUSTON TX",
+      "zip": "77091",
+      "site": "Total Site",
+      "date": "2026-09-11",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 3-501.17(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 4-501.11(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 5-202.13",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "A51CDA42-E4A1-C49F-DBF9088196307336",
+      "record_type": "grease_trap",
+      "facility_id": "11904",
+      "campus": "DREW ACADEMY",
+      "address": "1910 W LITTLE YORK RD HOUSTON TX",
+      "zip": "77091",
+      "site": "FOG 90295",
+      "date": "2026-09-11",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
     {
       "inspection_id": "75A72213-B464-9B21-157CAFA67BAC5AC2",
       "record_type": "inspection",
