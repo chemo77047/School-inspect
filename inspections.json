@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-09-20T23:53:59+00:00",
+  "generated_at": "2026-09-21T20:14:07+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1641,
-  "grease_trap_count": 841,
-  "record_count": 2482,
+  "inspection_count": 1653,
+  "grease_trap_count": 849,
+  "record_count": 2502,
   "campus_count": 470,
-  "violation_count": 2263,
+  "violation_count": 2290,
   "inspections": [
+    {
+      "inspection_id": "11F9D24B-F302-B72F-AC524D2C9F58F294",
+      "record_type": "inspection",
+      "facility_id": "38DACC17-5056-A20B-FA5C5A17DCC96200",
+      "campus": "YES PREP NORTHLINE",
+      "address": "441 LITTLE YORK RD HOUSTON TX",
+      "zip": "77076",
+      "site": "248595",
+      "date": "2026-09-18",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-512(b)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
     {
       "inspection_id": "D94B552C-A5B8-1ABA-BA1F74C1E75C9A9E",
       "record_type": "inspection",
@@ -39,6 +59,404 @@
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
+    },
+    {
+      "inspection_id": "757C05AC-A5C2-BF2F-9D7AA9FD5B0554CE",
+      "record_type": "inspection",
+      "facility_id": "E9249C71-5056-A20B-FA05C4CEC1EC756E",
+      "campus": "YES PREP EAST END-ELEMENTARY",
+      "address": "8329 LAWNDALE ST HOUSTON TX",
+      "zip": "77012",
+      "site": "249799",
+      "date": "2026-09-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "756E0852-926F-DF0B-B2747DFFE76AA99B",
+      "record_type": "inspection",
+      "facility_id": "E9249C71-5056-A20B-FA05C4CEC1EC756E",
+      "campus": "YES PREP EAST END-ELEMENTARY",
+      "address": "8329 LAWNDALE ST HOUSTON TX",
+      "zip": "77012",
+      "site": "ESTABLISNMENT",
+      "date": "2026-09-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "779CE12F-0F36-FD6F-95DFDF27A0F1B131",
+      "record_type": "inspection",
+      "facility_id": "1FF1C474-5056-A20F-9E0F6F00AE2AC940",
+      "campus": "YES PREP EAST END SECONDARY",
+      "address": "8401 LAWNDALE ST LAWNDALE TX",
+      "zip": "77012",
+      "site": "249839",
+      "date": "2026-09-15",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "77915131-0E82-5570-F3AC05579DCD3812",
+      "record_type": "inspection",
+      "facility_id": "1FF1C474-5056-A20F-9E0F6F00AE2AC940",
+      "campus": "YES PREP EAST END SECONDARY",
+      "address": "8401 LAWNDALE ST LAWNDALE TX",
+      "zip": "77012",
+      "site": "ESTABLISNMENT",
+      "date": "2026-09-15",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "76E943A8-B048-165D-25A636FE7C85FD5C",
+      "record_type": "inspection",
+      "facility_id": "11601",
+      "campus": "PETERSON ELEMENTARY SCHOOL",
+      "address": "14404 WATERLOO HOUSTON TX",
+      "zip": "77045",
+      "site": "KITCHEN",
+      "date": "2026-09-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 33,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 45,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 51,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 5-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 53,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 54,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "769E705A-9AB7-8D8F-6D25DC9DAE6B66DD",
+      "record_type": "grease_trap",
+      "facility_id": "11601",
+      "campus": "PETERSON ELEMENTARY SCHOOL",
+      "address": "14404 WATERLOO HOUSTON TX",
+      "zip": "77045",
+      "site": "FOG 77472",
+      "date": "2026-09-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "76959350-DCBB-3641-DA1F6C6C18F6D95D",
+      "record_type": "inspection",
+      "facility_id": "11601",
+      "campus": "PETERSON ELEMENTARY SCHOOL",
+      "address": "14404 WATERLOO HOUSTON TX",
+      "zip": "77045",
+      "site": "PREMISES",
+      "date": "2026-09-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-202.12(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "74433BA2-CC45-A3FE-7286694F0E78F4F2",
+      "record_type": "grease_trap",
+      "facility_id": "11591",
+      "campus": "BURBANK ELEMENTARY",
+      "address": "216 TIDWELL HOUSTON TX",
+      "zip": "77022",
+      "site": "FOG 77218",
+      "date": "2026-09-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "4493C962-EE65-5D4C-E3E59258BA9B11CF",
+      "record_type": "inspection",
+      "facility_id": "12285",
+      "campus": "CHRISTA MCAULIFFE MIDDLE SCHOOL",
+      "address": "16650 S POST OAK HOUSTON TX",
+      "zip": "77053",
+      "site": "Kitchen",
+      "date": "2026-09-14",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: TAC-228.31(E)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: TAC-228.32",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 5,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 6,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "441FC09D-A4CC-AE35-9D1CAE6185A93657",
+      "record_type": "grease_trap",
+      "facility_id": "12285",
+      "campus": "CHRISTA MCAULIFFE MIDDLE SCHOOL",
+      "address": "16650 S POST OAK HOUSTON TX",
+      "zip": "77053",
+      "site": "FOG 85950",
+      "date": "2026-09-14",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-522",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "44125BC4-D7F6-9253-1052528BED1535FE",
+      "record_type": "inspection",
+      "facility_id": "12285",
+      "campus": "CHRISTA MCAULIFFE MIDDLE SCHOOL",
+      "address": "16650 S POST OAK HOUSTON TX",
+      "zip": "77053",
+      "site": "Premises",
+      "date": "2026-09-14",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-202.12(C)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "45327B47-B0EB-31D7-81C3A4C51C96FD4E",
+      "record_type": "inspection",
+      "facility_id": "11623",
+      "campus": "CARRILLO ELEMENTARY",
+      "address": "960 S WAYSIDE HOUSTON TX",
+      "zip": "77023",
+      "site": "Premises",
+      "date": "2026-09-14",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 5-501.17",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "44BFAC8B-AE42-860A-977D689C9A1CCC24",
+      "record_type": "grease_trap",
+      "facility_id": "11623",
+      "campus": "CARRILLO ELEMENTARY",
+      "address": "960 S WAYSIDE HOUSTON TX",
+      "zip": "77023",
+      "site": "FOG 75789",
+      "date": "2026-09-14",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "44B5662C-E049-BACA-F49FD70F17BA1822",
+      "record_type": "inspection",
+      "facility_id": "11623",
+      "campus": "CARRILLO ELEMENTARY",
+      "address": "960 S WAYSIDE HOUSTON TX",
+      "zip": "77023",
+      "site": "Kitchen",
+      "date": "2026-09-14",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 6-501.114(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "DBB2B4AB-94D7-C1BB-EF90A4183599CE27",
+      "record_type": "grease_trap",
+      "facility_id": "7364FA43-F98C-6B80-C9FBDE15D197E051",
+      "campus": "KIPP North HS/MS/PS",
+      "address": "500 TIDWELL RD HOUSTON TX",
+      "zip": "77022",
+      "site": "FOG 203935",
+      "date": "2026-09-11",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "DBACA3A6-04B1-EE63-C34FA5A22D0DB71E",
+      "record_type": "grease_trap",
+      "facility_id": "7364FA43-F98C-6B80-C9FBDE15D197E051",
+      "campus": "KIPP North HS/MS/PS",
+      "address": "500 TIDWELL RD HOUSTON TX",
+      "zip": "77022",
+      "site": "FOG 203934",
+      "date": "2026-09-11",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "DBA65619-DDDB-70E3-F6FA3856F9AB4093",
+      "record_type": "grease_trap",
+      "facility_id": "7364FA43-F98C-6B80-C9FBDE15D197E051",
+      "campus": "KIPP North HS/MS/PS",
+      "address": "500 TIDWELL RD HOUSTON TX",
+      "zip": "77022",
+      "site": "FOG 200662",
+      "date": "2026-09-11",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "DB918D21-DD25-423C-6594114CA2AD16C2",
+      "record_type": "inspection",
+      "facility_id": "7364FA43-F98C-6B80-C9FBDE15D197E051",
+      "campus": "KIPP North HS/MS/PS",
+      "address": "500 TIDWELL RD HOUSTON TX",
+      "zip": "77022",
+      "site": "Elementary School (KIPP)",
+      "date": "2026-09-11",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 27,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation Repeat",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 40,
+          "item": "Houston Ordinance Violation: 5-202.13",
+          "status": "Violation Repeat",
+          "activity": "Complaint (003)"
+        }
+      ]
     },
     {
       "inspection_id": "A6017977-A1E0-F058-AA8F610C64F6BFC0",
@@ -216,6 +634,19 @@
           "activity": "Routine Inspection (001)"
         }
       ]
+    },
+    {
+      "inspection_id": "719E5DA9-9C19-1831-335A95F6627733B1",
+      "record_type": "grease_trap",
+      "facility_id": "11621",
+      "campus": "HERRERA ELEMENTARY SCHOOL",
+      "address": "525 BENNINGTON HOUSTON TX",
+      "zip": "77022",
+      "site": "FOG 77567",
+      "date": "2026-09-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
     },
     {
       "inspection_id": "3EB96980-C917-75EC-02332DDD3A329630",
