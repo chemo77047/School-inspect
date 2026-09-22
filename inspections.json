@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-21T20:14:07+00:00",
+  "generated_at": "2026-09-22T00:39:02+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1653,
-  "grease_trap_count": 849,
-  "record_count": 2502,
+  "inspection_count": 1654,
+  "grease_trap_count": 850,
+  "record_count": 2504,
   "campus_count": 470,
-  "violation_count": 2290,
+  "violation_count": 2299,
   "inspections": [
     {
       "inspection_id": "11F9D24B-F302-B72F-AC524D2C9F58F294",
@@ -26,6 +26,87 @@
           "activity": "Routine Inspection (001)"
         }
       ]
+    },
+    {
+      "inspection_id": "E203433F-DEDD-76C1-E7C326561CA9D4D7",
+      "record_type": "inspection",
+      "facility_id": "08789484-A345-6CC3-F58BB18727250C3F",
+      "campus": "THE NEIGHBORHOOD SCHOOL OF SOUTHWEST HOUSTON",
+      "address": "10570 WESTPARK DR HOUSTON TX",
+      "zip": "77042",
+      "site": "ESTABLISHMENT",
+      "date": "2026-09-17",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 21,
+          "item": "Houston Ordinance Violation: TAC-228.32",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 35,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 36,
+          "item": "Houston Ordinance Violation: 4-101.19",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 37,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 39,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 44,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 45,
+          "item": "Houston Ordinance Violation: 5-501.114",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 46,
+          "item": "Houston Ordinance Violation: 6-501.16",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 47,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "E1B09E72-A9D4-1236-C3D008660A8FCFDB",
+      "record_type": "grease_trap",
+      "facility_id": "08789484-A345-6CC3-F58BB18727250C3F",
+      "campus": "THE NEIGHBORHOOD SCHOOL OF SOUTHWEST HOUSTON",
+      "address": "10570 WESTPARK DR HOUSTON TX",
+      "zip": "77042",
+      "site": "FOG 245664",
+      "date": "2026-09-17",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
     },
     {
       "inspection_id": "D94B552C-A5B8-1ABA-BA1F74C1E75C9A9E",
