@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-23T00:03:11+00:00",
+  "generated_at": "2026-09-23T19:21:41+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1663,
-  "grease_trap_count": 851,
-  "record_count": 2514,
+  "inspection_count": 1667,
+  "grease_trap_count": 853,
+  "record_count": 2520,
   "campus_count": 470,
   "violation_count": 2314,
   "inspections": [
@@ -243,6 +243,45 @@
       "violations": []
     },
     {
+      "inspection_id": "DEC408C9-B9F5-0B3B-8F1449D68D30D810",
+      "record_type": "inspection",
+      "facility_id": "E469072D-C2CF-4F7E-07827E8EF982D304",
+      "campus": "RUMMEL CREEK ELEMENTARY SCHOOL",
+      "address": "625 BRITTMOORE RD HOUSTON TX",
+      "zip": "77079",
+      "site": "PREMISES",
+      "date": "2026-09-17",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "DDAECEC1-908F-C510-4D15CC74986C2C68",
+      "record_type": "grease_trap",
+      "facility_id": "E469072D-C2CF-4F7E-07827E8EF982D304",
+      "campus": "RUMMEL CREEK ELEMENTARY SCHOOL",
+      "address": "625 BRITTMOORE RD HOUSTON TX",
+      "zip": "77079",
+      "site": "FOG 204255",
+      "date": "2026-09-17",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "DDA3EBFB-BEB5-208F-D6D010C745B5E049",
+      "record_type": "inspection",
+      "facility_id": "E469072D-C2CF-4F7E-07827E8EF982D304",
+      "campus": "RUMMEL CREEK ELEMENTARY SCHOOL",
+      "address": "625 BRITTMOORE RD HOUSTON TX",
+      "zip": "77079",
+      "site": "KITCHEN",
+      "date": "2026-09-17",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
       "inspection_id": "D94B552C-A5B8-1ABA-BA1F74C1E75C9A9E",
       "record_type": "inspection",
       "facility_id": "11917",
@@ -325,6 +364,45 @@
       "date": "2026-09-15",
       "status": "OPEN",
       "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "78D8B2D2-C3E2-8E77-D630C6B9FDA969F1",
+      "record_type": "inspection",
+      "facility_id": "11649",
+      "campus": "THORNWOOD ELEMENTARY SCHOOL",
+      "address": "14400 FERN HOUSTON TX",
+      "zip": "77079",
+      "site": "Premises",
+      "date": "2026-09-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "785CFD8D-A99D-5CC6-E75269FC10BE00AE",
+      "record_type": "grease_trap",
+      "facility_id": "11649",
+      "campus": "THORNWOOD ELEMENTARY SCHOOL",
+      "address": "14400 FERN HOUSTON TX",
+      "zip": "77079",
+      "site": "FOG 79859",
+      "date": "2026-09-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "784EF6CA-F29B-C336-EB70D8838F17933A",
+      "record_type": "inspection",
+      "facility_id": "11649",
+      "campus": "THORNWOOD ELEMENTARY SCHOOL",
+      "address": "14400 FERN HOUSTON TX",
+      "zip": "77079",
+      "site": "Kitchen",
+      "date": "2026-09-15",
+      "status": "OPEN",
+      "level": "Elementary",
       "violations": []
     },
     {

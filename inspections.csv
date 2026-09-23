@@ -7,12 +7,18 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-09-18,YES PREP NORTHLINE,Middle / Jr. High,inspection,441 LITTLE YORK RD HOUSTON TX,77076,OPEN,3,14 Houston Ordinance Violation: 3-501.16(A)(1) (Violation Corrected On Site) | 48 Houston Ordinance Violation: 2-401.11(A) (Violation Corrected On Site) | 50 Houston Ordinance Violation: 2-301.12(C) (Violation Corrected On Site)
 2026-09-17,THE NEIGHBORHOOD SCHOOL OF SOUTHWEST HOUSTON,Elementary,inspection,10570 WESTPARK DR HOUSTON TX,77042,OPEN,9,21 Houston Ordinance Violation: TAC-228.32 (Violation) | 35 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 36 Houston Ordinance Violation: 4-101.19 (Violation) | 37 Houston Ordinance Violation: 4-501.11(A) (Violation) | 39 Houston Ordinance Violation: 4-601.11(C) (Violation) | 44 Houston Ordinance Violation: 5-501.113 (Violation) | 45 Houston Ordinance Violation: 5-501.114 (Violation) | 46 Houston Ordinance Violation: 6-501.16 (Violation) | 47 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-09-17,THE NEIGHBORHOOD SCHOOL OF SOUTHWEST HOUSTON,Elementary,grease_trap,10570 WESTPARK DR HOUSTON TX,77042,OPEN,0,
+2026-09-17,RUMMEL CREEK ELEMENTARY SCHOOL,Elementary,inspection,625 BRITTMOORE RD HOUSTON TX,77079,OPEN,0,
+2026-09-17,RUMMEL CREEK ELEMENTARY SCHOOL,Elementary,grease_trap,625 BRITTMOORE RD HOUSTON TX,77079,OPEN,0,
+2026-09-17,RUMMEL CREEK ELEMENTARY SCHOOL,Elementary,inspection,625 BRITTMOORE RD HOUSTON TX,77079,OPEN,0,
 2026-09-17,HARRIS ACADEMY,Elementary,inspection,3130 HOLDER FOREST DR HOUSTON TX,77088,OPEN,1,1 Houston Ordinance Violation: 6-201.17(B) (Violation)
 2026-09-17,HARRIS ACADEMY,Elementary,grease_trap,3130 HOLDER FOREST DR HOUSTON TX,77088,OPEN,0,
 2026-09-15,YES PREP EAST END-ELEMENTARY,Elementary,inspection,8329 LAWNDALE ST HOUSTON TX,77012,OPEN,0,
 2026-09-15,YES PREP EAST END-ELEMENTARY,Elementary,inspection,8329 LAWNDALE ST HOUSTON TX,77012,OPEN,0,
 2026-09-15,YES PREP EAST END SECONDARY,Middle / Jr. High,inspection,8401 LAWNDALE ST LAWNDALE TX,77012,OPEN,0,
 2026-09-15,YES PREP EAST END SECONDARY,Middle / Jr. High,inspection,8401 LAWNDALE ST LAWNDALE TX,77012,OPEN,0,
+2026-09-15,THORNWOOD ELEMENTARY SCHOOL,Elementary,inspection,14400 FERN HOUSTON TX,77079,OPEN,0,
+2026-09-15,THORNWOOD ELEMENTARY SCHOOL,Elementary,grease_trap,14400 FERN HOUSTON TX,77079,OPEN,0,
+2026-09-15,THORNWOOD ELEMENTARY SCHOOL,Elementary,inspection,14400 FERN HOUSTON TX,77079,OPEN,0,
 2026-09-15,PETERSON ELEMENTARY SCHOOL,Elementary,inspection,14404 WATERLOO HOUSTON TX,77045,OPEN,6,33 Houston Ordinance Violation: 6-202.15(A) (Violation) | 45 Houston Ordinance Violation: 4-601.11(C) (Violation) | 51 Houston Ordinance Violation: 5-501.113 (Violation) | 52 Houston Ordinance Violation: 5-501.11 (Violation) | 53 Houston Ordinance Violation: 6-501.12(A) (Violation Corrected On Site) | 54 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-09-15,PETERSON ELEMENTARY SCHOOL,Elementary,grease_trap,14404 WATERLOO HOUSTON TX,77045,OPEN,0,
 2026-09-15,PETERSON ELEMENTARY SCHOOL,Elementary,inspection,14404 WATERLOO HOUSTON TX,77045,OPEN,4,1 Houston Ordinance Violation: 5-202.12(C) (Violation) | 2 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 3 Houston Ordinance Violation: 5-205.15 (Violation) | 4 Houston Ordinance Violation: 6-501.11 (Violation)
