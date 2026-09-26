@@ -1,5 +1,34 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
+2026-09-25,DEBAKEY HIGH SCHOOL FOR HEALTH PROFESSIONS,High School,inspection,2545 PRESSLER DR HOUSTON TX,77030,OPEN,1,1 Houston Ordinance Violation: 6-202.15(A) (Violation)
+2026-09-25,DEBAKEY HIGH SCHOOL FOR HEALTH PROFESSIONS,High School,grease_trap,2545 PRESSLER DR HOUSTON TX,77030,OPEN,0,
+2026-09-24,MACGREGOR ELEMENTARY,Elementary,inspection,4801 LA BRANCH HOUSTON TX,77004,OPEN,1,1 Houston Ordinance Violation: 6-304.11 (Violation)
+2026-09-24,MACGREGOR ELEMENTARY,Elementary,inspection,4801 LA BRANCH HOUSTON TX,77004,OPEN,7,31 Houston Ordinance Violation: 6-202.15(A) (Violation) | 41 Houston Ordinance Violation: 4-402.11(A)(3) (Violation Repeat) | 44 Houston Ordinance Violation: 2-501.11 (Violation) | 48 Houston Ordinance Violation: 6-501.19 (Violation Repeat) | 50 Houston Ordinance Violation: 6-201.13(A) (Violation Repeat) | 51 Houston Ordinance Violation: 6-501.11 (Violation Repeat) | 52 Houston Ordinance Violation: 6-501.12(A) (Violation)
+2026-09-24,MACGREGOR ELEMENTARY,Elementary,grease_trap,4801 LA BRANCH HOUSTON TX,77004,OPEN,0,
+2026-09-24,E.M. YOUNG ELEMENTARY,Elementary,inspection,3555 BELLFORT HOUSTON TX,77051,OPEN,2,3 Houston Ordinance Violation: 5-202.12(C) (Violation) | 48 Houston Ordinance Violation: 5-205.15 (Violation Repeat)
+2026-09-24,E.M. YOUNG ELEMENTARY,Elementary,inspection,3555 BELLFORT HOUSTON TX,77051,OPEN,4,48 Houston Ordinance Violation: 5-203.13(A) (Violation) | 52 Houston Ordinance Violation: 5-501.113 (Violation) | 53 Houston Ordinance Violation: 6-501.16 (Violation) | 54 Houston Ordinance Violation: 6-501.12(A) (Violation)
+2026-09-24,E.M. YOUNG ELEMENTARY,Elementary,grease_trap,3555 BELLFORT HOUSTON TX,77051,OPEN,0,
+2026-09-24,ATTUCKS MIDDLE SCHOOL,Middle / Jr. High,grease_trap,4330 BELLFORT HOUSTON TX,77051,OPEN,0,
+2026-09-24,ATTUCKS MIDDLE SCHOOL,Middle / Jr. High,inspection,4330 BELLFORT HOUSTON TX,77051,OPEN,5,33 Houston Ordinance Violation: 6-501.111(B) (Violation) | 34 Houston Ordinance Violation: 6-202.15(A) (Violation) | 46 Houston Ordinance Violation: 4-601.11(C) (Violation) | 49 Houston Ordinance Violation: 5-205.15 (Violation Repeat) | 52 Houston Ordinance Violation: 5-501.113 (Violation)
+2026-09-24,ATTUCKS MIDDLE SCHOOL,Middle / Jr. High,inspection,4330 BELLFORT HOUSTON TX,77051,OPEN,2,1 Houston Ordinance Violation: 5-202.12(C) (Violation Repeat) | 2 Houston Ordinance Violation: 5-205.15 (Violation Repeat)
+2026-09-23,WORTHING HIGH SCHOOL-NUTRITION SERVICES,High School,inspection,9215 SCOTT ST HOUSTON TX,77051,OPEN,3,1 Houston Ordinance Violation: 5-202.12(A) (Violation) | 2 Houston Ordinance Violation: 5-205.15 (Violation) | 3 Houston Ordinance Violation: 6-501.11 (Violation)
+2026-09-23,WORTHING HIGH SCHOOL-NUTRITION SERVICES,High School,grease_trap,9215 SCOTT ST HOUSTON TX,77051,OPEN,0,
+2026-09-23,WORTHING HIGH SCHOOL-NUTRITION SERVICES,High School,inspection,9215 SCOTT ST HOUSTON TX,77051,OPEN,3,1 Houston Ordinance Violation: 5-202.12(C) (Violation) | 2 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 3 Houston Ordinance Violation: 5-205.15 (Violation Repeat)
+2026-09-23,PARK PLACE ELEMENTARY,Elementary,grease_trap,8235 PARK PLACE HOUSTON TX,77017,OPEN,0,
+2026-09-23,PARK PLACE ELEMENTARY,Elementary,inspection,8235 PARK PLACE HOUSTON TX,77017,OPEN,2,1 Houston Ordinance Violation: 6-202.15(A) (Violation Repeat) | 2 Houston Ordinance Violation: 6-501.19 (Violation)
+2026-09-23,PARK PLACE ELEMENTARY,Elementary,inspection,8235 PARK PLACE HOUSTON TX,77017,OPEN,3,1 Houston Ordinance Violation: TAC-228.31(E) (Violation) | 2 Houston Ordinance Violation: 4-501.11(A) (Violation) | 3 Houston Ordinance Violation: 5-205.15 (Violation)
+2026-09-23,LOCKHART TURNER ELEMENTARY,Elementary,inspection,3200 ROSEDALE HOUSTON TX,77004,OPEN,1,52 Houston Ordinance Violation: 6-501.12(A) (Violation Repeat)
+2026-09-23,LOCKHART TURNER ELEMENTARY,Elementary,inspection,3200 ROSEDALE HOUSTON TX,77004,OPEN,1,1 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
+2026-09-23,LOCKHART TURNER ELEMENTARY,Elementary,grease_trap,3200 ROSEDALE HOUSTON TX,77004,OPEN,0,
+2026-09-23,J.R. REYNOLDS ELEMENTARY SCHOOL,Elementary,inspection,9601 ROSEHAVEN DR HOUSTON TX,77051,OPEN,3,43 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 48 Houston Ordinance Violation: 5-205.15 (Violation Repeat) | 52 Houston Ordinance Violation: 6-501.11 (Violation)
+2026-09-23,J.R. REYNOLDS ELEMENTARY SCHOOL,Elementary,inspection,9601 ROSEHAVEN DR HOUSTON TX,77051,OPEN,2,1 Houston Ordinance Violation: 5-202.12(C) (Violation) | 2 Houston Ordinance Violation: 5-205.15 (Violation)
+2026-09-23,J.R. REYNOLDS ELEMENTARY SCHOOL,Elementary,grease_trap,9601 ROSEHAVEN DR HOUSTON TX,77051,OPEN,0,
+2026-09-22,ROBERTS ELEMENTARY,Elementary,inspection,6000 GREENBRIAR HOUSTON TX,77030,OPEN,1,1 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
+2026-09-22,ROBERTS ELEMENTARY,Elementary,inspection,6000 GREENBRIAR HOUSTON TX,77030,OPEN,2,30 Houston Ordinance Violation: 6-202.15(A) (Violation Repeat) | 49 Houston Ordinance Violation: 6-501.11 (Violation)
+2026-09-22,ROBERTS ELEMENTARY,Elementary,grease_trap,6000 GREENBRIAR HOUSTON TX,77030,OPEN,0,
 2026-09-22,POE ELEMENTARY,Elementary,inspection,5100 HAZARD HOUSTON TX,77098,OPEN,3,1 Houston Ordinance Violation: 5-501.115 (Violation Repeat) | 2 Houston Ordinance Violation: 6-501.11 (Violation) | 3 Houston Ordinance Violation: 6-501.11 (Violation)
+2026-09-21,DEZAVALA ELEMENTARY,Middle / Jr. High,grease_trap,7521 AVENUE H HOUSTON TX,77012,OPEN,0,
+2026-09-21,DEZAVALA ELEMENTARY,Middle / Jr. High,inspection,7521 AVENUE H HOUSTON TX,77012,OPEN,0,
+2026-09-21,DEZAVALA ELEMENTARY,Middle / Jr. High,inspection,7521 AVENUE H HOUSTON TX,77012,OPEN,1,1 Houston Ordinance Violation: 6-202.14 (Violation)
 2026-09-21,BEAR BRANCH ELEMENTARY,Elementary,inspection,3500 GARDEN LAKE KINGWOOD TX,77339,OPEN,5,13 Houston Ordinance Violation: TAC-228.31(a) (Violation) | 44 Houston Ordinance Violation: 4-302.14 (Violation) | 45 Houston Ordinance Violation: 4-601.11(C) (Violation Repeat) | 48 Houston Ordinance Violation: 5-205.15 (Violation) | 52 Houston Ordinance Violation: 6-201.17(B) (Violation)
 2026-09-21,BEAR BRANCH ELEMENTARY,Elementary,grease_trap,3500 GARDEN LAKE KINGWOOD TX,77339,OPEN,0,
 2026-09-18,YES PREP NORTHLINE,Middle / Jr. High,inspection,441 LITTLE YORK RD HOUSTON TX,77076,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
