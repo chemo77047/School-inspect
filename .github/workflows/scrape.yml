@@ -4,11 +4,13 @@ on:
   schedule:
     # GitHub cron is UTC and ignores daylight saving, so all four candidate hours are
     # listed and the "gate" job below drops the two that are wrong for the current
-    # offset. Net effect: exactly two runs a day, 11:00 and 17:00 Central, year round.
-    - cron: "0 16 * * *"   # 11:00 CDT
-    - cron: "0 17 * * *"   # 11:00 CST
-    - cron: "0 22 * * *"   # 17:00 CDT
-    - cron: "0 23 * * *"   # 17:00 CST
+    # offset. Net effect: exactly two runs a day, 10:00 and 16:00 Central, year round.
+    # An hour earlier than the 11:00/17:00 the data is wanted by, because GitHub's
+    # shared scheduler starts these runs 1-3 hours late.
+    - cron: "0 15 * * *"   # 10:00 CDT
+    - cron: "0 16 * * *"   # 10:00 CST
+    - cron: "0 21 * * *"   # 16:00 CDT
+    - cron: "0 22 * * *"   # 16:00 CST
   workflow_dispatch:
     inputs:
       days:
@@ -37,9 +39,9 @@ jobs:
           # GitHub starts scheduled runs late, sometimes by hours, and a clock check
           # would skip every delayed run.
           if [ "$(TZ=America/Chicago date +%z)" = "-0500" ]; then
-            morning="0 16 * * *"; evening="0 22 * * *"   # CDT
+            morning="0 15 * * *"; evening="0 21 * * *"   # CDT
           else
-            morning="0 17 * * *"; evening="0 23 * * *"   # CST
+            morning="0 16 * * *"; evening="0 22 * * *"   # CST
           fi
           if [ "$EVENT" != "schedule" ] || [ "$SCHEDULE" = "$morning" ] \
              || [ "$SCHEDULE" = "$evening" ]; then
