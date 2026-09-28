@@ -14,9 +14,10 @@ https://raw.githubusercontent.com/chemo77047/School-inspect/main/inspections.jso
 
 ## How it updates
 
-`.github/workflows/scrape.yml` runs at 11:00 and 17:00 America/Chicago and commits the
-result when anything changed. GitHub often starts scheduled runs late — by minutes,
-occasionally by hours — so treat those times as "twice a day", not as a guarantee.
+`.github/workflows/scrape.yml` is scheduled for 10:00 and 16:00 America/Chicago and
+commits the result when anything changed. GitHub starts scheduled runs late — observed
+delays on this repo run 1-3 hours — so the crons sit an hour ahead of the 11:00/17:00
+the data is actually wanted by, and the times are still "twice a day", not a guarantee.
 
 Each run re-scrapes the **last 14 days**, not just today, because the health department
 enters inspections several days late. Records are keyed on
