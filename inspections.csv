@@ -1,6 +1,7 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-09-25,DEBAKEY HIGH SCHOOL FOR HEALTH PROFESSIONS,High School,inspection,2545 PRESSLER DR HOUSTON TX,77030,OPEN,1,1 Houston Ordinance Violation: 6-202.15(A) (Violation)
 2026-09-25,DEBAKEY HIGH SCHOOL FOR HEALTH PROFESSIONS,High School,grease_trap,2545 PRESSLER DR HOUSTON TX,77030,OPEN,0,
+2026-09-25,DEBAKEY HIGH SCHOOL FOR HEALTH PROFESSIONS,High School,inspection,2545 PRESSLER DR HOUSTON TX,77030,OPEN,1,41 Houston Ordinance Violation: 4-402.12(E) (Violation)
 2026-09-24,MACGREGOR ELEMENTARY,Elementary,inspection,4801 LA BRANCH HOUSTON TX,77004,OPEN,1,1 Houston Ordinance Violation: 6-304.11 (Violation)
 2026-09-24,MACGREGOR ELEMENTARY,Elementary,inspection,4801 LA BRANCH HOUSTON TX,77004,OPEN,7,31 Houston Ordinance Violation: 6-202.15(A) (Violation) | 41 Houston Ordinance Violation: 4-402.11(A)(3) (Violation Repeat) | 44 Houston Ordinance Violation: 2-501.11 (Violation) | 48 Houston Ordinance Violation: 6-501.19 (Violation Repeat) | 50 Houston Ordinance Violation: 6-201.13(A) (Violation Repeat) | 51 Houston Ordinance Violation: 6-501.11 (Violation Repeat) | 52 Houston Ordinance Violation: 6-501.12(A) (Violation)
 2026-09-24,MACGREGOR ELEMENTARY,Elementary,grease_trap,4801 LA BRANCH HOUSTON TX,77004,OPEN,0,
@@ -26,6 +27,12 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-09-22,ROBERTS ELEMENTARY,Elementary,inspection,6000 GREENBRIAR HOUSTON TX,77030,OPEN,2,30 Houston Ordinance Violation: 6-202.15(A) (Violation Repeat) | 49 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-09-22,ROBERTS ELEMENTARY,Elementary,grease_trap,6000 GREENBRIAR HOUSTON TX,77030,OPEN,0,
 2026-09-22,POE ELEMENTARY,Elementary,inspection,5100 HAZARD HOUSTON TX,77098,OPEN,3,1 Houston Ordinance Violation: 5-501.115 (Violation Repeat) | 2 Houston Ordinance Violation: 6-501.11 (Violation) | 3 Houston Ordinance Violation: 6-501.11 (Violation)
+2026-09-22,GLADYS BIRDWELL-HORN ELEMENTARY SCHOOL,Elementary,inspection,10734 BISSONNET ST HOUSTON TX,77099,OPEN,0,
+2026-09-22,GLADYS BIRDWELL-HORN ELEMENTARY SCHOOL,Elementary,grease_trap,10734 BISSONNET ST HOUSTON TX,77099,OPEN,0,
+2026-09-22,GLADYS BIRDWELL-HORN ELEMENTARY SCHOOL,Elementary,inspection,10734 BISSONNET ST HOUSTON TX,77099,OPEN,1,1 Houston Ordinance Violation: 4-101.11(D) (Violation Corrected On Site)
+2026-09-22,BOONE ELEMENTARY SCHOOL,Elementary,inspection,11400 BISSONNET HOUSTON TX,77099,OPEN,0,
+2026-09-22,BOONE ELEMENTARY SCHOOL,Elementary,inspection,11400 BISSONNET HOUSTON TX,77099,OPEN,1,1 Houston Ordinance Violation: 4-903.11(B) (Violation Corrected On Site)
+2026-09-22,BOONE ELEMENTARY SCHOOL,Elementary,grease_trap,11400 BISSONNET HOUSTON TX,77099,OPEN,0,
 2026-09-21,DEZAVALA ELEMENTARY,Middle / Jr. High,grease_trap,7521 AVENUE H HOUSTON TX,77012,OPEN,0,
 2026-09-21,DEZAVALA ELEMENTARY,Middle / Jr. High,inspection,7521 AVENUE H HOUSTON TX,77012,OPEN,0,
 2026-09-21,DEZAVALA ELEMENTARY,Middle / Jr. High,inspection,7521 AVENUE H HOUSTON TX,77012,OPEN,1,1 Houston Ordinance Violation: 6-202.14 (Violation)

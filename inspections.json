@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T00:20:43+00:00",
+  "generated_at": "2026-09-29T00:56:04+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1686,
-  "grease_trap_count": 863,
-  "record_count": 2549,
+  "inspection_count": 1691,
+  "grease_trap_count": 865,
+  "record_count": 2556,
   "campus_count": 470,
-  "violation_count": 2358,
+  "violation_count": 2361,
   "inspections": [
     {
       "inspection_id": "78326B11-EAD0-11E2-61D584FDB03AD818",
@@ -39,6 +39,26 @@
       "status": "OPEN",
       "level": "High School",
       "violations": []
+    },
+    {
+      "inspection_id": "784822D7-F950-F80A-84EF60FEA9B88626",
+      "record_type": "inspection",
+      "facility_id": "011B68A6-5056-A20B-FAF040281B4BF382",
+      "campus": "DEBAKEY HIGH SCHOOL FOR HEALTH PROFESSIONS",
+      "address": "2545 PRESSLER DR HOUSTON TX",
+      "zip": "77030",
+      "site": "ESTABLISHMENT",
+      "date": "2026-09-25",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": [
+        {
+          "no": 41,
+          "item": "Houston Ordinance Violation: 4-402.12(E)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
     },
     {
       "inspection_id": "4548C166-94C2-EC8A-47112C52F3CF9E06",
@@ -651,6 +671,98 @@
           "activity": "Routine Inspection (001)"
         }
       ]
+    },
+    {
+      "inspection_id": "E22AAE58-C7BC-01D4-33583AA65BC0CC57",
+      "record_type": "inspection",
+      "facility_id": "71823",
+      "campus": "GLADYS BIRDWELL-HORN ELEMENTARY SCHOOL",
+      "address": "10734 BISSONNET ST HOUSTON TX",
+      "zip": "77099",
+      "site": "Premises",
+      "date": "2026-09-22",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "E0F3DD89-F4C7-C8A7-6C8E1D06FBD874BF",
+      "record_type": "grease_trap",
+      "facility_id": "71823",
+      "campus": "GLADYS BIRDWELL-HORN ELEMENTARY SCHOOL",
+      "address": "10734 BISSONNET ST HOUSTON TX",
+      "zip": "77099",
+      "site": "FOG 90010",
+      "date": "2026-09-22",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "E0F35415-0F90-3723-288899163EA7AE4C",
+      "record_type": "inspection",
+      "facility_id": "71823",
+      "campus": "GLADYS BIRDWELL-HORN ELEMENTARY SCHOOL",
+      "address": "10734 BISSONNET ST HOUSTON TX",
+      "zip": "77099",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-09-22",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 4-101.11(D)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "DEE8CB98-9B71-B54A-6F0578462EB56056",
+      "record_type": "inspection",
+      "facility_id": "12116",
+      "campus": "BOONE ELEMENTARY SCHOOL",
+      "address": "11400 BISSONNET HOUSTON TX",
+      "zip": "77099",
+      "site": "Premises",
+      "date": "2026-09-22",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "DDC44A46-BC10-8F92-F8C6A2A1CA3BB05F",
+      "record_type": "inspection",
+      "facility_id": "12116",
+      "campus": "BOONE ELEMENTARY SCHOOL",
+      "address": "11400 BISSONNET HOUSTON TX",
+      "zip": "77099",
+      "site": "Kitchen",
+      "date": "2026-09-22",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 4-903.11(B)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "DDC37D86-BA2A-1842-59D7BDD2DF13503E",
+      "record_type": "grease_trap",
+      "facility_id": "12116",
+      "campus": "BOONE ELEMENTARY SCHOOL",
+      "address": "11400 BISSONNET HOUSTON TX",
+      "zip": "77099",
+      "site": "FOG 75509",
+      "date": "2026-09-22",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
     },
     {
       "inspection_id": "AA12509D-D823-AB27-538C30523975BB52",
