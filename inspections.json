@@ -1,12 +1,102 @@
 {
-  "generated_at": "2026-09-30T00:13:43+00:00",
+  "generated_at": "2026-09-30T19:58:16+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1698,
-  "grease_trap_count": 871,
-  "record_count": 2569,
+  "inspection_count": 1700,
+  "grease_trap_count": 873,
+  "record_count": 2573,
   "campus_count": 470,
-  "violation_count": 2376,
+  "violation_count": 2382,
   "inspections": [
+    {
+      "inspection_id": "7A5C3288-BADD-8CF3-432870349AE8941C",
+      "record_type": "grease_trap",
+      "facility_id": "11398",
+      "campus": "LOVE ELEMENTARY",
+      "address": "1120 W 13TH HOUSTON TX",
+      "zip": "77008",
+      "site": "FOG 78861",
+      "date": "2026-09-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "7A56EC14-E59B-5C8C-447022810B0B7695",
+      "record_type": "inspection",
+      "facility_id": "11398",
+      "campus": "LOVE ELEMENTARY",
+      "address": "1120 W 13TH HOUSTON TX",
+      "zip": "77008",
+      "site": "Kitchen",
+      "date": "2026-09-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 29,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 39,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 44,
+          "item": "Houston Ordinance Violation: 6-501.18",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 45,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "80D25006-0AA0-60AB-90F2EE4841D49C55",
+      "record_type": "grease_trap",
+      "facility_id": "11399",
+      "campus": "FIELD ELEMENTARY",
+      "address": "703 E 17TH HOUSTON TX",
+      "zip": "77008",
+      "site": "FOG 79918",
+      "date": "2026-09-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "80C2F932-A742-5569-39ED5C5A5FDE6BE2",
+      "record_type": "inspection",
+      "facility_id": "11399",
+      "campus": "FIELD ELEMENTARY",
+      "address": "703 E 17TH HOUSTON TX",
+      "zip": "77008",
+      "site": "Kitchen",
+      "date": "2026-09-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 46,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 47,
+          "item": "Houston Ordinance Violation: 6-201.17(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
     {
       "inspection_id": "46358526-AAEB-6795-96848D7BBE69E0E3",
       "record_type": "grease_trap",

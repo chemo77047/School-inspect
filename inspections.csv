@@ -1,4 +1,8 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
+2026-09-30,LOVE ELEMENTARY,Elementary,grease_trap,1120 W 13TH HOUSTON TX,77008,OPEN,0,
+2026-09-30,LOVE ELEMENTARY,Elementary,inspection,1120 W 13TH HOUSTON TX,77008,OPEN,4,29 Houston Ordinance Violation: 6-202.15(A) (Violation) | 39 Houston Ordinance Violation: 4-601.11(C) (Violation) | 44 Houston Ordinance Violation: 6-501.18 (Violation) | 45 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
+2026-09-30,FIELD ELEMENTARY,Elementary,grease_trap,703 E 17TH HOUSTON TX,77008,OPEN,0,
+2026-09-30,FIELD ELEMENTARY,Elementary,inspection,703 E 17TH HOUSTON TX,77008,OPEN,2,46 Houston Ordinance Violation: 6-501.11 (Violation Repeat) | 47 Houston Ordinance Violation: 6-201.17(A) (Violation Repeat)
 2026-09-29,SCARBOROUGH ELEMENTARY SCHOOL,Elementary,grease_trap,3030 TRENTON RD HOUSTON TX,77093,OPEN,0,
 2026-09-29,SCARBOROUGH ELEMENTARY SCHOOL,Elementary,inspection,3030 TRENTON RD HOUSTON TX,77093,OPEN,0,
 2026-09-25,R.P. HARRIS ELEMENTARY,Elementary,grease_trap,1262 MAE RD HOUSTON TX,77015,OPEN,0,
