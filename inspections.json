@@ -1,12 +1,195 @@
 {
-  "generated_at": "2026-10-01T00:29:44+00:00",
+  "generated_at": "2026-10-01T20:21:16+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1700,
-  "grease_trap_count": 873,
-  "record_count": 2573,
+  "inspection_count": 1719,
+  "grease_trap_count": 890,
+  "record_count": 2609,
   "campus_count": 470,
-  "violation_count": 2382,
+  "violation_count": 2399,
   "inspections": [
+    {
+      "inspection_id": "AD589926-A0C6-27C6-6F319B1D1AE0B83A",
+      "record_type": "grease_trap",
+      "facility_id": "11568",
+      "campus": "JEFFERSON ELEMENTARY",
+      "address": "5000 SHARMAN HOUSTON TX",
+      "zip": "77009",
+      "site": "FOG 77375",
+      "date": "2026-10-01",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "AB78C311-B3AB-D3EE-1D85CE3AEDAE8ED0",
+      "record_type": "inspection",
+      "facility_id": "11610",
+      "campus": "BARRICK ELEMENTARY",
+      "address": "12001 WINFREY HOUSTON TX",
+      "zip": "77076",
+      "site": "PREMISES",
+      "date": "2026-10-01",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-301.12(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "AB6638F7-A79C-880D-E16D36F9D70C4E0F",
+      "record_type": "grease_trap",
+      "facility_id": "11610",
+      "campus": "BARRICK ELEMENTARY",
+      "address": "12001 WINFREY HOUSTON TX",
+      "zip": "77076",
+      "site": "FOG 77182",
+      "date": "2026-10-01",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "7A8C0528-FB03-BA05-B55D93201E90982C",
+      "record_type": "grease_trap",
+      "facility_id": "11468",
+      "campus": "WESLEY ELEMENTARY SCHOOL",
+      "address": "800 DILLARD HOUSTON TX",
+      "zip": "77091",
+      "site": "FOG 76624",
+      "date": "2026-09-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-522",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "7A4EAA0C-A961-E8A6-8DA7B3132F1C510C",
+      "record_type": "grease_trap",
+      "facility_id": "11468",
+      "campus": "WESLEY ELEMENTARY SCHOOL",
+      "address": "800 DILLARD HOUSTON TX",
+      "zip": "77091",
+      "site": "FOG 76624",
+      "date": "2026-09-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "79CC40BA-C724-8C69-82837DB1174E6295",
+      "record_type": "inspection",
+      "facility_id": "11468",
+      "campus": "WESLEY ELEMENTARY SCHOOL",
+      "address": "800 DILLARD HOUSTON TX",
+      "zip": "77091",
+      "site": "Kitchen",
+      "date": "2026-09-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 33,
+          "item": "Houston Ordinance Violation: 3-305.11(B)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 51,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "79A0F83F-E1D8-6D06-C908B9A4AE7689CA",
+      "record_type": "inspection",
+      "facility_id": "11468",
+      "campus": "WESLEY ELEMENTARY SCHOOL",
+      "address": "800 DILLARD HOUSTON TX",
+      "zip": "77091",
+      "site": "Premises",
+      "date": "2026-09-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "7806226C-F32D-E2EE-3332EA6BF00BBA6A",
+      "record_type": "grease_trap",
+      "facility_id": "11500",
+      "campus": "SAM HOUSTON MATH, SCIENCE & TECHNOLOGY CENTER",
+      "address": "9400 IRVINGTON BLVD HOUSTON TX",
+      "zip": "77076",
+      "site": "FOG 210715-5400 GALLONS",
+      "date": "2026-09-30",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "77FD7082-C888-575C-EF3CF2F3D0F3F3CC",
+      "record_type": "inspection",
+      "facility_id": "11500",
+      "campus": "SAM HOUSTON MATH, SCIENCE & TECHNOLOGY CENTER",
+      "address": "9400 IRVINGTON BLVD HOUSTON TX",
+      "zip": "77076",
+      "site": "Main Kitchen",
+      "date": "2026-09-30",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": [
+        {
+          "no": 29,
+          "item": "Houston Ordinance Violation: 4-204.112(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 41,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "79F8BBDE-ECF8-ABB7-F8692E84BB76D2E3",
+      "record_type": "grease_trap",
+      "facility_id": "503A198B-F30F-E5B3-1B75A309B27811DC",
+      "campus": "QUEENS INTERMEDIATE",
+      "address": "1452 QUEENS RD HOUSTON TX",
+      "zip": "77017",
+      "site": "FOG 202740",
+      "date": "2026-09-30",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "79E67B1D-A511-2D7A-E690C5B3FC1206F2",
+      "record_type": "inspection",
+      "facility_id": "503A198B-F30F-E5B3-1B75A309B27811DC",
+      "campus": "QUEENS INTERMEDIATE",
+      "address": "1452 QUEENS RD HOUSTON TX",
+      "zip": "77017",
+      "site": "Premises",
+      "date": "2026-09-30",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
     {
       "inspection_id": "7A5C3288-BADD-8CF3-432870349AE8941C",
       "record_type": "grease_trap",
@@ -124,6 +307,201 @@
       "violations": []
     },
     {
+      "inspection_id": "4A7E9625-F5C1-F4E3-31A8100F66605F3D",
+      "record_type": "inspection",
+      "facility_id": "11423",
+      "campus": "SANCHEZ ELEMENTARY",
+      "address": "2700 BERKLEY HOUSTON TX",
+      "zip": "77012",
+      "site": "Premises",
+      "date": "2026-09-29",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 6-102.11(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "4A4BC7F4-D2AA-3139-380F5B6B7E6D65E1",
+      "record_type": "grease_trap",
+      "facility_id": "11423",
+      "campus": "SANCHEZ ELEMENTARY",
+      "address": "2700 BERKLEY HOUSTON TX",
+      "zip": "77012",
+      "site": "FOG 80486",
+      "date": "2026-09-29",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "44968187-CD51-67C7-980ABC534E1B279F",
+      "record_type": "inspection",
+      "facility_id": "11611",
+      "campus": "NORTHLINE ELEMENTARY",
+      "address": "821 E WITCHER HOUSTON TX",
+      "zip": "77076",
+      "site": "PREMISES-DRINKING WATER FOUNTAINS / RESTROOMS",
+      "date": "2026-09-29",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "44923B41-04D0-D030-01879F485EB3D4EA",
+      "record_type": "grease_trap",
+      "facility_id": "11611",
+      "campus": "NORTHLINE ELEMENTARY",
+      "address": "821 E WITCHER HOUSTON TX",
+      "zip": "77076",
+      "site": "FOG 103239",
+      "date": "2026-09-29",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "4482904F-A307-D9DA-2AFADE7334AFD6C3",
+      "record_type": "inspection",
+      "facility_id": "11611",
+      "campus": "NORTHLINE ELEMENTARY",
+      "address": "821 E WITCHER HOUSTON TX",
+      "zip": "77076",
+      "site": "KITCHEN",
+      "date": "2026-09-29",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "1778816C-F434-0DE1-9E239BBCEB740E51",
+      "record_type": "inspection",
+      "facility_id": "33F77754-08FB-BE1E-8461D2BA9616BB3D",
+      "campus": "PATTERSON ELEMENTARY",
+      "address": "5302 ALLENDALE HOUSTON TX",
+      "zip": "77017",
+      "site": "Premises",
+      "date": "2026-09-28",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 4-602.11(E)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 6-501.16",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "16FB8762-F35B-360E-49EE9D50A37AEE99",
+      "record_type": "grease_trap",
+      "facility_id": "33F77754-08FB-BE1E-8461D2BA9616BB3D",
+      "campus": "PATTERSON ELEMENTARY",
+      "address": "5302 ALLENDALE HOUSTON TX",
+      "zip": "77017",
+      "site": "FOG 200780",
+      "date": "2026-09-28",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "138ED505-F35B-0445-57892D8DFA202DA1",
+      "record_type": "inspection",
+      "facility_id": "43477",
+      "campus": "CESAR E. CHAVEZ HIGH SCHOOL",
+      "address": "8501 HOWARD HOUSTON TX",
+      "zip": "77017",
+      "site": "Premises",
+      "date": "2026-09-28",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "13783AD8-A305-B5DF-11E9A7C614A0EC27",
+      "record_type": "grease_trap",
+      "facility_id": "43477",
+      "campus": "CESAR E. CHAVEZ HIGH SCHOOL",
+      "address": "8501 HOWARD HOUSTON TX",
+      "zip": "77017",
+      "site": "FOG 87637",
+      "date": "2026-09-28",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "155D8F64-C044-51A2-19DD146C28B7FACC",
+      "record_type": "inspection",
+      "facility_id": "A362C76F-D54D-4AD1-E3302A71DF3D01D1",
+      "campus": "ALLEN ALDRIDGE JR. ELEMENTARY SCHOOL",
+      "address": "15817 BLUE RIDGE RD MISSOURI CITY TX",
+      "zip": "77489",
+      "site": "PREMISES",
+      "date": "2026-09-28",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "14468D6A-F918-E8D9-DC885F35D1049174",
+      "record_type": "grease_trap",
+      "facility_id": "A362C76F-D54D-4AD1-E3302A71DF3D01D1",
+      "campus": "ALLEN ALDRIDGE JR. ELEMENTARY SCHOOL",
+      "address": "15817 BLUE RIDGE RD MISSOURI CITY TX",
+      "zip": "77489",
+      "site": "FOG 253968",
+      "date": "2026-09-28",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-522",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
       "inspection_id": "7D6ABC88-B5A2-2428-6E752C0F945F61F2",
       "record_type": "grease_trap",
       "facility_id": "11519",
@@ -190,6 +568,52 @@
           "no": 4,
           "item": "Houston Ordinance Violation: 6-501.11",
           "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "778CCDE5-D044-6647-AD02C0368AAC334A",
+      "record_type": "grease_trap",
+      "facility_id": "A6786F6F-96E9-D248-BB738FF8B81799CD",
+      "campus": "KENNEDY ELEMENTARY",
+      "address": "400 VICTORIA HOUSTON TX",
+      "zip": "77022",
+      "site": "FOG 200133",
+      "date": "2026-09-25",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "778B78A6-D889-21DD-170EF3717DE09149",
+      "record_type": "inspection",
+      "facility_id": "A6786F6F-96E9-D248-BB738FF8B81799CD",
+      "campus": "KENNEDY ELEMENTARY",
+      "address": "400 VICTORIA HOUSTON TX",
+      "zip": "77022",
+      "site": "PREMISES",
+      "date": "2026-09-25",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "7752A8C4-0883-2F61-73882E4E2E6069A2",
+      "record_type": "inspection",
+      "facility_id": "A6786F6F-96E9-D248-BB738FF8B81799CD",
+      "campus": "KENNEDY ELEMENTARY",
+      "address": "400 VICTORIA HOUSTON TX",
+      "zip": "77022",
+      "site": "KITCHEN",
+      "date": "2026-09-25",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 48,
+          "item": "Houston Ordinance Violation: 4-204.112(A)",
+          "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         }
       ]
@@ -285,6 +709,32 @@
           "activity": "Routine Inspection (001)"
         }
       ]
+    },
+    {
+      "inspection_id": "479908AA-C97E-E3D5-EE94A480EAA7B0D5",
+      "record_type": "inspection",
+      "facility_id": "11479",
+      "campus": "ROOSEVELT ELEMENTARY SCHOOL",
+      "address": "6700 FULTON ST HOUSTON TX",
+      "zip": "77022",
+      "site": "PREMISES-DRINKING WATER FOUNTAINS / RESTROOMS",
+      "date": "2026-09-24",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "4787089F-B392-24F3-7B2D44129A707216",
+      "record_type": "grease_trap",
+      "facility_id": "11479",
+      "campus": "ROOSEVELT ELEMENTARY SCHOOL",
+      "address": "6700 FULTON ST HOUSTON TX",
+      "zip": "77022",
+      "site": "FOG 201574",
+      "date": "2026-09-24",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
     },
     {
       "inspection_id": "4548C166-94C2-EC8A-47112C52F3CF9E06",
@@ -480,6 +930,84 @@
       "address": "3555 BELLFORT HOUSTON TX",
       "zip": "77051",
       "site": "FOG 79016",
+      "date": "2026-09-24",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "43F1DED6-A526-3888-1596A827FC4DCDC0",
+      "record_type": "grease_trap",
+      "facility_id": "11458",
+      "campus": "DECHAUMES ELEMENTARY",
+      "address": "155 COOPER HOUSTON TX",
+      "zip": "77076",
+      "site": "FOG 77259/9000 gls",
+      "date": "2026-09-24",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "43EA63A2-BD06-88AE-FD23EBB1D88BF09A",
+      "record_type": "inspection",
+      "facility_id": "11458",
+      "campus": "DECHAUMES ELEMENTARY",
+      "address": "155 COOPER HOUSTON TX",
+      "zip": "77076",
+      "site": "PREMISES",
+      "date": "2026-09-24",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "43E27830-9593-BC4C-63E926C4F6957126",
+      "record_type": "inspection",
+      "facility_id": "11458",
+      "campus": "DECHAUMES ELEMENTARY",
+      "address": "155 COOPER HOUSTON TX",
+      "zip": "77076",
+      "site": "SERVING KITCHEN",
+      "date": "2026-09-24",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 22,
+          "item": "Houston Ordinance Violation: TAC-228.32",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 28,
+          "item": "Houston Ordinance Violation: 4-204.112(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "442B925F-E62C-A894-78216615866D31EC",
+      "record_type": "inspection",
+      "facility_id": "11462",
+      "campus": "CROCKETT ELEMENTARY SCHOOL",
+      "address": "2112 CROCKETT HOUSTON TX",
+      "zip": "77007",
+      "site": "KITCHEN",
+      "date": "2026-09-24",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "43FE7CD0-ADF9-34F9-D57A2BC7FCAC623C",
+      "record_type": "grease_trap",
+      "facility_id": "11462",
+      "campus": "CROCKETT ELEMENTARY SCHOOL",
+      "address": "2112 CROCKETT HOUSTON TX",
+      "zip": "77007",
+      "site": "FOG 77250",
       "date": "2026-09-24",
       "status": "OPEN",
       "level": "Elementary",
@@ -814,6 +1342,32 @@
       ]
     },
     {
+      "inspection_id": "0EFF76E5-E290-3359-553B832BD77A151A",
+      "record_type": "grease_trap",
+      "facility_id": "11624",
+      "campus": "LYONS ELEMENTARY",
+      "address": "800 ROXELLA HOUSTON TX",
+      "zip": "77076",
+      "site": "FOG 77612",
+      "date": "2026-09-23",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "0EF884BA-0A82-BAEA-AAC196E705CD6835",
+      "record_type": "inspection",
+      "facility_id": "11624",
+      "campus": "LYONS ELEMENTARY",
+      "address": "800 ROXELLA HOUSTON TX",
+      "zip": "77076",
+      "site": "PREMISES",
+      "date": "2026-09-23",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
       "inspection_id": "18F9EFCE-BA4A-B64F-8C6D207E4FB7C582",
       "record_type": "inspection",
       "facility_id": "2CB457FB-BD42-786A-F0FA2B7366CDAE1D",
@@ -1027,6 +1581,32 @@
           "activity": "Routine Inspection (001)"
         }
       ]
+    },
+    {
+      "inspection_id": "DC583B2F-B03F-F201-4AC352B2F27AEB3B",
+      "record_type": "grease_trap",
+      "facility_id": "72734",
+      "campus": "JOE E. MORENO ELEMENTARY SCHOOL",
+      "address": "620 E CANINO HOUSTON TX",
+      "zip": "77037",
+      "site": "FOG 100668",
+      "date": "2026-09-22",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "DC519496-B568-592A-1CD3E36EC91CAB5C",
+      "record_type": "inspection",
+      "facility_id": "72734",
+      "campus": "JOE E. MORENO ELEMENTARY SCHOOL",
+      "address": "620 E CANINO HOUSTON TX",
+      "zip": "77037",
+      "site": "PREMISES",
+      "date": "2026-09-22",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
     },
     {
       "inspection_id": "E22AAE58-C7BC-01D4-33583AA65BC0CC57",
