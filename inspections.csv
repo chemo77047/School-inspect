@@ -1,7 +1,13 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-10-01,JEFFERSON ELEMENTARY,Elementary,grease_trap,5000 SHARMAN HOUSTON TX,77009,OPEN,0,
+2026-10-01,JEFFERSON ELEMENTARY,Elementary,inspection,5000 SHARMAN HOUSTON TX,77009,OPEN,1,1 Houston Ordinance Violation: 4-201.11 (Violation Corrected On Site)
+2026-10-01,JEFFERSON ELEMENTARY,Elementary,inspection,5000 SHARMAN HOUSTON TX,77009,OPEN,0,
+2026-10-01,HIGHLAND HEIGHTS ELEMENTARY,Elementary,inspection,865 PAUL QUINN HOUSTON TX,77091,OPEN,0,
+2026-10-01,HIGHLAND HEIGHTS ELEMENTARY,Elementary,grease_trap,865 PAUL QUINN HOUSTON TX,77091,OPEN,0,
+2026-10-01,HIGHLAND HEIGHTS ELEMENTARY,Elementary,inspection,865 PAUL QUINN HOUSTON TX,77091,OPEN,0,
 2026-10-01,BARRICK ELEMENTARY,Elementary,inspection,12001 WINFREY HOUSTON TX,77076,OPEN,1,1 Houston Ordinance Violation: 6-301.12(A) (Violation)
 2026-10-01,BARRICK ELEMENTARY,Elementary,grease_trap,12001 WINFREY HOUSTON TX,77076,OPEN,0,
+2026-10-01,BARRICK ELEMENTARY,Elementary,inspection,12001 WINFREY HOUSTON TX,77076,OPEN,1,16 Houston Ordinance Violation: 3-501.17(A) (Violation Corrected On Site)
 2026-09-30,WESLEY ELEMENTARY SCHOOL,Elementary,grease_trap,800 DILLARD HOUSTON TX,77091,OPEN,1,1 Houston Ordinance Violation: COH-47-522 (Violation)
 2026-09-30,WESLEY ELEMENTARY SCHOOL,Elementary,grease_trap,800 DILLARD HOUSTON TX,77091,OPEN,0,
 2026-09-30,WESLEY ELEMENTARY SCHOOL,Elementary,inspection,800 DILLARD HOUSTON TX,77091,OPEN,2,33 Houston Ordinance Violation: 3-305.11(B) (Violation Corrected On Site) | 51 Houston Ordinance Violation: 6-501.11 (Violation Corrected On Site)
@@ -68,6 +74,7 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-09-23,PARK PLACE ELEMENTARY,Elementary,inspection,8235 PARK PLACE HOUSTON TX,77017,OPEN,3,1 Houston Ordinance Violation: TAC-228.31(E) (Violation) | 2 Houston Ordinance Violation: 4-501.11(A) (Violation) | 3 Houston Ordinance Violation: 5-205.15 (Violation)
 2026-09-23,LYONS ELEMENTARY,Elementary,grease_trap,800 ROXELLA HOUSTON TX,77076,OPEN,0,
 2026-09-23,LYONS ELEMENTARY,Elementary,inspection,800 ROXELLA HOUSTON TX,77076,OPEN,0,
+2026-09-23,LYONS ELEMENTARY,Elementary,inspection,800 ROXELLA HOUSTON TX,77076,OPEN,1,21 Houston Ordinance Violation: TAC-228.32 (Violation)
 2026-09-23,LOCKHART TURNER ELEMENTARY,Elementary,inspection,3200 ROSEDALE HOUSTON TX,77004,OPEN,1,52 Houston Ordinance Violation: 6-501.12(A) (Violation Repeat)
 2026-09-23,LOCKHART TURNER ELEMENTARY,Elementary,inspection,3200 ROSEDALE HOUSTON TX,77004,OPEN,1,1 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
 2026-09-23,LOCKHART TURNER ELEMENTARY,Elementary,grease_trap,3200 ROSEDALE HOUSTON TX,77004,OPEN,0,
@@ -80,6 +87,7 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-09-22,POE ELEMENTARY,Elementary,inspection,5100 HAZARD HOUSTON TX,77098,OPEN,3,1 Houston Ordinance Violation: 5-501.115 (Violation Repeat) | 2 Houston Ordinance Violation: 6-501.11 (Violation) | 3 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-09-22,JOE E. MORENO ELEMENTARY SCHOOL,Elementary,grease_trap,620 E CANINO HOUSTON TX,77037,OPEN,0,
 2026-09-22,JOE E. MORENO ELEMENTARY SCHOOL,Elementary,inspection,620 E CANINO HOUSTON TX,77037,OPEN,0,
+2026-09-22,JOE E. MORENO ELEMENTARY SCHOOL,Elementary,inspection,620 E CANINO HOUSTON TX,77037,OPEN,3,15 Houston Ordinance Violation: 3-501.18(B) (Violation Corrected On Site) | 22 Houston Ordinance Violation: TAC-228.32 (Violation) | 28 Houston Ordinance Violation: 4-204.112(A) (Violation)
 2026-09-22,GLADYS BIRDWELL-HORN ELEMENTARY SCHOOL,Elementary,inspection,10734 BISSONNET ST HOUSTON TX,77099,OPEN,0,
 2026-09-22,GLADYS BIRDWELL-HORN ELEMENTARY SCHOOL,Elementary,grease_trap,10734 BISSONNET ST HOUSTON TX,77099,OPEN,0,
 2026-09-22,GLADYS BIRDWELL-HORN ELEMENTARY SCHOOL,Elementary,inspection,10734 BISSONNET ST HOUSTON TX,77099,OPEN,1,1 Houston Ordinance Violation: 4-101.11(D) (Violation Corrected On Site)

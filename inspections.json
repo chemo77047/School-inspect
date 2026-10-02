@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T00:41:21+00:00",
+  "generated_at": "2026-10-02T19:55:07+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1719,
-  "grease_trap_count": 890,
-  "record_count": 2609,
+  "inspection_count": 1726,
+  "grease_trap_count": 891,
+  "record_count": 2617,
   "campus_count": 470,
-  "violation_count": 2399,
+  "violation_count": 2405,
   "inspections": [
     {
       "inspection_id": "AD589926-A0C6-27C6-6F319B1D1AE0B83A",
@@ -15,6 +15,78 @@
       "address": "5000 SHARMAN HOUSTON TX",
       "zip": "77009",
       "site": "FOG 77375",
+      "date": "2026-10-01",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "ADA86DDD-A98C-A2D0-BA208A7AAFB8D240",
+      "record_type": "inspection",
+      "facility_id": "11568",
+      "campus": "JEFFERSON ELEMENTARY",
+      "address": "5000 SHARMAN HOUSTON TX",
+      "zip": "77009",
+      "site": "Premises",
+      "date": "2026-10-01",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 4-201.11",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "AD8D757E-0E4D-610A-C7EB3A02E21DC0D8",
+      "record_type": "inspection",
+      "facility_id": "11568",
+      "campus": "JEFFERSON ELEMENTARY",
+      "address": "5000 SHARMAN HOUSTON TX",
+      "zip": "77009",
+      "site": "Kitchen",
+      "date": "2026-10-01",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "B315E590-B8D6-A6FE-01D3BF3EC1B5A235",
+      "record_type": "inspection",
+      "facility_id": "11538",
+      "campus": "HIGHLAND HEIGHTS ELEMENTARY",
+      "address": "865 PAUL QUINN HOUSTON TX",
+      "zip": "77091",
+      "site": "KITCHEN",
+      "date": "2026-10-01",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "B2E87D93-CAAA-23D8-EB6166E639497894",
+      "record_type": "grease_trap",
+      "facility_id": "11538",
+      "campus": "HIGHLAND HEIGHTS ELEMENTARY",
+      "address": "865 PAUL QUINN HOUSTON TX",
+      "zip": "77091",
+      "site": "FOG 77348",
+      "date": "2026-10-01",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "B21722EC-AA52-E40F-B04D3D5C82F5204E",
+      "record_type": "inspection",
+      "facility_id": "11538",
+      "campus": "HIGHLAND HEIGHTS ELEMENTARY",
+      "address": "865 PAUL QUINN HOUSTON TX",
+      "zip": "77091",
+      "site": "PREMISES",
       "date": "2026-10-01",
       "status": "OPEN",
       "level": "Elementary",
@@ -52,6 +124,26 @@
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
+    },
+    {
+      "inspection_id": "AB5A1DC4-D165-FA4B-26FADC5F7D99D5B9",
+      "record_type": "inspection",
+      "facility_id": "11610",
+      "campus": "BARRICK ELEMENTARY",
+      "address": "12001 WINFREY HOUSTON TX",
+      "zip": "77076",
+      "site": "KITCHEN",
+      "date": "2026-10-01",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 16,
+          "item": "Houston Ordinance Violation: 3-501.17(A)",
+          "status": "Violation Corrected On Site",
+          "activity": "Reinspection (002)"
+        }
+      ]
     },
     {
       "inspection_id": "7A8C0528-FB03-BA05-B55D93201E90982C",
@@ -1368,6 +1460,26 @@
       "violations": []
     },
     {
+      "inspection_id": "0EEC7FD0-ABC6-5AFD-D238368FF033F072",
+      "record_type": "inspection",
+      "facility_id": "11624",
+      "campus": "LYONS ELEMENTARY",
+      "address": "800 ROXELLA HOUSTON TX",
+      "zip": "77076",
+      "site": "KITCHEN",
+      "date": "2026-09-23",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 21,
+          "item": "Houston Ordinance Violation: TAC-228.32",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
       "inspection_id": "18F9EFCE-BA4A-B64F-8C6D207E4FB7C582",
       "record_type": "inspection",
       "facility_id": "2CB457FB-BD42-786A-F0FA2B7366CDAE1D",
@@ -1607,6 +1719,38 @@
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
+    },
+    {
+      "inspection_id": "DC48A9B7-C0FA-3D9B-01ABDF247CC583F0",
+      "record_type": "inspection",
+      "facility_id": "72734",
+      "campus": "JOE E. MORENO ELEMENTARY SCHOOL",
+      "address": "620 E CANINO HOUSTON TX",
+      "zip": "77037",
+      "site": "KITCHEN",
+      "date": "2026-09-22",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 15,
+          "item": "Houston Ordinance Violation: 3-501.18(B)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 22,
+          "item": "Houston Ordinance Violation: TAC-228.32",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 28,
+          "item": "Houston Ordinance Violation: 4-204.112(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
     },
     {
       "inspection_id": "E22AAE58-C7BC-01D4-33583AA65BC0CC57",
