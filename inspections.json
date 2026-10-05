@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T00:02:24+00:00",
+  "generated_at": "2026-10-05T22:03:36+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1737,
-  "grease_trap_count": 894,
-  "record_count": 2631,
+  "inspection_count": 1739,
+  "grease_trap_count": 895,
+  "record_count": 2634,
   "campus_count": 470,
-  "violation_count": 2432,
+  "violation_count": 2433,
   "inspections": [
     {
       "inspection_id": "AF6BD49D-B5D8-E86E-A4AD2927DF5F0D25",
@@ -1949,6 +1949,52 @@
       "address": "9601 ROSEHAVEN DR HOUSTON TX",
       "zip": "77051",
       "site": "FOG 77495",
+      "date": "2026-09-23",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "136DCEE4-CC77-1F95-5BF167D735AE55B0",
+      "record_type": "inspection",
+      "facility_id": "11636",
+      "campus": "BARBARA BUSH ELEMENTARY SCHOOL",
+      "address": "13800 WESTERLOCH HOUSTON TX",
+      "zip": "77077",
+      "site": "Premises",
+      "date": "2026-09-23",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-501.111(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "121F76CD-035B-A5C1-ADDBA388B0785D75",
+      "record_type": "inspection",
+      "facility_id": "11636",
+      "campus": "BARBARA BUSH ELEMENTARY SCHOOL",
+      "address": "13800 WESTERLOCH HOUSTON TX",
+      "zip": "77077",
+      "site": "Kitchen",
+      "date": "2026-09-23",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "121E9EA4-F011-075E-215AFB6B500BDA0A",
+      "record_type": "grease_trap",
+      "facility_id": "11636",
+      "campus": "BARBARA BUSH ELEMENTARY SCHOOL",
+      "address": "13800 WESTERLOCH HOUSTON TX",
+      "zip": "77077",
+      "site": "FOG 90659",
       "date": "2026-09-23",
       "status": "OPEN",
       "level": "Elementary",

@@ -95,6 +95,9 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-09-23,J.R. REYNOLDS ELEMENTARY SCHOOL,Elementary,inspection,9601 ROSEHAVEN DR HOUSTON TX,77051,OPEN,3,43 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 48 Houston Ordinance Violation: 5-205.15 (Violation Repeat) | 52 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-09-23,J.R. REYNOLDS ELEMENTARY SCHOOL,Elementary,inspection,9601 ROSEHAVEN DR HOUSTON TX,77051,OPEN,2,1 Houston Ordinance Violation: 5-202.12(C) (Violation) | 2 Houston Ordinance Violation: 5-205.15 (Violation)
 2026-09-23,J.R. REYNOLDS ELEMENTARY SCHOOL,Elementary,grease_trap,9601 ROSEHAVEN DR HOUSTON TX,77051,OPEN,0,
+2026-09-23,BARBARA BUSH ELEMENTARY SCHOOL,Elementary,inspection,13800 WESTERLOCH HOUSTON TX,77077,OPEN,1,1 Houston Ordinance Violation: 6-501.111(C) (Violation)
+2026-09-23,BARBARA BUSH ELEMENTARY SCHOOL,Elementary,inspection,13800 WESTERLOCH HOUSTON TX,77077,OPEN,0,
+2026-09-23,BARBARA BUSH ELEMENTARY SCHOOL,Elementary,grease_trap,13800 WESTERLOCH HOUSTON TX,77077,OPEN,0,
 2026-09-22,ROBERTS ELEMENTARY,Elementary,inspection,6000 GREENBRIAR HOUSTON TX,77030,OPEN,1,1 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
 2026-09-22,ROBERTS ELEMENTARY,Elementary,inspection,6000 GREENBRIAR HOUSTON TX,77030,OPEN,2,30 Houston Ordinance Violation: 6-202.15(A) (Violation Repeat) | 49 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-09-22,ROBERTS ELEMENTARY,Elementary,grease_trap,6000 GREENBRIAR HOUSTON TX,77030,OPEN,0,
