@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T00:28:38+00:00",
+  "generated_at": "2026-10-07T20:36:56+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1742,
-  "grease_trap_count": 895,
-  "record_count": 2637,
+  "inspection_count": 1748,
+  "grease_trap_count": 898,
+  "record_count": 2646,
   "campus_count": 470,
-  "violation_count": 2436,
+  "violation_count": 2443,
   "inspections": [
     {
       "inspection_id": "AD60333A-D37C-B64D-61B7AAB414CA69F2",
@@ -61,6 +61,169 @@
           "no": 48,
           "item": "Houston Ordinance Violation: 5-501.113",
           "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "7F26F7FB-C3F5-1929-02A06D873DE20D2E",
+      "record_type": "inspection",
+      "facility_id": "11534",
+      "campus": "BROWNING ELEMENTARY",
+      "address": "607 NORTHWOOD HOUSTON TX",
+      "zip": "77009",
+      "site": "KITCHEN",
+      "date": "2026-10-05",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 6,
+          "item": "Houston Ordinance Violation: 3-202.15",
+          "status": "Violation Corrected On Site Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 51,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "7EC5B7FF-9DDE-BBD1-5E03444C8BA2E3E7",
+      "record_type": "grease_trap",
+      "facility_id": "11534",
+      "campus": "BROWNING ELEMENTARY",
+      "address": "607 NORTHWOOD HOUSTON TX",
+      "zip": "77009",
+      "site": "FOG 75298",
+      "date": "2026-10-05",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "DED7B416-AD93-433D-D603B9710E53D189",
+      "record_type": "grease_trap",
+      "facility_id": "2ED5C518-5056-A20B-FADD266D87ABC8D1",
+      "campus": "EARLY COLLEGE HIGH SCHOOL- NORTH HOUSTON",
+      "address": "8001 FULTON ST HOUSTON TX",
+      "zip": "77022",
+      "site": "FOG 205776",
+      "date": "2026-10-02",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "DECAA6A8-D052-6D62-FD1C03068BA9056B",
+      "record_type": "inspection",
+      "facility_id": "2ED5C518-5056-A20B-FADD266D87ABC8D1",
+      "campus": "EARLY COLLEGE HIGH SCHOOL- NORTH HOUSTON",
+      "address": "8001 FULTON ST HOUSTON TX",
+      "zip": "77022",
+      "site": "PREMISES",
+      "date": "2026-10-02",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "DEBEA432-ACD3-6884-29FBB8D7C38E7481",
+      "record_type": "inspection",
+      "facility_id": "2ED5C518-5056-A20B-FADD266D87ABC8D1",
+      "campus": "EARLY COLLEGE HIGH SCHOOL- NORTH HOUSTON",
+      "address": "8001 FULTON ST HOUSTON TX",
+      "zip": "77022",
+      "site": "ESTABLISHMENT",
+      "date": "2026-10-02",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "E19B786E-FACE-351E-68196C4FB9D6FC06",
+      "record_type": "grease_trap",
+      "facility_id": "11424",
+      "campus": "BURBANK JR HIGH",
+      "address": "315 BERRY HOUSTON TX",
+      "zip": "77022",
+      "site": "FOG 77721",
+      "date": "2026-10-02",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-522",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "E18C6EF3-9B9D-9A80-FFCB3A3A1173B326",
+      "record_type": "inspection",
+      "facility_id": "11424",
+      "campus": "BURBANK JR HIGH",
+      "address": "315 BERRY HOUSTON TX",
+      "zip": "77022",
+      "site": "PREMISES",
+      "date": "2026-10-02",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "E17D4F1E-F0D9-5F82-F211E3EA6877713F",
+      "record_type": "inspection",
+      "facility_id": "11424",
+      "campus": "BURBANK JR HIGH",
+      "address": "315 BERRY HOUSTON TX",
+      "zip": "77022",
+      "site": "Total establishments",
+      "date": "2026-10-02",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 36,
+          "item": "Houston Ordinance Violation: 4-903.11(A)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 41,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "E076C28B-B756-F747-53E52BA4F1B88095",
+      "record_type": "inspection",
+      "facility_id": "11429",
+      "campus": "BENBROOK ELEMENTARY SCHOOL",
+      "address": "4026 BOLIN HOUSTON TX",
+      "zip": "77092",
+      "site": "Kitchen",
+      "date": "2026-10-02",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 40,
+          "item": "Houston Ordinance Violation: 4-501.12",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 49,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         }
       ]
