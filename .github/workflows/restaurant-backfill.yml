@@ -1,0 +1,105 @@
+name: Restaurant violation backfill
+
+# Manual only, and only on this branch: the restaurant data lives in its own repo, but
+# that repo is private and a year of violation pages is far more than one 5-hour job.
+# Here the minutes are free (public repo) and the year is split into slices that run as
+# parallel jobs, so the whole backfill finishes in about one slice's worth of wall clock.
+on:
+  workflow_dispatch:
+    inputs:
+      start:
+        description: "First day to scrape (YYYY-MM-DD)"
+        default: "2025-10-06"
+      end:
+        description: "Last day to scrape (YYYY-MM-DD, blank = today)"
+      slices:
+        description: "How many jobs to split the range across"
+        default: "12"
+      fog:
+        description: "Include grease-trap (FOG) records"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.split.outputs.matrix }}
+    steps:
+      - id: split
+        env:
+          START: ${{ inputs.start }}
+          END: ${{ inputs.end }}
+          SLICES: ${{ inputs.slices }}
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import datetime as dt, json, os
+          start = dt.date.fromisoformat(os.environ["START"])
+          end = dt.date.fromisoformat(os.environ["END"]) if os.environ["END"] else dt.date.today()
+          n = max(1, int(os.environ["SLICES"]))
+          days = (end - start).days + 1
+          size = -(-days // n)
+          out = []
+          d = start
+          while d <= end:
+              last = min(d + dt.timedelta(days=size - 1), end)
+              out.append({"name": f"{d}_{last}", "start": str(d), "end": str(last)})
+              d = last + dt.timedelta(days=1)
+          print("matrix=" + json.dumps({"slice": out}))
+          PY
+
+  scrape:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r restaurant-backfill/requirements.txt
+      - name: Scrape ${{ matrix.slice.name }}
+        working-directory: restaurant-backfill
+        run: |
+          args=(--json slice.json --csv slice.csv
+                --start "${{ matrix.slice.start }}" --end "${{ matrix.slice.end }}")
+          [ "${{ inputs.fog }}" = "true" ] || args+=(--no-fog)
+          python update_inspections.py "${args[@]}"
+      - name: Keep what finished even if the job timed out
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: slice-${{ matrix.slice.name }}
+          path: restaurant-backfill/slice.json
+          if-no-files-found: ignore
+
+  merge:
+    needs: scrape
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/download-artifact@v4
+        with:
+          path: slices
+          pattern: slice-*
+      - name: Merge slices
+        working-directory: restaurant-backfill
+        run: python merge_slices.py ../slices/*/slice.json -o inspections.json --csv inspections.csv
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add restaurant-backfill/inspections.json restaurant-backfill/inspections.csv
+          git diff --cached --quiet && echo "nothing new" && exit 0
+          git commit -m "Restaurant backfill $(date -u +%Y-%m-%d\ %H:%M) UTC"
+          git push
