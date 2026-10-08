@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-10-08T00:50:04+00:00",
+  "generated_at": "2026-10-08T20:42:19+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1748,
-  "grease_trap_count": 898,
-  "record_count": 2646,
+  "inspection_count": 1752,
+  "grease_trap_count": 899,
+  "record_count": 2651,
   "campus_count": 470,
-  "violation_count": 2443,
+  "violation_count": 2445,
   "inspections": [
+    {
+      "inspection_id": "169F4859-B9B4-16EF-FF86E1C196E22209",
+      "record_type": "inspection",
+      "facility_id": "E0352F4C-5056-A20F-9E01DE6EFBB04D21",
+      "campus": "YES PREP HOBBY ELEMENTARY",
+      "address": "7660 HANSEN RD HOUSTON TX",
+      "zip": "77061",
+      "site": "250996",
+      "date": "2026-10-08",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
     {
       "inspection_id": "AD60333A-D37C-B64D-61B7AAB414CA69F2",
       "record_type": "inspection",
@@ -60,6 +73,72 @@
         {
           "no": 48,
           "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "B13F71E1-F1A8-E1C2-F9DED49DDFEEA10E",
+      "record_type": "inspection",
+      "facility_id": "B07C7D59-9946-F672-4071089C7FF9D8C1",
+      "campus": "LAURA BUSH ELEMENTARY",
+      "address": "9100 BLACKHAWK BLVD HOUSTON TX",
+      "zip": "77075",
+      "site": "PREMISES",
+      "date": "2026-10-06",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "B13AAF68-993F-B5CB-046107E06638D05C",
+      "record_type": "grease_trap",
+      "facility_id": "B07C7D59-9946-F672-4071089C7FF9D8C1",
+      "campus": "LAURA BUSH ELEMENTARY",
+      "address": "9100 BLACKHAWK BLVD HOUSTON TX",
+      "zip": "77075",
+      "site": "FOG 81635",
+      "date": "2026-10-06",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "B0227AE9-D8C5-E9F1-B228D251EABB6E3E",
+      "record_type": "inspection",
+      "facility_id": "12103",
+      "campus": "JESSUP ELEMENTARY SCHOOL",
+      "address": "9301 ALMEDA GENOA HOUSTON TX",
+      "zip": "77075",
+      "site": "KITCHEN",
+      "date": "2026-10-06",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "AEE9C416-E8D1-95DE-30312A96C4174823",
+      "record_type": "inspection",
+      "facility_id": "B2ABA00F-A005-ED80-1A0D09DB031A7321",
+      "campus": "JESSUP ELEMENTARY SCHOOL",
+      "address": "9301 ALMEDA GENOA RD HOUSTON TX",
+      "zip": "77075",
+      "site": "252478",
+      "date": "2026-10-06",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-512(b)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }

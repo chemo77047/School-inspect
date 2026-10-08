@@ -1,7 +1,12 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
+2026-10-08,YES PREP HOBBY ELEMENTARY,Elementary,inspection,7660 HANSEN RD HOUSTON TX,77061,OPEN,0,
 2026-10-06,YES PREP AIRLINE ELEMENTARY,Elementary,inspection,5815 AIRLINE DR HOUSTON TX,77076,OPEN,0,
 2026-10-06,YES PREP AIRLINE ELEMENTARY,Elementary,inspection,5815 AIRLINE DR HOUSTON TX,77076,OPEN,0,
 2026-10-06,YES PREP AIRLINE ELEMENTARY,Elementary,inspection,5815 AIRLINE DR HOUSTON TX,77076,OPEN,3,9 Houston Ordinance Violation: 4-703.11(C) (Violation Corrected On Site) | 12 Houston Ordinance Violation: TAC-228.31(a) (Violation Corrected On Site) | 48 Houston Ordinance Violation: 5-501.113 (Violation)
+2026-10-06,LAURA BUSH ELEMENTARY,Elementary,inspection,9100 BLACKHAWK BLVD HOUSTON TX,77075,OPEN,1,1 Houston Ordinance Violation: 4-402.11(A)(3) (Violation)
+2026-10-06,LAURA BUSH ELEMENTARY,Elementary,grease_trap,9100 BLACKHAWK BLVD HOUSTON TX,77075,OPEN,0,
+2026-10-06,JESSUP ELEMENTARY SCHOOL,Elementary,inspection,9301 ALMEDA GENOA HOUSTON TX,77075,OPEN,0,
+2026-10-06,JESSUP ELEMENTARY SCHOOL,Elementary,inspection,9301 ALMEDA GENOA RD HOUSTON TX,77075,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
 2026-10-05,BROWNING ELEMENTARY,Elementary,inspection,607 NORTHWOOD HOUSTON TX,77009,OPEN,2,6 Houston Ordinance Violation: 3-202.15 (Violation Corrected On Site Repeat) | 51 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-10-05,BROWNING ELEMENTARY,Elementary,grease_trap,607 NORTHWOOD HOUSTON TX,77009,OPEN,0,
 2026-10-02,EARLY COLLEGE HIGH SCHOOL- NORTH HOUSTON,High School,grease_trap,8001 FULTON ST HOUSTON TX,77022,OPEN,0,
