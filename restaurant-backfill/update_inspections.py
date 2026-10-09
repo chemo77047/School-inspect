@@ -63,7 +63,10 @@ def main() -> int:
     while day <= a.end:
         last = min(day + dt.timedelta(days=a.chunk - 1), a.end)
         span = f"{day} to {last}" if last != day else f"{day}"
-        known = None if a.refetch_details else set(records)
+        # an inspection with no findings is clean, not unfetched, so the detail page is
+        # skipped on the strength of details_fetched rather than a non-empty list
+        known = None if a.refetch_details else {
+            i for i, r in records.items() if r.get("details_fetched")}
         rows = []
         for attempt in range(3):
             try:
@@ -82,9 +85,10 @@ def main() -> int:
             old = records.get(insp.inspection_id)
             if old is None:
                 new += 1
-            elif not insp.violations:
+            elif not insp.details_fetched:
                 # detail page was skipped because this one is already on file
                 insp.violations = old.get("violations", [])
+                insp.details_fetched = bool(old.get("details_fetched"))
             records[insp.inspection_id] = as_dict(insp)
         print(f"  {span}: {len(rows)} found, {new} new", flush=True)
         # written every chunk rather than once at the end, so a run that is killed on a

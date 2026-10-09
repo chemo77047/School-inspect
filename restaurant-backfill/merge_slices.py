@@ -16,6 +16,11 @@ from pathlib import Path
 from scraper import write_csv, write_json
 
 
+def rank(row: dict) -> tuple[int, int]:
+    """A fetched detail page beats an unfetched one, even when it found nothing."""
+    return (int(bool(row.get("details_fetched"))), len(row.get("violations") or []))
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("slices", nargs="+", type=Path)
@@ -28,8 +33,7 @@ def main() -> int:
         rows = json.loads(path.read_text()).get("inspections", [])
         for row in rows:
             old = records.get(row["inspection_id"])
-            if old is None or len(row.get("violations") or []) >= len(
-                    old.get("violations") or []):
+            if old is None or rank(row) >= rank(old):
                 records[row["inspection_id"]] = row
         print(f"{path}: {len(rows)} records -> {len(records)} unique", flush=True)
 

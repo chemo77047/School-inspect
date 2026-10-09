@@ -14,7 +14,7 @@ on:
         description: "Last day to scrape (YYYY-MM-DD, blank = today)"
       slices:
         description: "How many jobs to split the range across"
-        default: "12"
+        default: "8"
       fog:
         description: "Include grease-trap (FOG) records"
         type: boolean
@@ -67,6 +67,9 @@ jobs:
       - name: Scrape ${{ matrix.slice.name }}
         working-directory: restaurant-backfill
         run: |
+          # seeded with whatever previous runs committed, so the slice spends its five
+          # hours on detail pages that were never fetched rather than redoing them
+          cp inspections.json slice.json 2>/dev/null || true
           args=(--json slice.json --csv slice.csv
                 --start "${{ matrix.slice.start }}" --end "${{ matrix.slice.end }}")
           [ "${{ inputs.fog }}" = "true" ] || args+=(--no-fog)
@@ -88,6 +91,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - run: pip install -r restaurant-backfill/requirements.txt
       - uses: actions/download-artifact@v4
         with:
           path: slices
