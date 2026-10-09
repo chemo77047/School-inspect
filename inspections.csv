@@ -1,5 +1,17 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-10-08,YES PREP HOBBY ELEMENTARY,Elementary,inspection,7660 HANSEN RD HOUSTON TX,77061,OPEN,0,
+2026-10-08,MONTGOMERY ELEMENTARY SCHOOL,Elementary,inspection,4000 SIMSBROOK HOUSTON TX,77045,OPEN,3,1 Houston Ordinance Violation: 5-202.12(C) (Violation) | 2 Houston Ordinance Violation: 4-402.11(A)(3) (Violation Repeat) | 3 Houston Ordinance Violation: 5-205.15 (Violation)
+2026-10-08,MONTGOMERY ELEMENTARY SCHOOL,Elementary,grease_trap,4000 SIMSBROOK HOUSTON TX,77045,OPEN,0,
+2026-10-08,GRISSOM ELEMENTARY SCHOOL,Elementary,inspection,4900 SIMSBROOK HOUSTON TX,77045,OPEN,2,1 Houston Ordinance Violation: 5-205.15 (Violation) | 2 Houston Ordinance Violation: 6-501.12(A) (Violation Repeat)
+2026-10-08,GRISSOM ELEMENTARY SCHOOL,Elementary,grease_trap,4900 SIMSBROOK HOUSTON TX,77045,OPEN,0,
+2026-10-08,ELEANOR TINSLEY ELEMENTARY,Elementary,grease_trap,11035 BOB WHITE HOUSTON TX,77096,OPEN,0,
+2026-10-08,ELEANOR TINSLEY ELEMENTARY,Elementary,inspection,11035 BOB WHITE HOUSTON TX,77096,OPEN,0,
+2026-10-07,SOUTHMAYD ELEM SCHOOL,Elementary,inspection,1800 CORAL HOUSTON TX,77012,OPEN,0,
+2026-10-07,SOUTHMAYD ELEM SCHOOL,Elementary,grease_trap,1800 CORAL HOUSTON TX,77012,OPEN,0,
+2026-10-07,"HENDERSON ELEMENTARY, J.P.",Middle / Jr. High,inspection,1800 DISMUKE HOUSTON TX,77023,OPEN,3,1 Houston Ordinance Violation: 6-202.15(A) (Violation) | 2 Houston Ordinance Violation: 5-205.15 (Violation) | 3 Houston Ordinance Violation: 6-501.11 (Violation)
+2026-10-07,"HENDERSON ELEMENTARY, J.P.",Middle / Jr. High,grease_trap,1800 DISMUKE HOUSTON TX,77023,OPEN,0,
+2026-10-07,DAVILA ELEMENTARY,Elementary,inspection,7610 DAHLIA HOUSTON TX,77012,OPEN,2,1 Houston Ordinance Violation: 6-202.15(A) (Violation) | 2 Houston Ordinance Violation: 5-205.15 (Violation)
+2026-10-07,DAVILA ELEMENTARY,Elementary,grease_trap,7610 DAHLIA HOUSTON TX,77012,OPEN,0,
 2026-10-06,YES PREP AIRLINE ELEMENTARY,Elementary,inspection,5815 AIRLINE DR HOUSTON TX,77076,OPEN,0,
 2026-10-06,YES PREP AIRLINE ELEMENTARY,Elementary,inspection,5815 AIRLINE DR HOUSTON TX,77076,OPEN,0,
 2026-10-06,YES PREP AIRLINE ELEMENTARY,Elementary,inspection,5815 AIRLINE DR HOUSTON TX,77076,OPEN,3,9 Houston Ordinance Violation: 4-703.11(C) (Violation Corrected On Site) | 12 Houston Ordinance Violation: TAC-228.31(a) (Violation Corrected On Site) | 48 Houston Ordinance Violation: 5-501.113 (Violation)
@@ -7,8 +19,20 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-10-06,LAURA BUSH ELEMENTARY,Elementary,grease_trap,9100 BLACKHAWK BLVD HOUSTON TX,77075,OPEN,0,
 2026-10-06,JESSUP ELEMENTARY SCHOOL,Elementary,inspection,9301 ALMEDA GENOA HOUSTON TX,77075,OPEN,0,
 2026-10-06,JESSUP ELEMENTARY SCHOOL,Elementary,inspection,9301 ALMEDA GENOA RD HOUSTON TX,77075,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
+2026-10-06,"HARRIS ELEMENTARY, JR.",Elementary,inspection,801 BROADWAY HOUSTON TX,77012,OPEN,1,1 Houston Ordinance Violation: 6-202.15(A) (Violation)
+2026-10-06,"HARRIS ELEMENTARY, JR.",Elementary,grease_trap,801 BROADWAY HOUSTON TX,77012,OPEN,0,
+2026-10-06,DEADY MIDDLE SCHOOL,Middle / Jr. High,inspection,2500 BROADWAY HOUSTON TX,77012,OPEN,1,1 Houston Ordinance Violation: 6-202.15(A) (Violation)
+2026-10-06,DEADY MIDDLE SCHOOL,Middle / Jr. High,grease_trap,2500 BROADWAY HOUSTON TX,77012,OPEN,0,
+2026-10-05,SOUTH EARLY COLLEGE HIGH SCHOOL,High School,inspection,1930 AIRPORT BLVD HOUSTON TX,77051,OPEN,3,3 Houston Ordinance Violation: 5-202.12(C) (Violation) | 43 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 48 Houston Ordinance Violation: 5-205.15 (Violation Repeat)
+2026-10-05,SOUTH EARLY COLLEGE HIGH SCHOOL,High School,grease_trap,1930 AIRPORT BLVD HOUSTON TX,77051,OPEN,0,
+2026-10-05,KIPP Intrepid MS,Middle / Jr. High,grease_trap,5402 LAWNDALE HOUSTON TX,77023,OPEN,0,
+2026-10-05,KIPP EXPLORE PS,Elementary,grease_trap,5402 LAWNDALE AVE HOUSTON TX,77023,OPEN,0,
+2026-10-05,KIPP EAST END HS,High School,grease_trap,5402 LAWNDALE AVE HOUSTON TX,77023,OPEN,0,
 2026-10-05,BROWNING ELEMENTARY,Elementary,inspection,607 NORTHWOOD HOUSTON TX,77009,OPEN,2,6 Houston Ordinance Violation: 3-202.15 (Violation Corrected On Site Repeat) | 51 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-10-05,BROWNING ELEMENTARY,Elementary,grease_trap,607 NORTHWOOD HOUSTON TX,77009,OPEN,0,
+2026-10-02,WHITE ELEMENTARY SCHOOL,Elementary,grease_trap,9001 TRIOLA HOUSTON TX,77036,OPEN,0,
+2026-10-02,WHITE ELEMENTARY SCHOOL,Elementary,inspection,9001 TRIOLA HOUSTON TX,77036,OPEN,0,
+2026-10-02,WHITE ELEMENTARY SCHOOL,Elementary,inspection,9001 TRIOLA HOUSTON TX,77036,OPEN,2,1 Houston Ordinance Violation: 6-202.15(A) (Violation) | 2 Houston Ordinance Violation: 6-202.11(B) (Violation)
 2026-10-02,EARLY COLLEGE HIGH SCHOOL- NORTH HOUSTON,High School,grease_trap,8001 FULTON ST HOUSTON TX,77022,OPEN,0,
 2026-10-02,EARLY COLLEGE HIGH SCHOOL- NORTH HOUSTON,High School,inspection,8001 FULTON ST HOUSTON TX,77022,OPEN,0,
 2026-10-02,EARLY COLLEGE HIGH SCHOOL- NORTH HOUSTON,High School,inspection,8001 FULTON ST HOUSTON TX,77022,OPEN,0,
