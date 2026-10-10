@@ -96,6 +96,7 @@ class Inspection:
     status: str
     facility_type: str
     violations: list[dict] = field(default_factory=list)
+    details_fetched: bool = False
 
 
 class Stopped(Exception):
@@ -119,7 +120,7 @@ def form_body(start: dt.date, end: dt.date,
     return body
 
 
-def polite(fn, *args, stop: threading.Event | None = None, tries: int = 5, **kw):
+def polite(fn, *args, stop: threading.Event | None = None, tries: int = 8, **kw):
     """The site throttles bursts with HTTP 503; back off and retry."""
     for attempt in range(tries):
         if stop is not None and stop.is_set():
@@ -128,7 +129,7 @@ def polite(fn, *args, stop: threading.Event | None = None, tries: int = 5, **kw)
         if r.status_code != 503:
             r.raise_for_status()
             return r
-        time.sleep(5 * 2 ** attempt)
+        time.sleep(min(5 * 2 ** attempt, 120))
     raise RuntimeError("the site is still throttling after %d attempts" % tries)
 
 
@@ -241,9 +242,10 @@ def crawl_range(start: dt.date, end: dt.date, types: list[str],
     Searching a range instead of a day at a time is what keeps the request count down:
     ~40 types over a 14-day window costs 40 searches rather than 560.
 
-    `known` holds inspection_ids whose violations are already on file; their detail page
-    is not fetched again. Detail pages are the expensive half of the crawl and a filed
-    inspection does not change.
+    `known` holds inspection_ids whose detail page has already been fetched; it is not
+    fetched again. Detail pages are the expensive half of the crawl and a filed
+    inspection does not change. Note that a clean inspection has no violations, so
+    membership of `known` -- not an empty violation list -- is what marks one as done.
     """
     out: list[Inspection] = []
     for code in types:
@@ -257,6 +259,7 @@ def crawl_range(start: dt.date, end: dt.date, types: list[str],
                 if s is None:
                     s = fresh_session(stop)
                 insp.violations = fetch_violations(s, insp, start, end, [code], stop)
+                insp.details_fetched = True
                 # a detail POST invalidates the search session
                 s = fresh_session(stop)
         out += rows
@@ -275,6 +278,7 @@ def as_dict(insp: Inspection) -> dict:
         "site": insp.site,
         "date": insp.date,
         "status": insp.status,
+        "details_fetched": insp.details_fetched,
         "violations": insp.violations,
     }
 
