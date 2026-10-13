@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-10-13T02:56:10+00:00",
+  "generated_at": "2026-10-13T20:40:23+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1786,
+  "inspection_count": 1787,
   "grease_trap_count": 916,
-  "record_count": 2702,
+  "record_count": 2703,
   "campus_count": 470,
   "violation_count": 2536,
   "inspections": [
+    {
+      "inspection_id": "1A396F9F-FF3A-4BDD-7B0A1502F638F91C",
+      "record_type": "inspection",
+      "facility_id": "11472",
+      "campus": "BARBARA JORDAN VOCATIONAL HIGH SCHOOL",
+      "address": "5800 EASTEX FWY HOUSTON TX",
+      "zip": "77026",
+      "site": "KITCHEN",
+      "date": "2026-10-13",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
     {
       "inspection_id": "E7776B51-0961-E2D1-F56F57B4F7034E16",
       "record_type": "inspection",
