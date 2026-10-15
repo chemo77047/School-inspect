@@ -1,12 +1,58 @@
 {
-  "generated_at": "2026-10-14T23:51:13+00:00",
+  "generated_at": "2026-10-15T19:04:11+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1801,
-  "grease_trap_count": 923,
-  "record_count": 2724,
+  "inspection_count": 1808,
+  "grease_trap_count": 926,
+  "record_count": 2734,
   "campus_count": 470,
-  "violation_count": 2556,
+  "violation_count": 2562,
   "inspections": [
+    {
+      "inspection_id": "503E66C8-BE39-E0C6-67F170EBBFAD13D0",
+      "record_type": "inspection",
+      "facility_id": "11635",
+      "campus": "McGOWEN ELEMENTARY",
+      "address": "6820 HOMESTEAD HOUSTON TX",
+      "zip": "77028",
+      "site": "PREMISES",
+      "date": "2026-10-14",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "4F637DF6-F5C8-0649-7E16974CE0DB7FAF",
+      "record_type": "grease_trap",
+      "facility_id": "11635",
+      "campus": "McGOWEN ELEMENTARY",
+      "address": "6820 HOMESTEAD HOUSTON TX",
+      "zip": "77028",
+      "site": "FOG 79791",
+      "date": "2026-10-14",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "4F5BA680-FD3C-990B-75AEA1E63A82D365",
+      "record_type": "inspection",
+      "facility_id": "11635",
+      "campus": "McGOWEN ELEMENTARY",
+      "address": "6820 HOMESTEAD HOUSTON TX",
+      "zip": "77028",
+      "site": "KITCHEN",
+      "date": "2026-10-14",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
     {
       "inspection_id": "4CC2D0DD-0D9C-5EA7-9CFCC72427F35106",
       "record_type": "inspection",
@@ -756,6 +802,52 @@
       ]
     },
     {
+      "inspection_id": "E6005B6F-9156-CC0A-87B6E132B3209123",
+      "record_type": "inspection",
+      "facility_id": "11509",
+      "campus": "STEVENS ELEMENTARY",
+      "address": "1910 LAMONTE HOUSTON TX",
+      "zip": "77018",
+      "site": "Kitchen",
+      "date": "2026-10-07",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "E5A685D7-9DBE-60B4-64702A29A0BE24EE",
+      "record_type": "grease_trap",
+      "facility_id": "11509",
+      "campus": "STEVENS ELEMENTARY",
+      "address": "1910 LAMONTE HOUSTON TX",
+      "zip": "77018",
+      "site": "FOG 77564",
+      "date": "2026-10-07",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "E588D4E1-C809-CD30-9A1890B69C776F87",
+      "record_type": "inspection",
+      "facility_id": "11509",
+      "campus": "STEVENS ELEMENTARY",
+      "address": "1910 LAMONTE HOUSTON TX",
+      "zip": "77018",
+      "site": "Premises",
+      "date": "2026-10-07",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-301.12(A)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
       "inspection_id": "E6157394-AF2D-C5F1-D5FF4B0DECB1BBA4",
       "record_type": "inspection",
       "facility_id": "11459",
@@ -812,6 +904,52 @@
           "activity": "Routine Inspection (001)"
         }
       ]
+    },
+    {
+      "inspection_id": "E284DD70-EACF-7FE1-453CA61FE4E18159",
+      "record_type": "inspection",
+      "facility_id": "11406",
+      "campus": "OAK FOREST ELEMENTARY",
+      "address": "1401 W 43RD HOUSTON TX",
+      "zip": "77018",
+      "site": "Kitchen",
+      "date": "2026-10-07",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 51,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "E22B30D7-B0B9-0650-2F9E9BB4069E0A1C",
+      "record_type": "grease_trap",
+      "facility_id": "11406",
+      "campus": "OAK FOREST ELEMENTARY",
+      "address": "1401 W 43RD HOUSTON TX",
+      "zip": "77018",
+      "site": "FOG 77456",
+      "date": "2026-10-07",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "E2153421-0639-13F3-03B60F7A08560EB2",
+      "record_type": "inspection",
+      "facility_id": "11406",
+      "campus": "OAK FOREST ELEMENTARY",
+      "address": "1401 W 43RD HOUSTON TX",
+      "zip": "77018",
+      "site": "Premises",
+      "date": "2026-10-07",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
     },
     {
       "inspection_id": "E2B9C298-DF9D-1EB5-80C26264DA239EAE",
@@ -1799,6 +1937,38 @@
         {
           "no": 57,
           "item": "Houston Ordinance Violation: 2-301.12(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "E38B667D-A362-A8A6-E2B37F66951D8906",
+      "record_type": "inspection",
+      "facility_id": "11486",
+      "campus": "CLIFTON MIDDLE SCHOOL",
+      "address": "6001 GOLDEN FOREST HOUSTON TX",
+      "zip": "77092",
+      "site": "Kitchen",
+      "date": "2026-10-02",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 41,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 49,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 50,
+          "item": "Houston Ordinance Violation: 4-301.14",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
