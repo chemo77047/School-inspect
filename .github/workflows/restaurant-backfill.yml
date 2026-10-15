@@ -106,4 +106,9 @@ jobs:
           git add restaurant-backfill/inspections.json restaurant-backfill/inspections.csv
           git diff --cached --quiet && echo "nothing new" && exit 0
           git commit -m "Restaurant backfill $(date -u +%Y-%m-%d\ %H:%M) UTC"
-          git push
+          # the scheduled school scrape commits to main while a 5h backfill runs
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            git pull --rebase
+          done
+          exit 1
