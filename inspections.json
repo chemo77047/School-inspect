@@ -1,12 +1,340 @@
 {
-  "generated_at": "2026-10-15T19:04:11+00:00",
+  "generated_at": "2026-10-16T18:48:34+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1808,
-  "grease_trap_count": 926,
-  "record_count": 2734,
+  "inspection_count": 1820,
+  "grease_trap_count": 932,
+  "record_count": 2752,
   "campus_count": 470,
-  "violation_count": 2562,
+  "violation_count": 2596,
   "inspections": [
+    {
+      "inspection_id": "7F0FD3C6-BD8F-9555-B6E618B12F68DF44",
+      "record_type": "grease_trap",
+      "facility_id": "25E90CBF-5056-A20F-9EE1B0C0E148A23E",
+      "campus": "WOODLAND ACRES ELEMENTARY SCHOOL",
+      "address": "12936 SARAHS LN HOUSTON TX",
+      "zip": "77015",
+      "site": "FOG 208753- 1500 GALLONS",
+      "date": "2026-10-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-512(b)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "7F031BCA-DE23-C155-DD1393090C0D3850",
+      "record_type": "inspection",
+      "facility_id": "25E90CBF-5056-A20F-9EE1B0C0E148A23E",
+      "campus": "WOODLAND ACRES ELEMENTARY SCHOOL",
+      "address": "12936 SARAHS LN HOUSTON TX",
+      "zip": "77015",
+      "site": "PREMISES",
+      "date": "2026-10-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "7EC59FE4-A21E-E0C7-CB8BE73005C4E090",
+      "record_type": "inspection",
+      "facility_id": "25E90CBF-5056-A20F-9EE1B0C0E148A23E",
+      "campus": "WOODLAND ACRES ELEMENTARY SCHOOL",
+      "address": "12936 SARAHS LN HOUSTON TX",
+      "zip": "77015",
+      "site": "KITCHEN",
+      "date": "2026-10-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 6-301.12(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 9,
+          "item": "Houston Ordinance Violation: 4-602.11(E)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 32,
+          "item": "Houston Ordinance Violation: 3-302.12",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 33,
+          "item": "Houston Ordinance Violation: 6-501.112",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 46,
+          "item": "Houston Ordinance Violation: 2-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 48,
+          "item": "Houston Ordinance Violation: 5-203.14(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "80710C92-E0EB-D41C-EA78C4F808D428D1",
+      "record_type": "grease_trap",
+      "facility_id": "EC0204FA-FDD7-37C7-043F0D9B2F56DF14",
+      "campus": "VALLEY OAKS ELEMENTARY",
+      "address": "8390 WESTVIEW DR HOUSTON TX",
+      "zip": "77055",
+      "site": "FOG 203549",
+      "date": "2026-10-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "8063E3A6-DBF9-CD73-3A998C3EA851BDA5",
+      "record_type": "inspection",
+      "facility_id": "EC0204FA-FDD7-37C7-043F0D9B2F56DF14",
+      "campus": "VALLEY OAKS ELEMENTARY",
+      "address": "8390 WESTVIEW DR HOUSTON TX",
+      "zip": "77055",
+      "site": "PREMISES",
+      "date": "2026-10-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "8219702E-AC70-0308-A7A4997D9EEF4427",
+      "record_type": "grease_trap",
+      "facility_id": "11822",
+      "campus": "CIMARRON ELEMENTARY",
+      "address": "816 CIMARRON HOUSTON TX",
+      "zip": "77015",
+      "site": "FOG 79070",
+      "date": "2026-10-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-512(b)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "820618C6-F0CA-23F1-7427BAE9BA5CEB17",
+      "record_type": "inspection",
+      "facility_id": "11822",
+      "campus": "CIMARRON ELEMENTARY",
+      "address": "816 CIMARRON HOUSTON TX",
+      "zip": "77015",
+      "site": "PREMISES",
+      "date": "2026-10-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "81F0DED3-F341-69C7-515979E678B44A0E",
+      "record_type": "inspection",
+      "facility_id": "11822",
+      "campus": "CIMARRON ELEMENTARY",
+      "address": "816 CIMARRON HOUSTON TX",
+      "zip": "77015",
+      "site": "KITCHEN",
+      "date": "2026-10-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 37,
+          "item": "Houston Ordinance Violation: 3-304.14(B)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 44,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 49,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 53,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 54,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "7F0F1C10-BD2C-426F-4896CD6C906E6219",
+      "record_type": "inspection",
+      "facility_id": "11675",
+      "campus": "BUFFALO CREEK ELEMENTARY",
+      "address": "2801 BLALOCK HOUSTON TX",
+      "zip": "77080",
+      "site": "TOTAL SITES",
+      "date": "2026-10-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 4-203.12(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 3-304.14(B)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "7ED29C91-ECD8-DFBB-B2316935C0E68CD7",
+      "record_type": "inspection",
+      "facility_id": "11675",
+      "campus": "BUFFALO CREEK ELEMENTARY",
+      "address": "2801 BLALOCK HOUSTON TX",
+      "zip": "77080",
+      "site": "PREMISES",
+      "date": "2026-10-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "7ECAB261-D9D2-0589-81623EED6423B03D",
+      "record_type": "grease_trap",
+      "facility_id": "11675",
+      "campus": "BUFFALO CREEK ELEMENTARY",
+      "address": "2801 BLALOCK HOUSTON TX",
+      "zip": "77080",
+      "site": "FOG 84869",
+      "date": "2026-10-15",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "50717420-964B-D7F4-C5D5918D0EA78D08",
+      "record_type": "grease_trap",
+      "facility_id": "11599",
+      "campus": "OATES ELEMENTARY",
+      "address": "10044 WALLISVILLE HOUSTON TX",
+      "zip": "77013",
+      "site": "FOG 75055",
+      "date": "2026-10-14",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "50659E68-C340-643A-2D1073C3C5EE5D93",
+      "record_type": "inspection",
+      "facility_id": "11599",
+      "campus": "OATES ELEMENTARY",
+      "address": "10044 WALLISVILLE HOUSTON TX",
+      "zip": "77013",
+      "site": "PREMISES",
+      "date": "2026-10-14",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-501.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "50560404-0602-9B00-E548F52678BC7295",
+      "record_type": "inspection",
+      "facility_id": "11599",
+      "campus": "OATES ELEMENTARY",
+      "address": "10044 WALLISVILLE HOUSTON TX",
+      "zip": "77013",
+      "site": "KITCHEN",
+      "date": "2026-10-14",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 48,
+          "item": "Houston Ordinance Violation: 5-203.14(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 49,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 53,
+          "item": "Houston Ordinance Violation: 6-101.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
     {
       "inspection_id": "503E66C8-BE39-E0C6-67F170EBBFAD13D0",
       "record_type": "inspection",
@@ -91,6 +419,96 @@
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
+    },
+    {
+      "inspection_id": "52F440C2-A7B2-F601-4A1F26649C3304D8",
+      "record_type": "grease_trap",
+      "facility_id": "81D3E41A-0E96-BE2C-914FE9FBF4789246",
+      "campus": "B.C. ELMORE ELEMENTARY",
+      "address": "8200 TATE HOUSTON TX",
+      "zip": "77028",
+      "site": "FOG 203672",
+      "date": "2026-10-14",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-512(b)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "52E7DD27-E9C5-806C-6ADD70DA35224CC1",
+      "record_type": "inspection",
+      "facility_id": "81D3E41A-0E96-BE2C-914FE9FBF4789246",
+      "campus": "B.C. ELMORE ELEMENTARY",
+      "address": "8200 TATE HOUSTON TX",
+      "zip": "77028",
+      "site": "PREMISES",
+      "date": "2026-10-14",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "52B95E37-ACCD-4A90-90EBD8554A7CC728",
+      "record_type": "inspection",
+      "facility_id": "81D3E41A-0E96-BE2C-914FE9FBF4789246",
+      "campus": "B.C. ELMORE ELEMENTARY",
+      "address": "8200 TATE HOUSTON TX",
+      "zip": "77028",
+      "site": "KITCHEN",
+      "date": "2026-10-14",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 9,
+          "item": "Houston Ordinance Violation: 4-602.11(E)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 48,
+          "item": "Houston Ordinance Violation: 5-203.14(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 53,
+          "item": "Houston Ordinance Violation: 6-501.16",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 54,
+          "item": "Houston Ordinance Violation: 6-501.114(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
     },
     {
       "inspection_id": "1A396F9F-FF3A-4BDD-7B0A1502F638F91C",
@@ -424,6 +842,38 @@
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
+    },
+    {
+      "inspection_id": "16944C9C-BC58-F89C-714C5948CE60AF58",
+      "record_type": "inspection",
+      "facility_id": "11529",
+      "campus": "WAINWRIGHT ELEMENTARY SCHOOL",
+      "address": "5330 MILWEE HOUSTON TX",
+      "zip": "77092",
+      "site": "Kitchen",
+      "date": "2026-10-08",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 32,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 46,
+          "item": "Houston Ordinance Violation: 5-202.13",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 50,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
     },
     {
       "inspection_id": "1A88BA39-F904-BD9C-9668FDA6BECED2F2",
