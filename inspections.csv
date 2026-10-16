@@ -1,4 +1,10 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
+2026-10-16,ISAACS ELEMENTARY,Elementary,grease_trap,3830 PICKFAIR HOUSTON TX,77026,OPEN,0,
+2026-10-16,ISAACS ELEMENTARY,Elementary,inspection,3830 PICKFAIR HOUSTON TX,77026,OPEN,2,1 Houston Ordinance Violation: 5-501.113 (Violation) | 2 Houston Ordinance Violation: 5-501.15(A) (Violation)
+2026-10-16,ISAACS ELEMENTARY,Elementary,inspection,3830 PICKFAIR HOUSTON TX,77026,OPEN,2,43 Houston Ordinance Violation: 4-501.11(A) (Violation Repeat) | 52 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
+2026-10-16,HILLIARD ELEMENTARY SCHOOL,Elementary,grease_trap,8115 E HOUSTON RD HOUSTON TX,77028,OPEN,0,
+2026-10-16,HILLIARD ELEMENTARY SCHOOL,Elementary,inspection,8115 E HOUSTON RD HOUSTON TX,77028,OPEN,1,1 Houston Ordinance Violation: 4-602.11(E) (Violation)
+2026-10-16,HILLIARD ELEMENTARY SCHOOL,Elementary,inspection,8115 E HOUSTON RD HOUSTON TX,77028,OPEN,6,43 Houston Ordinance Violation: 4-501.11(A) (Violation) | 45 Houston Ordinance Violation: 4-601.11(C) (Violation Repeat) | 48 Houston Ordinance Violation: 5-205.15 (Violation) | 52 Houston Ordinance Violation: 6-501.12(A) (Violation) | 53 Houston Ordinance Violation: 6-501.16 (Violation) | 54 Houston Ordinance Violation: 6-501.110(B) (Violation)
 2026-10-15,WOODLAND ACRES ELEMENTARY SCHOOL,Elementary,grease_trap,12936 SARAHS LN HOUSTON TX,77015,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
 2026-10-15,WOODLAND ACRES ELEMENTARY SCHOOL,Elementary,inspection,12936 SARAHS LN HOUSTON TX,77015,OPEN,0,
 2026-10-15,WOODLAND ACRES ELEMENTARY SCHOOL,Elementary,inspection,12936 SARAHS LN HOUSTON TX,77015,OPEN,7,3 Houston Ordinance Violation: 6-301.12(A) (Violation Repeat) | 9 Houston Ordinance Violation: 4-602.11(E) (Violation Repeat) | 32 Houston Ordinance Violation: 3-302.12 (Violation) | 33 Houston Ordinance Violation: 6-501.112 (Violation Repeat) | 46 Houston Ordinance Violation: 2-501.11 (Violation) | 48 Houston Ordinance Violation: 5-203.14(A) (Violation) | 52 Houston Ordinance Violation: 6-501.12(A) (Violation)

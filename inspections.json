@@ -1,12 +1,160 @@
 {
-  "generated_at": "2026-10-16T18:48:34+00:00",
+  "generated_at": "2026-10-16T23:22:48+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1820,
-  "grease_trap_count": 932,
-  "record_count": 2752,
+  "inspection_count": 1824,
+  "grease_trap_count": 934,
+  "record_count": 2758,
   "campus_count": 470,
-  "violation_count": 2596,
+  "violation_count": 2607,
   "inspections": [
+    {
+      "inspection_id": "B7DE702A-FD6D-945A-FCEA39F1FDBA8B5B",
+      "record_type": "grease_trap",
+      "facility_id": "11540",
+      "campus": "ISAACS ELEMENTARY",
+      "address": "3830 PICKFAIR HOUSTON TX",
+      "zip": "77026",
+      "site": "FOG 80227",
+      "date": "2026-10-16",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "B7D565B0-0180-BC29-8A2697C48ACC25BF",
+      "record_type": "inspection",
+      "facility_id": "11540",
+      "campus": "ISAACS ELEMENTARY",
+      "address": "3830 PICKFAIR HOUSTON TX",
+      "zip": "77026",
+      "site": "Total Sites",
+      "date": "2026-10-16",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 5-501.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "B7BF3168-EA12-3899-F13069CA82987630",
+      "record_type": "inspection",
+      "facility_id": "11540",
+      "campus": "ISAACS ELEMENTARY",
+      "address": "3830 PICKFAIR HOUSTON TX",
+      "zip": "77026",
+      "site": "KITCHEN",
+      "date": "2026-10-16",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "B4A72751-BD9F-4E4D-F902D3A8E9A67DD6",
+      "record_type": "grease_trap",
+      "facility_id": "81A74331-FB7E-4D94-961D9CC4C47D1D8E",
+      "campus": "HILLIARD ELEMENTARY SCHOOL",
+      "address": "8115 E HOUSTON RD HOUSTON TX",
+      "zip": "77028",
+      "site": "FOG 203666",
+      "date": "2026-10-16",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "B49CCF1E-9F8D-9F23-27E5B4CA15B8CE47",
+      "record_type": "inspection",
+      "facility_id": "81A74331-FB7E-4D94-961D9CC4C47D1D8E",
+      "campus": "HILLIARD ELEMENTARY SCHOOL",
+      "address": "8115 E HOUSTON RD HOUSTON TX",
+      "zip": "77028",
+      "site": "PREMISES",
+      "date": "2026-10-16",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 4-602.11(E)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "B48460BF-E1F7-330E-27973D124C8A9AD2",
+      "record_type": "inspection",
+      "facility_id": "81A74331-FB7E-4D94-961D9CC4C47D1D8E",
+      "campus": "HILLIARD ELEMENTARY SCHOOL",
+      "address": "8115 E HOUSTON RD HOUSTON TX",
+      "zip": "77028",
+      "site": "ESTABLISHMENT",
+      "date": "2026-10-16",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 45,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 48,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 53,
+          "item": "Houston Ordinance Violation: 6-501.16",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 54,
+          "item": "Houston Ordinance Violation: 6-501.110(B)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
     {
       "inspection_id": "7F0FD3C6-BD8F-9555-B6E618B12F68DF44",
       "record_type": "grease_trap",
