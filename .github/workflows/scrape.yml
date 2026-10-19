@@ -11,6 +11,10 @@ on:
     - cron: "0 16 * * *"   # 10:00 CST
     - cron: "0 21 * * *"   # 16:00 CDT
     - cron: "0 22 * * *"   # 16:00 CST
+    # Monthly deep sweep on the 1st: the 75-day catch-up found 24 records the
+    # portal posted 3+ weeks late (some 60+ days), which the daily window can
+    # never see. The gate emits days=90 for this cron, 21 for the daily ones.
+    - cron: "0 14 1 * *"   # ~09:00 Central
   workflow_dispatch:
     inputs:
       days:
@@ -29,6 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       run: ${{ steps.slot.outputs.run }}
+      days: ${{ steps.slot.outputs.days }}
     steps:
       - id: slot
         env:
@@ -43,11 +48,18 @@ jobs:
           else
             morning="0 16 * * *"; evening="0 22 * * *"   # CST
           fi
+          monthly="0 14 1 * *"
           if [ "$EVENT" != "schedule" ] || [ "$SCHEDULE" = "$morning" ] \
-             || [ "$SCHEDULE" = "$evening" ]; then
+             || [ "$SCHEDULE" = "$evening" ] || [ "$SCHEDULE" = "$monthly" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
+            if [ "$SCHEDULE" = "$monthly" ]; then
+              echo "days=90" >> "$GITHUB_OUTPUT"
+            else
+              echo "days=21" >> "$GITHUB_OUTPUT"
+            fi
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "days=21" >> "$GITHUB_OUTPUT"
             echo "cron '$SCHEDULE' belongs to the other DST offset; skipping"
           fi
 
@@ -65,7 +77,7 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - run: python update_inspections.py --days ${{ github.event.inputs.days || 21 }}
+      - run: python update_inspections.py --days ${{ github.event.inputs.days || needs.gate.outputs.days || 21 }}
 
       - name: Commit refreshed data
         run: |
