@@ -1,8 +1,99 @@
 {
- "generated_at": "2026-10-19T03:06:19+00:00",
+ "generated_at": "2026-10-19T03:39:34+00:00",
  "source": "latest day per facility, bundled from inspections.json",
- "record_count": 473,
+ "record_count": 474,
  "records": [
+  {
+   "facility_id": "11540",
+   "campus": "ISAACS ELEMENTARY",
+   "address": "3830 PICKFAIR HOUSTON TX",
+   "zip": "77026",
+   "site": "Total Sites",
+   "level": "Elementary",
+   "date": "2026-10-16",
+   "status": "OPEN",
+   "violation_count": 4,
+   "inspections_that_day": 2,
+   "inspection_id": "B7D565B0-0180-BC29-8A2697C48ACC25BF"
+  },
+  {
+   "facility_id": "81A74331-FB7E-4D94-961D9CC4C47D1D8E",
+   "campus": "HILLIARD ELEMENTARY SCHOOL",
+   "address": "8115 E HOUSTON RD HOUSTON TX",
+   "zip": "77028",
+   "site": "ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-16",
+   "status": "OPEN",
+   "violation_count": 7,
+   "inspections_that_day": 2,
+   "inspection_id": "B48460BF-E1F7-330E-27973D124C8A9AD2"
+  },
+  {
+   "facility_id": "25E90CBF-5056-A20F-9EE1B0C0E148A23E",
+   "campus": "WOODLAND ACRES ELEMENTARY SCHOOL",
+   "address": "12936 SARAHS LN HOUSTON TX",
+   "zip": "77015",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-15",
+   "status": "OPEN",
+   "violation_count": 7,
+   "inspections_that_day": 2,
+   "inspection_id": "7EC59FE4-A21E-E0C7-CB8BE73005C4E090"
+  },
+  {
+   "facility_id": "EC0204FA-FDD7-37C7-043F0D9B2F56DF14",
+   "campus": "VALLEY OAKS ELEMENTARY",
+   "address": "8390 WESTVIEW DR HOUSTON TX",
+   "zip": "77055",
+   "site": "PREMISES",
+   "level": "Elementary",
+   "date": "2026-10-15",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "8063E3A6-DBF9-CD73-3A998C3EA851BDA5"
+  },
+  {
+   "facility_id": "11822",
+   "campus": "CIMARRON ELEMENTARY",
+   "address": "816 CIMARRON HOUSTON TX",
+   "zip": "77015",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-15",
+   "status": "OPEN",
+   "violation_count": 7,
+   "inspections_that_day": 2,
+   "inspection_id": "81F0DED3-F341-69C7-515979E678B44A0E"
+  },
+  {
+   "facility_id": "11675",
+   "campus": "BUFFALO CREEK ELEMENTARY",
+   "address": "2801 BLALOCK HOUSTON TX",
+   "zip": "77080",
+   "site": "TOTAL SITES",
+   "level": "Elementary",
+   "date": "2026-10-15",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 2,
+   "inspection_id": "7F0F1C10-BD2C-426F-4896CD6C906E6219"
+  },
+  {
+   "facility_id": "11599",
+   "campus": "OATES ELEMENTARY",
+   "address": "10044 WALLISVILLE HOUSTON TX",
+   "zip": "77013",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-14",
+   "status": "OPEN",
+   "violation_count": 5,
+   "inspections_that_day": 2,
+   "inspection_id": "50560404-0602-9B00-E548F52678BC7295"
+  },
   {
    "facility_id": "11635",
    "campus": "McGOWEN ELEMENTARY",
@@ -28,6 +119,19 @@
    "violation_count": 0,
    "inspections_that_day": 2,
    "inspection_id": "4CC2D0DD-0D9C-5EA7-9CFCC72427F35106"
+  },
+  {
+   "facility_id": "81D3E41A-0E96-BE2C-914FE9FBF4789246",
+   "campus": "B.C. ELMORE ELEMENTARY",
+   "address": "8200 TATE HOUSTON TX",
+   "zip": "77028",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-14",
+   "status": "OPEN",
+   "violation_count": 7,
+   "inspections_that_day": 2,
+   "inspection_id": "52B95E37-ACCD-4A90-90EBD8554A7CC728"
   },
   {
    "facility_id": "11472",
@@ -116,8 +220,8 @@
    "level": "Elementary",
    "date": "2026-10-08",
    "status": "OPEN",
-   "violation_count": 4,
-   "inspections_that_day": 1,
+   "violation_count": 7,
+   "inspections_that_day": 2,
    "inspection_id": "172F9786-D7D0-4939-C3AF227BC25499D1"
   },
   {
@@ -801,13 +905,13 @@
    "campus": "ROOSEVELT ELEMENTARY SCHOOL",
    "address": "6700 FULTON ST HOUSTON TX",
    "zip": "77022",
-   "site": "PREMISES-DRINKING WATER FOUNTAINS / RESTROOMS",
+   "site": "KITCHEN",
    "level": "Elementary",
    "date": "2026-09-24",
    "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "479908AA-C97E-E3D5-EE94A480EAA7B0D5"
+   "violation_count": 1,
+   "inspections_that_day": 2,
+   "inspection_id": "47B52DAD-AC01-DB77-3C37DFA0D4C3D723"
   },
   {
    "facility_id": "11510",
@@ -1234,8 +1338,8 @@
    "level": "Elementary",
    "date": "2026-09-11",
    "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 1,
+   "violation_count": 6,
+   "inspections_that_day": 3,
    "inspection_id": "DB918D21-DD25-423C-6594114CA2AD16C2"
   },
   {
@@ -1317,6 +1421,19 @@
    "inspection_id": "0FF4D12B-FC82-9F05-4808B03105FF03D1"
   },
   {
+   "facility_id": "11660",
+   "campus": "NOTTINGHAM ELEMENTARY SCHOOL",
+   "address": "570 NOTTINGHAM OAKS TRL HOUSTON TX",
+   "zip": "77079",
+   "site": "PREMISES",
+   "level": "Elementary",
+   "date": "2026-09-08",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 3,
+   "inspection_id": "0F46CA88-A1B9-246D-A1E42FB53A007FB1"
+  },
+  {
    "facility_id": "2711A651-D15A-59D0-A6A4E3121F103DC3",
    "campus": "NEFF ELEMENTARY SCHOOL",
    "address": "8301 NEFF HOUSTON TX",
@@ -1343,6 +1460,19 @@
    "inspection_id": "0A711D52-F4FE-82E0-C4D7C054AF7EE1E0"
   },
   {
+   "facility_id": "49046",
+   "campus": "BRIARMEADOW CHARTER SCHOOL",
+   "address": "3601 DUNVALE HOUSTON TX",
+   "zip": "77063",
+   "site": "Premises",
+   "level": "Elementary",
+   "date": "2026-09-08",
+   "status": "OPEN",
+   "violation_count": 4,
+   "inspections_that_day": 2,
+   "inspection_id": "44E7FCDB-E9D7-5DE6-38CFC362DBDA9254"
+  },
+  {
    "facility_id": "B85F9C55-C7CC-93C7-4B5AB9819E7DE136",
    "campus": "ALMEDA ELEMENTARY",
    "address": "14226 ALMEDA SCHOOL RD HOUSTON TX",
@@ -1354,6 +1484,19 @@
    "violation_count": 6,
    "inspections_that_day": 2,
    "inspection_id": "0EAAB14E-0870-19C7-4F03F5643DC35B51"
+  },
+  {
+   "facility_id": "11559",
+   "campus": "T.H.ROGERS SCHOOL",
+   "address": "5840 SAN FELIPE HOUSTON TX",
+   "zip": "77057",
+   "site": "Premises",
+   "level": "Middle / Jr. High",
+   "date": "2026-09-04",
+   "status": "OPEN",
+   "violation_count": 3,
+   "inspections_that_day": 1,
+   "inspection_id": "41CB5884-914E-E082-3B289A40940CF941"
   },
   {
    "facility_id": "11533",
@@ -1380,6 +1523,32 @@
    "violation_count": 0,
    "inspections_that_day": 2,
    "inspection_id": "3F6C01C9-D458-3B5D-907A7DBEDF5DBC0F"
+  },
+  {
+   "facility_id": "11657",
+   "campus": "SPRING FOREST MIDDLE SCHOOL",
+   "address": "14240 MEMORIAL DR HOUSTON TX",
+   "zip": "77079",
+   "site": "Kitchen",
+   "level": "Middle / Jr. High",
+   "date": "2026-09-03",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 2,
+   "inspection_id": "0CA8F417-D7BC-05A3-EBA530A08B54B446"
+  },
+  {
+   "facility_id": "2FF0DD7C-D16F-8E2A-9B2652DECDEE4930",
+   "campus": "CARNEGIE VANGUARD HIGH SCHOOL",
+   "address": "1501 TAFT ST HOUSTON TX",
+   "zip": "77019",
+   "site": "TOTAL ESTABLISHMENT",
+   "level": "High School",
+   "date": "2026-09-03",
+   "status": "OPEN",
+   "violation_count": 5,
+   "inspections_that_day": 1,
+   "inspection_id": "1352A3DD-09C3-AF44-A21638CFDBAD009A"
   },
   {
    "facility_id": "61132",
@@ -1421,6 +1590,58 @@
    "inspection_id": "DAD54E4D-C911-747E-9A80ABC6A73273C5"
   },
   {
+   "facility_id": "DB32B523-E539-55CD-62CDABE4EFF498B3",
+   "campus": "FRANCIS ELEMENTARY",
+   "address": "6525 GREENS RD HUMBLE TX",
+   "zip": "77396",
+   "site": "ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-09-02",
+   "status": "OPEN",
+   "violation_count": 3,
+   "inspections_that_day": 1,
+   "inspection_id": "DFE1B0D2-B8CE-3860-DDA90ECC2E6909AC"
+  },
+  {
+   "facility_id": "17BF4359-B3C1-2FB6-9BBD9FB9950A68C9",
+   "campus": "WALNUT BEND ELEMENTARY",
+   "address": "10620 BRIAR FOREST HOUSTON TX",
+   "zip": "77042",
+   "site": "Total Establishment",
+   "level": "Elementary",
+   "date": "2026-09-01",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 1,
+   "inspection_id": "AA491983-AD17-E7CA-5A3BE96C0C594562"
+  },
+  {
+   "facility_id": "11434",
+   "campus": "PAUL REVERE MIDDLE SCHOOL",
+   "address": "10502 BRIAR FOREST HOUSTON TX",
+   "zip": "77042",
+   "site": "Kitchen",
+   "level": "Middle / Jr. High",
+   "date": "2026-09-01",
+   "status": "OPEN",
+   "violation_count": 3,
+   "inspections_that_day": 1,
+   "inspection_id": "A735F151-B416-506C-815AAD8C136B03D2"
+  },
+  {
+   "facility_id": "11913",
+   "campus": "CARAWAY ELEMENTARY",
+   "address": "3031 ELLINGTON HOUSTON TX",
+   "zip": "77088",
+   "site": "Total Establishment",
+   "level": "Middle / Jr. High",
+   "date": "2026-09-01",
+   "status": "OPEN",
+   "violation_count": 4,
+   "inspections_that_day": 1,
+   "inspection_id": "A23CEDD1-DA8B-3899-9DD992CC39715F5A"
+  },
+  {
    "facility_id": "CB52C1B1-5056-A20F-9E0BA7F62CB572F3",
    "campus": "YES PREP ELEMENTARY-SOUTHWEST CAMPUS",
    "address": "5212 ANDERSON RD HOUSTON TX",
@@ -1432,6 +1653,19 @@
    "violation_count": 8,
    "inspections_that_day": 3,
    "inspection_id": "75EE314B-E404-652C-F6684FFB50C5CD4E"
+  },
+  {
+   "facility_id": "8AD30A15-EB1D-9D26-CEFC7A64DA8187A6",
+   "campus": "MEADOW WOOD ELEMENTARY",
+   "address": "14230 MEMORIAL DR HOUSTON TX",
+   "zip": "77079",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-08-31",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 2,
+   "inspection_id": "724174E6-D4FE-6A26-D26AFC88794C02FC"
   },
   {
    "facility_id": "519CEFD4-9636-C424-19BB12E95A0E77D5",
@@ -1679,6 +1913,19 @@
    "violation_count": 4,
    "inspections_that_day": 1,
    "inspection_id": "69B0E9DA-FFB7-4A5F-01FBB729E692BCCF"
+  },
+  {
+   "facility_id": "2E8AB107-5056-A20F-9E4BE8E1220B34E6",
+   "campus": "OUR MOTHER OF MERCY",
+   "address": "2010 BENSEN HOUSTON TX",
+   "zip": "77020",
+   "site": "255325",
+   "level": "Middle / Jr. High",
+   "date": "2026-08-07",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "A7A7861E-B170-152E-A8EA0B0834D09851"
   },
   {
    "facility_id": "2303",
@@ -2032,19 +2279,6 @@
    "inspection_id": "EC9BF0E8-976A-72B6-55E309A0919F400B"
   },
   {
-   "facility_id": "11822",
-   "campus": "CIMARRON ELEMENTARY",
-   "address": "816 CIMARRON HOUSTON TX",
-   "zip": "77015",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-05-21",
-   "status": "OPEN",
-   "violation_count": 5,
-   "inspections_that_day": 1,
-   "inspection_id": "EE7AEBE3-B481-175E-04A0C4A7FE13377E"
-  },
-  {
    "facility_id": "11824",
    "campus": "WOODLAND ACRES MIDDLE SCHOOL",
    "address": "12947 MYRTLE HOUSTON TX",
@@ -2056,19 +2290,6 @@
    "violation_count": 2,
    "inspections_that_day": 1,
    "inspection_id": "C2681105-CC4F-6A17-E41D6278CA2CF36E"
-  },
-  {
-   "facility_id": "25E90CBF-5056-A20F-9EE1B0C0E148A23E",
-   "campus": "WOODLAND ACRES ELEMENTARY SCHOOL",
-   "address": "12936 SARAHS LN HOUSTON TX",
-   "zip": "77015",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-05-20",
-   "status": "OPEN",
-   "violation_count": 5,
-   "inspections_that_day": 1,
-   "inspection_id": "BF3E3440-F9B6-7D4F-680C9332AD4CE496"
   },
   {
    "facility_id": "948D4684-AB3D-0577-B4CC929DF3157DC4",
@@ -2134,32 +2355,6 @@
    "violation_count": 0,
    "inspections_that_day": 1,
    "inspection_id": "BA2DEF89-E8CD-A00A-7ECFB9C16A1E7C99"
-  },
-  {
-   "facility_id": "11540",
-   "campus": "ISAACS ELEMENTARY",
-   "address": "3830 PICKFAIR HOUSTON TX",
-   "zip": "77026",
-   "site": "Total Sites",
-   "level": "Elementary",
-   "date": "2026-05-20",
-   "status": "OPEN",
-   "violation_count": 5,
-   "inspections_that_day": 1,
-   "inspection_id": "BE8C2B00-9425-2861-DB8DBB94721C107C"
-  },
-  {
-   "facility_id": "81A74331-FB7E-4D94-961D9CC4C47D1D8E",
-   "campus": "HILLIARD ELEMENTARY SCHOOL",
-   "address": "8115 E HOUSTON RD HOUSTON TX",
-   "zip": "77028",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-05-20",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "C121E50E-BAD7-052C-8793B62719E56B86"
   },
   {
    "facility_id": "11539",
@@ -2303,19 +2498,6 @@
    "violation_count": 3,
    "inspections_that_day": 3,
    "inspection_id": "5437C88D-0B5C-9616-4E51B99C20C085CB"
-  },
-  {
-   "facility_id": "11559",
-   "campus": "T.H.ROGERS SCHOOL",
-   "address": "5840 SAN FELIPE HOUSTON TX",
-   "zip": "77057",
-   "site": "Total establishment",
-   "level": "Middle / Jr. High",
-   "date": "2026-05-18",
-   "status": "OPEN",
-   "violation_count": 3,
-   "inspections_that_day": 2,
-   "inspection_id": "52CB023C-CC24-C295-4ED24789E26F386C"
   },
   {
    "facility_id": "11413",
@@ -2511,19 +2693,6 @@
    "violation_count": 3,
    "inspections_that_day": 3,
    "inspection_id": "51DF0F40-CFDF-0F0F-39C53471918A11F8"
-  },
-  {
-   "facility_id": "49046",
-   "campus": "BRIARMEADOW CHARTER SCHOOL",
-   "address": "3601 DUNVALE HOUSTON TX",
-   "zip": "77063",
-   "site": "Total Establishment",
-   "level": "Elementary",
-   "date": "2026-05-13",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 1,
-   "inspection_id": "51D610E4-CC61-3850-282AE1F405632012"
   },
   {
    "facility_id": "11480",
@@ -2812,19 +2981,6 @@
    "inspection_id": "F5DB9053-E586-6D44-CA1A9A5B717B5D10"
   },
   {
-   "facility_id": "17BF4359-B3C1-2FB6-9BBD9FB9950A68C9",
-   "campus": "WALNUT BEND ELEMENTARY",
-   "address": "10620 BRIAR FOREST HOUSTON TX",
-   "zip": "77042",
-   "site": "Total Establishment",
-   "level": "Elementary",
-   "date": "2026-05-05",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "B5263081-9FA3-27C3-ACA08C636B40810E"
-  },
-  {
    "facility_id": "11570",
    "campus": "TIJERINA ELEMENTARY SCHOOL",
    "address": "6501 SHERMAN HOUSTON TX",
@@ -3085,19 +3241,6 @@
    "inspection_id": "B3B64105-091E-97FE-DA202440020766BB"
   },
   {
-   "facility_id": "11434",
-   "campus": "PAUL REVERE MIDDLE SCHOOL",
-   "address": "10502 BRIAR FOREST HOUSTON TX",
-   "zip": "77042",
-   "site": "Kitchen",
-   "level": "Middle / Jr. High",
-   "date": "2026-04-30",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "B445BD98-F32D-766F-3954CE88DFBEF3C1"
-  },
-  {
    "facility_id": "7C5468A8-5056-A20F-9ECB00D000B565A4",
    "campus": "YES PREP SOUTHEAST ELEMENTARY",
    "address": "507 CRENSHAW RD HOUSTON TX",
@@ -3122,19 +3265,6 @@
    "violation_count": 0,
    "inspections_that_day": 2,
    "inspection_id": "803224D0-CCB5-60AF-A5F05EFD8F425187"
-  },
-  {
-   "facility_id": "11599",
-   "campus": "OATES ELEMENTARY",
-   "address": "10044 WALLISVILLE HOUSTON TX",
-   "zip": "77013",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-04-29",
-   "status": "OPEN",
-   "violation_count": 3,
-   "inspections_that_day": 1,
-   "inspection_id": "83695014-0684-2986-A0EE566D81A0D952"
   },
   {
    "facility_id": "11456",
@@ -3330,19 +3460,6 @@
    "violation_count": 3,
    "inspections_that_day": 2,
    "inspection_id": "1B58B48F-9DC2-DEDC-2B8AD4C2EF86F43D"
-  },
-  {
-   "facility_id": "81D3E41A-0E96-BE2C-914FE9FBF4789246",
-   "campus": "B.C. ELMORE ELEMENTARY",
-   "address": "8200 TATE HOUSTON TX",
-   "zip": "77028",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-04-27",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 1,
-   "inspection_id": "1BF0BE11-CFFE-9390-95B0070AAFC7845D"
   },
   {
    "facility_id": "11518",
@@ -3943,19 +4060,6 @@
    "inspection_id": "4889C5AF-D4E0-063B-6D046766FBD80BCA"
   },
   {
-   "facility_id": "2FF0DD7C-D16F-8E2A-9B2652DECDEE4930",
-   "campus": "CARNEGIE VANGUARD HIGH SCHOOL",
-   "address": "1501 TAFT ST HOUSTON TX",
-   "zip": "77019",
-   "site": "TOTAL ESTABLISHMENT",
-   "level": "High School",
-   "date": "2026-04-08",
-   "status": "OPEN",
-   "violation_count": 3,
-   "inspections_that_day": 2,
-   "inspection_id": "45889899-D538-D340-548636595489E53E"
-  },
-  {
    "facility_id": "12168",
    "campus": "ARMAND BAYOU ELEMENTARY SCHOOL",
    "address": "16000 HICKORY KNOLL HOUSTON TX",
@@ -4190,19 +4294,6 @@
    "inspection_id": "A98DBCA2-E111-20FF-77D479BEFCC43280"
   },
   {
-   "facility_id": "11657",
-   "campus": "SPRING FOREST MIDDLE SCHOOL",
-   "address": "14240 MEMORIAL DR HOUSTON TX",
-   "zip": "77079",
-   "site": "Kitchen",
-   "level": "Middle / Jr. High",
-   "date": "2026-03-30",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 2,
-   "inspection_id": "769478D7-AACF-E128-9A42B1B07DEF0840"
-  },
-  {
    "facility_id": "12401",
    "campus": "RIVERWOOD MIDDLE SCHOOL",
    "address": "2910 HIGH VALLEY HOUSTON TX",
@@ -4357,19 +4448,6 @@
    "violation_count": 4,
    "inspections_that_day": 2,
    "inspection_id": "77C73C19-B8AF-85D9-87EB95C9499FDA4A"
-  },
-  {
-   "facility_id": "11660",
-   "campus": "NOTTINGHAM ELEMENTARY SCHOOL",
-   "address": "570 NOTTINGHAM OAKS TRL HOUSTON TX",
-   "zip": "77079",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-03-25",
-   "status": "OPEN",
-   "violation_count": 3,
-   "inspections_that_day": 3,
-   "inspection_id": "7504678C-068A-241F-5561AF325BBE0026"
   },
   {
    "facility_id": "11670",
@@ -4710,19 +4788,6 @@
    "inspection_id": "DA2A2D87-DA57-0CC4-83B9A220993F7FF0"
   },
   {
-   "facility_id": "EC0204FA-FDD7-37C7-043F0D9B2F56DF14",
-   "campus": "VALLEY OAKS ELEMENTARY",
-   "address": "8390 WESTVIEW DR HOUSTON TX",
-   "zip": "77055",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-03-17",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 1,
-   "inspection_id": "DB9D5585-A56B-49B3-0946EAE1DCE71EF5"
-  },
-  {
    "facility_id": "54951",
    "campus": "NORTHSIDE HS",
    "address": "1101 QUITMAN HOUSTON TX",
@@ -5033,19 +5098,6 @@
    "violation_count": 3,
    "inspections_that_day": 2,
    "inspection_id": "0B63E859-C94B-CC1E-F06D3D395DE9EFE9"
-  },
-  {
-   "facility_id": "8AD30A15-EB1D-9D26-CEFC7A64DA8187A6",
-   "campus": "MEADOW WOOD ELEMENTARY",
-   "address": "14230 MEMORIAL DR HOUSTON TX",
-   "zip": "77079",
-   "site": "PREMISES",
-   "level": "Elementary",
-   "date": "2026-03-03",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 2,
-   "inspection_id": "0B735270-B560-9CA8-BBF60358F2F0BCE1"
   },
   {
    "facility_id": "11567",
@@ -5503,19 +5555,6 @@
    "inspection_id": "39528473-ABC1-930B-21D0384D880C9D8E"
   },
   {
-   "facility_id": "11913",
-   "campus": "CARAWAY ELEMENTARY",
-   "address": "3031 ELLINGTON HOUSTON TX",
-   "zip": "77088",
-   "site": "Total Establishment",
-   "level": "Middle / Jr. High",
-   "date": "2026-02-02",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "31EEBA7A-CA89-EC06-2152CAD1C359B9EF"
-  },
-  {
    "facility_id": "49264",
    "campus": "GROSS ELEMENTARY SCHOOL",
    "address": "12583 S GESSNER HOUSTON TX",
@@ -5592,19 +5631,6 @@
    "violation_count": 0,
    "inspections_that_day": 2,
    "inspection_id": "CD101F73-07D2-2B0F-48B70CBF67AD82B9"
-  },
-  {
-   "facility_id": "DB32B523-E539-55CD-62CDABE4EFF498B3",
-   "campus": "FRANCIS ELEMENTARY",
-   "address": "6525 GREENS RD HUMBLE TX",
-   "zip": "77396",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-01-16",
-   "status": "OPEN",
-   "violation_count": 7,
-   "inspections_that_day": 1,
-   "inspection_id": "D0368AD8-9A1B-EE2D-335A3CB554F8C581"
   },
   {
    "facility_id": "12119",
@@ -6034,19 +6060,6 @@
    "violation_count": 4,
    "inspections_that_day": 2,
    "inspection_id": "78E61CD4-E6EB-8323-FCE345D06DECC6CB"
-  },
-  {
-   "facility_id": "11675",
-   "campus": "BUFFALO CREEK ELEMENTARY",
-   "address": "2801 BLALOCK HOUSTON TX",
-   "zip": "77080",
-   "site": "TOTAL SITES",
-   "level": "Elementary",
-   "date": "2025-10-17",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 2,
-   "inspection_id": "7C804B67-A4FD-ECE8-3B5826A966F4499C"
   },
   {
    "facility_id": "4FB843D0-5056-A20F-9EB91E350BAF7E86",
