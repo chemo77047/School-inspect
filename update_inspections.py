@@ -1,10 +1,11 @@
 """Refresh inspections.json -- what the GitHub Actions schedule runs.
 
-Re-scrapes a rolling window (default: the last 14 days) because the health department
-enters inspections several days late. Records merge on inspection_id, so a day can be
+Re-scrapes a rolling window (default: the last 21 days) because the health department
+enters inspections several days late — the slowest observed posting was 13 days, so
+14 left no margin. Records merge on inspection_id, so a day can be
 scraped any number of times without creating duplicates, and a late entry still lands.
 
-    python update_inspections.py                 # last 14 days
+    python update_inspections.py                 # last 21 days
     python update_inspections.py --days 30
     python update_inspections.py --start 2025-07-01 --end 2025-12-31   # backfill
 """
@@ -73,8 +74,8 @@ def main() -> int:
     ap.add_argument("--json", type=Path, default=HERE / "inspections.json")
     ap.add_argument("--csv", type=Path, default=HERE / "inspections.csv")
     ap.add_argument("--latest", type=Path, default=HERE / "latest.json")
-    ap.add_argument("--days", type=int, default=14,
-                    help="size of the rolling re-scrape window (default 14)")
+    ap.add_argument("--days", type=int, default=21,
+                    help="size of the rolling re-scrape window (default 21)")
     ap.add_argument("--start", type=dt.date.fromisoformat)
     ap.add_argument("--end", type=dt.date.fromisoformat, default=dt.date.today())
     ap.add_argument("--types", default=",".join(LEVELS))

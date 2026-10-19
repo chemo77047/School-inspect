@@ -65,7 +65,7 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - run: python update_inspections.py --days ${{ github.event.inputs.days || 14 }}
+      - run: python update_inspections.py --days ${{ github.event.inputs.days || 21 }}
 
       - name: Commit refreshed data
         run: |
