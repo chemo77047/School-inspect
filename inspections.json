@@ -1,12 +1,70 @@
 {
-  "generated_at": "2026-10-22T00:03:55+00:00",
+  "generated_at": "2026-10-22T19:15:39+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1877,
-  "grease_trap_count": 959,
-  "record_count": 2836,
+  "inspection_count": 1879,
+  "grease_trap_count": 960,
+  "record_count": 2839,
   "campus_count": 471,
-  "violation_count": 2702,
+  "violation_count": 2705,
   "inspections": [
+    {
+      "inspection_id": "B27E70BF-A797-6101-6CD3CD06184A32E1",
+      "record_type": "grease_trap",
+      "facility_id": "74910",
+      "campus": "RODERICK PAIGE  ELEMENTARY  SCHOOL",
+      "address": "7501 CURRY RD HOUSTON TX",
+      "zip": "77093",
+      "site": "FOG 107557",
+      "date": "2026-10-21",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "B273A73B-B711-4091-86B9C1572796CCB9",
+      "record_type": "inspection",
+      "facility_id": "74910",
+      "campus": "RODERICK PAIGE  ELEMENTARY  SCHOOL",
+      "address": "7501 CURRY RD HOUSTON TX",
+      "zip": "77093",
+      "site": "PREMISES",
+      "date": "2026-10-21",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "B24CB0C7-E068-D270-92B7C2049FA88D5F",
+      "record_type": "inspection",
+      "facility_id": "74910",
+      "campus": "RODERICK PAIGE  ELEMENTARY  SCHOOL",
+      "address": "7501 CURRY RD HOUSTON TX",
+      "zip": "77093",
+      "site": "KITCHEN",
+      "date": "2026-10-21",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 37,
+          "item": "Houston Ordinance Violation: 3-304.14(B)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 48,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
     {
       "inspection_id": "B6311589-B684-2ECC-DAF8B27475B3F94B",
       "record_type": "inspection",

@@ -1,4 +1,7 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
+2026-10-21,RODERICK PAIGE  ELEMENTARY  SCHOOL,Elementary,grease_trap,7501 CURRY RD HOUSTON TX,77093,OPEN,0,
+2026-10-21,RODERICK PAIGE  ELEMENTARY  SCHOOL,Elementary,inspection,7501 CURRY RD HOUSTON TX,77093,OPEN,0,
+2026-10-21,RODERICK PAIGE  ELEMENTARY  SCHOOL,Elementary,inspection,7501 CURRY RD HOUSTON TX,77093,OPEN,3,37 Houston Ordinance Violation: 3-304.14(B) (Violation) | 48 Houston Ordinance Violation: 5-205.15 (Violation) | 52 Houston Ordinance Violation: 6-501.12(A) (Violation Repeat)
 2026-10-21,JAMES E. STUCHBERY ELEMENTARY,Elementary,inspection,11210 HUGHES HOUSTON TX,77089,OPEN,0,
 2026-10-21,JAMES E. STUCHBERY ELEMENTARY,Elementary,grease_trap,11210 HUGHES HOUSTON TX,77089,OPEN,0,
 2026-10-20,STEVENSON MIDDLE SCHOOL,Middle / Jr. High,inspection,9595 WINKLER HOUSTON TX,77017,OPEN,0,
