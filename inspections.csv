@@ -1,4 +1,19 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
+2026-10-21,JAMES E. STUCHBERY ELEMENTARY,Elementary,inspection,11210 HUGHES HOUSTON TX,77089,OPEN,0,
+2026-10-21,JAMES E. STUCHBERY ELEMENTARY,Elementary,grease_trap,11210 HUGHES HOUSTON TX,77089,OPEN,0,
+2026-10-20,STEVENSON MIDDLE SCHOOL,Middle / Jr. High,inspection,9595 WINKLER HOUSTON TX,77017,OPEN,0,
+2026-10-20,STEVENSON MIDDLE SCHOOL,Middle / Jr. High,grease_trap,9595 WINKLER HOUSTON TX,77017,OPEN,0,
+2026-10-20,MOORE ELEMENTARY,Elementary,inspection,8880 SOUTHBLUFF HOUSTON TX,77089,OPEN,1,1 Houston Ordinance Violation: 6-501.111(B) (Violation Repeat)
+2026-10-20,MOORE ELEMENTARY,Elementary,grease_trap,8880 SOUTHBLUFF HOUSTON TX,77089,OPEN,0,
+2026-10-20,J. FRANK DOBIE HIGH SCHOOL,High School,inspection,10220 BLACKHAWK DR HOUSTON TX,77089,OPEN,0,
+2026-10-20,J. FRANK DOBIE HIGH SCHOOL,High School,inspection,10220 BLACKHAWK DR HOUSTON TX,77089,OPEN,0,
+2026-10-20,J. FRANK DOBIE HIGH SCHOOL,High School,grease_trap,10220 BLACKHAWK DR HOUSTON TX,77089,OPEN,0,
+2026-10-20,FRAZIER ELEMENTARY SCHOOL,Elementary,inspection,10503 HUGHES HOUSTON TX,77089,OPEN,0,
+2026-10-20,FRAZIER ELEMENTARY SCHOOL,Elementary,grease_trap,10503 HUGHES HOUSTON TX,77089,OPEN,0,
+2026-10-20,A.A.M.A'S GEORGE I SANCHEZ H.S,Middle / Jr. High,inspection,6001 GULF FWY HOUSTON TX,77023,OPEN,2,1 Houston Ordinance Violation: 6-202.15(A) (Violation Repeat) | 2 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
+2026-10-20,A.A.M.A'S GEORGE I SANCHEZ H.S,Middle / Jr. High,grease_trap,6001 GULF FWY HOUSTON TX,77023,OPEN,0,
+2026-10-19,BONNER ELEMENTARY SCHOOL,Elementary,inspection,8100 ELROD HOUSTON TX,77017,OPEN,4,1 Houston Ordinance Violation: 6-202.15(A) (Violation) | 2 Houston Ordinance Violation: 5-501.114 (Violation) | 3 Houston Ordinance Violation: 6-501.12(A) (Violation) | 4 Houston Ordinance Violation: 6-501.114(A) (Violation)
+2026-10-19,BONNER ELEMENTARY SCHOOL,Elementary,grease_trap,8100 ELROD HOUSTON TX,77017,OPEN,0,
 2026-10-16,ISAACS ELEMENTARY,Elementary,grease_trap,3830 PICKFAIR HOUSTON TX,77026,OPEN,0,
 2026-10-16,ISAACS ELEMENTARY,Elementary,inspection,3830 PICKFAIR HOUSTON TX,77026,OPEN,2,1 Houston Ordinance Violation: 5-501.113 (Violation) | 2 Houston Ordinance Violation: 5-501.15(A) (Violation)
 2026-10-16,ISAACS ELEMENTARY,Elementary,inspection,3830 PICKFAIR HOUSTON TX,77026,OPEN,2,43 Houston Ordinance Violation: 4-501.11(A) (Violation Repeat) | 52 Houston Ordinance Violation: 6-501.11 (Violation Repeat)

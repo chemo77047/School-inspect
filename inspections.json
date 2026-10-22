@@ -1,12 +1,252 @@
 {
-  "generated_at": "2026-10-21T19:18:55+00:00",
+  "generated_at": "2026-10-22T00:03:55+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1869,
-  "grease_trap_count": 952,
-  "record_count": 2821,
+  "inspection_count": 1877,
+  "grease_trap_count": 959,
+  "record_count": 2836,
   "campus_count": 471,
-  "violation_count": 2695,
+  "violation_count": 2702,
   "inspections": [
+    {
+      "inspection_id": "B6311589-B684-2ECC-DAF8B27475B3F94B",
+      "record_type": "inspection",
+      "facility_id": "12109",
+      "campus": "JAMES E. STUCHBERY ELEMENTARY",
+      "address": "11210 HUGHES HOUSTON TX",
+      "zip": "77089",
+      "site": "PREMISES",
+      "date": "2026-10-21",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "B62CAE87-930E-BA6E-DF913545165156DC",
+      "record_type": "grease_trap",
+      "facility_id": "12109",
+      "campus": "JAMES E. STUCHBERY ELEMENTARY",
+      "address": "11210 HUGHES HOUSTON TX",
+      "zip": "77089",
+      "site": "FOG 75484",
+      "date": "2026-10-21",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "85CCEA3C-CE51-1029-50A92EE9FC2D5372",
+      "record_type": "inspection",
+      "facility_id": "11625",
+      "campus": "STEVENSON MIDDLE SCHOOL",
+      "address": "9595 WINKLER HOUSTON TX",
+      "zip": "77017",
+      "site": "Premises",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "85B9C966-A6DC-92EC-522C36A2362D2A5B",
+      "record_type": "grease_trap",
+      "facility_id": "11625",
+      "campus": "STEVENSON MIDDLE SCHOOL",
+      "address": "9595 WINKLER HOUSTON TX",
+      "zip": "77017",
+      "site": "FOG 81292",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "81A17187-B2F0-FEFA-EB016C06E9E51C9D",
+      "record_type": "inspection",
+      "facility_id": "12113",
+      "campus": "MOORE ELEMENTARY",
+      "address": "8880 SOUTHBLUFF HOUSTON TX",
+      "zip": "77089",
+      "site": "PREMISES",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-501.111(B)",
+          "status": "Violation Repeat",
+          "activity": "Complaint (003)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "819B95F4-9EB2-7527-82CE26330851F477",
+      "record_type": "grease_trap",
+      "facility_id": "12113",
+      "campus": "MOORE ELEMENTARY",
+      "address": "8880 SOUTHBLUFF HOUSTON TX",
+      "zip": "77089",
+      "site": "FOG 75483",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "858C4935-CBE6-CFCC-750B0F5C28EB5C34",
+      "record_type": "inspection",
+      "facility_id": "61216",
+      "campus": "J. FRANK DOBIE HIGH SCHOOL",
+      "address": "10220 BLACKHAWK DR HOUSTON TX",
+      "zip": "77089",
+      "site": "PREMISES",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "858C0186-BBF0-E7FE-0BFB0D08F1999980",
+      "record_type": "inspection",
+      "facility_id": "61216",
+      "campus": "J. FRANK DOBIE HIGH SCHOOL",
+      "address": "10220 BLACKHAWK DR HOUSTON TX",
+      "zip": "77089",
+      "site": "PREMISES",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "858626BF-AB2C-CE02-D5057251A09A3F8A",
+      "record_type": "grease_trap",
+      "facility_id": "61216",
+      "campus": "J. FRANK DOBIE HIGH SCHOOL",
+      "address": "10220 BLACKHAWK DR HOUSTON TX",
+      "zip": "77089",
+      "site": "FOG 89009",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "87AAC157-997A-83FF-8BF0B0C03A8DB217",
+      "record_type": "inspection",
+      "facility_id": "12108",
+      "campus": "FRAZIER ELEMENTARY SCHOOL",
+      "address": "10503 HUGHES HOUSTON TX",
+      "zip": "77089",
+      "site": "PREMISES",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "87A674AA-BF72-2BD6-DBB14B1CE120FCBA",
+      "record_type": "grease_trap",
+      "facility_id": "12108",
+      "campus": "FRAZIER ELEMENTARY SCHOOL",
+      "address": "10503 HUGHES HOUSTON TX",
+      "zip": "77089",
+      "site": "FOG 75477",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "7FDAC1ED-CBB6-D42E-9B26AEECA8FA9BA0",
+      "record_type": "inspection",
+      "facility_id": "8946",
+      "campus": "A.A.M.A'S GEORGE I SANCHEZ H.S",
+      "address": "6001 GULF FWY HOUSTON TX",
+      "zip": "77023",
+      "site": "Premises",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "7FBC424F-E553-86AD-10559DFDFB6139E5",
+      "record_type": "grease_trap",
+      "facility_id": "8946",
+      "campus": "A.A.M.A'S GEORGE I SANCHEZ H.S",
+      "address": "6001 GULF FWY HOUSTON TX",
+      "zip": "77023",
+      "site": "FOG 101279 (W)",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "4CA32192-C51F-34E1-2F151DEBB0328BFD",
+      "record_type": "inspection",
+      "facility_id": "11474",
+      "campus": "BONNER ELEMENTARY SCHOOL",
+      "address": "8100 ELROD HOUSTON TX",
+      "zip": "77017",
+      "site": "Premises",
+      "date": "2026-10-19",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 5-501.114",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 6-501.114(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "4C31C17B-BF25-D721-E6B5AF7FD94E8A28",
+      "record_type": "grease_trap",
+      "facility_id": "11474",
+      "campus": "BONNER ELEMENTARY SCHOOL",
+      "address": "8100 ELROD HOUSTON TX",
+      "zip": "77017",
+      "site": "FOG 79601",
+      "date": "2026-10-19",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
     {
       "inspection_id": "B7DE702A-FD6D-945A-FCEA39F1FDBA8B5B",
       "record_type": "grease_trap",
