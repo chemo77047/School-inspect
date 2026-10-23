@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-22T19:15:39+00:00",
+ "generated_at": "2026-10-23T00:04:39+00:00",
  "source": "latest day per facility, bundled from inspections.json",
  "record_count": 474,
  "records": [
+  {
+   "facility_id": "11430",
+   "campus": "SCROGGINS ELEMENTARY",
+   "address": "400 BOYLES HOUSTON TX",
+   "zip": "77020",
+   "site": "School Premises",
+   "level": "Elementary",
+   "date": "2026-10-21",
+   "status": "OPEN",
+   "violation_count": 8,
+   "inspections_that_day": 2,
+   "inspection_id": "B85F5862-99E0-2DB3-C3ECBA0F92A63D9F"
+  },
   {
    "facility_id": "74910",
    "campus": "RODERICK PAIGE  ELEMENTARY  SCHOOL",
@@ -28,6 +41,32 @@
    "violation_count": 0,
    "inspections_that_day": 1,
    "inspection_id": "B6311589-B684-2ECC-DAF8B27475B3F94B"
+  },
+  {
+   "facility_id": "747200E8-DF03-8C04-A3B4B83E062C44B1",
+   "campus": "ARABIC IMMERSION MAGNET SCHOOL",
+   "address": "4001 STANFORD ST HOUSTON TX",
+   "zip": "77006",
+   "site": "ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-21",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 1,
+   "inspection_id": "B52F74E4-E2FC-A3F0-FA2DF677C0D18B4D"
+  },
+  {
+   "facility_id": "948D4684-AB3D-0577-B4CC929DF3157DC4",
+   "campus": "VARNETT CHARTER SCHOOL",
+   "address": "8311 MESA DR HOUSTON TX",
+   "zip": "77028",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-20",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 1,
+   "inspection_id": "855B3534-903E-7AEE-871EC332CC8E3217"
   },
   {
    "facility_id": "11625",
@@ -82,6 +121,19 @@
    "inspection_id": "87AAC157-997A-83FF-8BF0B0C03A8DB217"
   },
   {
+   "facility_id": "2CCC2DAB-E821-CFFF-DB29326F4E6A0FB2",
+   "campus": "FONWOOD EARLY CHILDHOOD CENTER HISD",
+   "address": "9709 MESA HOUSTON TX",
+   "zip": "77078",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-20",
+   "status": "OPEN",
+   "violation_count": 3,
+   "inspections_that_day": 1,
+   "inspection_id": "833FB01F-C234-8EE4-35F47CF882846FF1"
+  },
+  {
    "facility_id": "8946",
    "campus": "A.A.M.A'S GEORGE I SANCHEZ H.S",
    "address": "6001 GULF FWY HOUSTON TX",
@@ -95,6 +147,71 @@
    "inspection_id": "7FDAC1ED-CBB6-D42E-9B26AEECA8FA9BA0"
   },
   {
+   "facility_id": "12416",
+   "campus": "WILLOW CREEK ELEMENTARY",
+   "address": "2002 WILLOW TERRACE HUMBLE TX",
+   "zip": "77339",
+   "site": "PREMISES",
+   "level": "Elementary",
+   "date": "2026-10-19",
+   "status": "OPEN",
+   "violation_count": 5,
+   "inspections_that_day": 2,
+   "inspection_id": "506D7CB5-CEEE-0351-A9ABD624059CD352"
+  },
+  {
+   "facility_id": "75357",
+   "campus": "THE VARNETT SCHOOL",
+   "address": "804 MAXEY HOUSTON TX",
+   "zip": "77015",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-19",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 1,
+   "inspection_id": "50C873B2-FCBB-0514-B544666BCB668C13"
+  },
+  {
+   "facility_id": "54917",
+   "campus": "JUDSON ROBINSON ELEMENTARY SCHOOL",
+   "address": "12425 WOODFOREST BLVD HOUSTON TX",
+   "zip": "77013",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-19",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 1,
+   "inspection_id": "4ED74F06-0D24-AE1D-4483C6AF780641E7"
+  },
+  {
+   "facility_id": "12413",
+   "campus": "GREENTREE ELEMENTARY",
+   "address": "3502 BROOKSHADOW DR KINGWOOD TX",
+   "zip": "77345",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-19",
+   "status": "OPEN",
+   "violation_count": 3,
+   "inspections_that_day": 2,
+   "inspection_id": "4EDFD289-D73C-11D5-A31A3B7A22FB8842"
+  },
+  {
+   "facility_id": "11446",
+   "campus": "DAVID G. BURNET ELEMENTARY",
+   "address": "5403 CANAL HOUSTON TX",
+   "zip": "77011",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-19",
+   "status": "OPEN",
+   "violation_count": 7,
+   "inspections_that_day": 2,
+   "inspection_id": "4D781F98-BE27-0B6A-7D2FDB8CD6FEFD04"
+  },
+  {
    "facility_id": "11474",
    "campus": "BONNER ELEMENTARY SCHOOL",
    "address": "8100 ELROD HOUSTON TX",
@@ -106,6 +223,19 @@
    "violation_count": 4,
    "inspections_that_day": 1,
    "inspection_id": "4CA32192-C51F-34E1-2F151DEBB0328BFD"
+  },
+  {
+   "facility_id": "11516",
+   "campus": "KASHMERE GARDENS ELEMENTARY",
+   "address": "4901 LOCKWOOD HOUSTON TX",
+   "zip": "77026",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-16",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 1,
+   "inspection_id": "B5EF4207-07F3-F831-C3D7F0F9DC250A53"
   },
   {
    "facility_id": "11540",
@@ -145,6 +275,19 @@
    "violation_count": 3,
    "inspections_that_day": 2,
    "inspection_id": "B57BFDF3-039B-BD2D-BDAF903BC6A078C8"
+  },
+  {
+   "facility_id": "46ADA3AC-ECA3-E349-1658850EF91B2E72",
+   "campus": "DOGAN ELEMENTARY",
+   "address": "4202 LIBERTY RD HOUSTON TX",
+   "zip": "77026",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-16",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 1,
+   "inspection_id": "B3B09C9C-016C-A8A2-1C0F5F28F8D44C9B"
   },
   {
    "facility_id": "25E90CBF-5056-A20F-9EE1B0C0E148A23E",
@@ -2292,19 +2435,6 @@
    "inspection_id": "90679F5E-CED2-BD34-DB1F9D2F4F25E865"
   },
   {
-   "facility_id": "747200E8-DF03-8C04-A3B4B83E062C44B1",
-   "campus": "ARABIC IMMERSION MAGNET SCHOOL",
-   "address": "4001 STANFORD ST HOUSTON TX",
-   "zip": "77006",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-06-02",
-   "status": "OPEN",
-   "violation_count": 4,
-   "inspections_that_day": 2,
-   "inspection_id": "59F4F65B-03A8-A106-8E873393B4E2FBC0"
-  },
-  {
    "facility_id": "11524",
    "campus": "MCNAMARA ELEMENTARY SCHOOL",
    "address": "8714 MCAVOY HOUSTON TX",
@@ -2563,19 +2693,6 @@
    "violation_count": 2,
    "inspections_that_day": 1,
    "inspection_id": "C2681105-CC4F-6A17-E41D6278CA2CF36E"
-  },
-  {
-   "facility_id": "948D4684-AB3D-0577-B4CC929DF3157DC4",
-   "campus": "VARNETT CHARTER SCHOOL",
-   "address": "8311 MESA DR HOUSTON TX",
-   "zip": "77028",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-05-20",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "BE508DEC-A012-E516-9ED2BB37DCE589F7"
   },
   {
    "facility_id": "11581",
@@ -3345,19 +3462,6 @@
    "inspection_id": "B67C3D64-0DE9-6A5B-570D3B5760F08F14"
   },
   {
-   "facility_id": "11430",
-   "campus": "SCROGGINS ELEMENTARY",
-   "address": "400 BOYLES HOUSTON TX",
-   "zip": "77020",
-   "site": "School Cafeteria",
-   "level": "Elementary",
-   "date": "2026-05-04",
-   "status": "OPEN",
-   "violation_count": 6,
-   "inspections_that_day": 2,
-   "inspection_id": "82A6FE91-C70E-9938-F1EA1364295A356F"
-  },
-  {
    "facility_id": "11508",
    "campus": "PUGH ELEMENTARY SCHOOL",
    "address": "1147 KRESS HOUSTON TX",
@@ -3395,19 +3499,6 @@
    "violation_count": 3,
    "inspections_that_day": 2,
    "inspection_id": "81C1345E-D53F-42E5-966E75DFF1CEC053"
-  },
-  {
-   "facility_id": "54917",
-   "campus": "JUDSON ROBINSON ELEMENTARY SCHOOL",
-   "address": "12425 WOODFOREST BLVD HOUSTON TX",
-   "zip": "77013",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-05-04",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "83C24C6A-9B91-CB1A-BD07FCAB643A4852"
   },
   {
    "facility_id": "B90F1C08-B6F1-30B6-4E30E4FF0DCCF945",
@@ -3657,19 +3748,6 @@
    "inspection_id": "1B5965E4-C635-452D-344E17E31DD144B7"
   },
   {
-   "facility_id": "11516",
-   "campus": "KASHMERE GARDENS ELEMENTARY",
-   "address": "4901 LOCKWOOD HOUSTON TX",
-   "zip": "77026",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-04-27",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "1E038A33-D87D-C1A0-836DFE85AC57A550"
-  },
-  {
    "facility_id": "11617",
    "campus": "GALLEGOS ELEMENTARY SCHOOL",
    "address": "7415 HARRISBURG HOUSTON TX",
@@ -3811,19 +3889,6 @@
    "violation_count": 3,
    "inspections_that_day": 2,
    "inspection_id": "B5FA0D89-E603-594A-A7056DA067B8B203"
-  },
-  {
-   "facility_id": "2CCC2DAB-E821-CFFF-DB29326F4E6A0FB2",
-   "campus": "FONWOOD EARLY CHILDHOOD CENTER HISD",
-   "address": "9709 MESA HOUSTON TX",
-   "zip": "77078",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-04-20",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 2,
-   "inspection_id": "B2522312-0E3B-6864-4E649503B6730AE0"
   },
   {
    "facility_id": "11511",
@@ -3969,19 +4034,6 @@
    "inspection_id": "7960984D-A7AB-11D8-30B321BD9DAECB2D"
   },
   {
-   "facility_id": "46ADA3AC-ECA3-E349-1658850EF91B2E72",
-   "campus": "DOGAN ELEMENTARY",
-   "address": "4202 LIBERTY RD HOUSTON TX",
-   "zip": "77026",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-04-14",
-   "status": "OPEN",
-   "violation_count": 3,
-   "inspections_that_day": 1,
-   "inspection_id": "7E8FEC03-A0F5-2442-18C96147C15F5DDE"
-  },
-  {
    "facility_id": "4145B767-DC66-3D6A-D153A0F013DF58C7",
    "campus": "BRUCE ELEMENTARY SCHOOL",
    "address": "510 JENSEN DR HOUSTON TX",
@@ -4084,19 +4136,6 @@
    "violation_count": 1,
    "inspections_that_day": 3,
    "inspection_id": "7E90898A-07E8-2447-2EF585D8A04182CA"
-  },
-  {
-   "facility_id": "11446",
-   "campus": "DAVID G. BURNET ELEMENTARY",
-   "address": "5403 CANAL HOUSTON TX",
-   "zip": "77011",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-04-13",
-   "status": "OPEN",
-   "violation_count": 4,
-   "inspections_that_day": 2,
-   "inspection_id": "4CA01EF6-E417-2A4D-E747F1A3AEBB06F6"
   },
   {
    "facility_id": "12163",
@@ -4240,19 +4279,6 @@
    "violation_count": 1,
    "inspections_that_day": 2,
    "inspection_id": "4DD7F38F-ACB5-460F-E34C0A726B55235C"
-  },
-  {
-   "facility_id": "12416",
-   "campus": "WILLOW CREEK ELEMENTARY",
-   "address": "2002 WILLOW TERRACE HUMBLE TX",
-   "zip": "77339",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-04-06",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "E4225811-C7AA-3607-EDDC36239AD6B195"
   },
   {
    "facility_id": "8EFD1CF5-0561-47CF-76188A057F27CF4C",
@@ -5269,19 +5295,6 @@
    "inspection_id": "D600BE3B-C6FB-238E-18C3B6F272D2C180"
   },
   {
-   "facility_id": "12413",
-   "campus": "GREENTREE ELEMENTARY",
-   "address": "3502 BROOKSHADOW DR KINGWOOD TX",
-   "zip": "77345",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-02-24",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "A17CC798-A6D8-67EB-481FD017DF022CDB"
-  },
-  {
    "facility_id": "11674",
    "campus": "TREASURE FOREST ELEMENTARY",
    "address": "7635 AMELIA HOUSTON TX",
@@ -5813,19 +5826,6 @@
    "violation_count": 4,
    "inspections_that_day": 2,
    "inspection_id": "BA9CAE34-CAA0-9B0F-9D31AC1A26BFBCAC"
-  },
-  {
-   "facility_id": "75357",
-   "campus": "THE VARNETT SCHOOL",
-   "address": "804 MAXEY HOUSTON TX",
-   "zip": "77015",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2025-11-07",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "B8A8BA75-AF4E-2B33-75D2EC5B0D9FC883"
   },
   {
    "facility_id": "F13CA426-DCC8-6328-9CBCA59BC78059C6",
