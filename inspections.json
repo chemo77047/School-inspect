@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T23:54:46+00:00",
+  "generated_at": "2026-10-24T18:11:27+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1925,
+  "inspection_count": 1932,
   "grease_trap_count": 982,
-  "record_count": 2907,
+  "record_count": 2914,
   "campus_count": 471,
-  "violation_count": 2769,
+  "violation_count": 2780,
   "inspections": [
     {
       "inspection_id": "204D8A1B-BDC4-BEAC-30EB7944769A5015",
@@ -28,6 +28,19 @@
       "address": "8420 EASTHAVEN BLVD HOUSTON TX",
       "zip": "77075",
       "site": "FOG 75109",
+      "date": "2026-10-23",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "206AD2EF-068E-1D62-88051EB40E59C6D1",
+      "record_type": "inspection",
+      "facility_id": "C5F36D24-F802-33A8-D202343AC78CDE65",
+      "campus": "RICK SCHNEIDER MIDDLE SCHOOL",
+      "address": "8420 EASTHAVEN BLVD HOUSTON TX",
+      "zip": "77075",
+      "site": "TOTAL ESTABLISHMENT",
       "date": "2026-10-23",
       "status": "OPEN",
       "level": "Middle / Jr. High",
@@ -186,6 +199,39 @@
       "zip": "77061",
       "site": "FOG 77315",
       "date": "2026-10-23",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "1A86E5E0-F827-28B3-DC086CF0D04778A6",
+      "record_type": "inspection",
+      "facility_id": "11561",
+      "campus": "GARDEN VILLAS ELEMENTARY",
+      "address": "7185 SANTA FE HOUSTON TX",
+      "zip": "77061",
+      "site": "ESTABLISHMENT",
+      "date": "2026-10-23",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "F2601E1D-AFC7-18D5-6DB8BCCECA3782AC",
+      "record_type": "inspection",
+      "facility_id": "12109",
+      "campus": "JAMES E. STUCHBERY ELEMENTARY",
+      "address": "11210 HUGHES HOUSTON TX",
+      "zip": "77089",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-10-22",
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
@@ -364,6 +410,38 @@
       "violations": []
     },
     {
+      "inspection_id": "B69080F2-CE71-2CEC-FFBDE38BA8860B48",
+      "record_type": "inspection",
+      "facility_id": "12109",
+      "campus": "JAMES E. STUCHBERY ELEMENTARY",
+      "address": "11210 HUGHES HOUSTON TX",
+      "zip": "77089",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-10-21",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 8-404.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 48,
+          "item": "Houston Ordinance Violation: 5-103.11(B)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 53,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
       "inspection_id": "B5376B88-C9D3-F47B-9B01B7449704F3DB",
       "record_type": "grease_trap",
       "facility_id": "747200E8-DF03-8C04-A3B4B83E062C44B1",
@@ -521,6 +599,56 @@
       "violations": []
     },
     {
+      "inspection_id": "825DAABC-BEC8-552A-87060C5A71E1B4C8",
+      "record_type": "inspection",
+      "facility_id": "12113",
+      "campus": "MOORE ELEMENTARY",
+      "address": "8880 SOUTHBLUFF HOUSTON TX",
+      "zip": "77089",
+      "site": "KITCHEN",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 33,
+          "item": "Houston Ordinance Violation: 6-501.111(B)",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 34,
+          "item": "Houston Ordinance Violation: 3-305.11(A)",
+          "status": "Violation Corrected On Site",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 45,
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 48,
+          "item": "Houston Ordinance Violation: 5-202.13",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation",
+          "activity": "Complaint (003)"
+        }
+      ]
+    },
+    {
       "inspection_id": "84C86CAD-9E9F-109C-83B639350F47803B",
       "record_type": "inspection",
       "facility_id": "11524",
@@ -599,6 +727,19 @@
       "violations": []
     },
     {
+      "inspection_id": "85B1FEAE-BF8D-84A8-FC613A30CB50E5B1",
+      "record_type": "inspection",
+      "facility_id": "61216",
+      "campus": "J. FRANK DOBIE HIGH SCHOOL",
+      "address": "10220 BLACKHAWK DR HOUSTON TX",
+      "zip": "77089",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
       "inspection_id": "87AAC157-997A-83FF-8BF0B0C03A8DB217",
       "record_type": "inspection",
       "facility_id": "12108",
@@ -623,6 +764,26 @@
       "status": "OPEN",
       "level": "Elementary",
       "violations": []
+    },
+    {
+      "inspection_id": "87D4C860-CE81-FF1A-8F26936D0DC39937",
+      "record_type": "inspection",
+      "facility_id": "12108",
+      "campus": "FRAZIER ELEMENTARY SCHOOL",
+      "address": "10503 HUGHES HOUSTON TX",
+      "zip": "77089",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-10-20",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 33,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
     },
     {
       "inspection_id": "8351E371-AACA-1A3D-A4EC7747A4D4FE44",

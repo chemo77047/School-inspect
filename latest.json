@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T23:54:46+00:00",
+ "generated_at": "2026-10-24T18:11:27+00:00",
  "source": "latest day per facility, bundled from inspections.json",
  "record_count": 474,
  "records": [
@@ -8,13 +8,13 @@
    "campus": "RICK SCHNEIDER MIDDLE SCHOOL",
    "address": "8420 EASTHAVEN BLVD HOUSTON TX",
    "zip": "77075",
-   "site": "PREMISES",
+   "site": "TOTAL ESTABLISHMENT",
    "level": "Middle / Jr. High",
    "date": "2026-10-23",
    "status": "OPEN",
    "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "204D8A1B-BDC4-BEAC-30EB7944769A5015"
+   "inspections_that_day": 2,
+   "inspection_id": "206AD2EF-068E-1D62-88051EB40E59C6D1"
   },
   {
    "facility_id": "11592",
@@ -73,13 +73,26 @@
    "campus": "GARDEN VILLAS ELEMENTARY",
    "address": "7185 SANTA FE HOUSTON TX",
    "zip": "77061",
-   "site": "PREMISES",
+   "site": "ESTABLISHMENT",
    "level": "Elementary",
    "date": "2026-10-23",
    "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 2,
+   "inspection_id": "1A86E5E0-F827-28B3-DC086CF0D04778A6"
+  },
+  {
+   "facility_id": "12109",
+   "campus": "JAMES E. STUCHBERY ELEMENTARY",
+   "address": "11210 HUGHES HOUSTON TX",
+   "zip": "77089",
+   "site": "TOTAL ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-22",
+   "status": "OPEN",
    "violation_count": 0,
    "inspections_that_day": 1,
-   "inspection_id": "1A585BBA-AABC-3C0E-CB541D6648E30B81"
+   "inspection_id": "F2601E1D-AFC7-18D5-6DB8BCCECA3782AC"
   },
   {
    "facility_id": "11430",
@@ -106,19 +119,6 @@
    "violation_count": 3,
    "inspections_that_day": 2,
    "inspection_id": "B24CB0C7-E068-D270-92B7C2049FA88D5F"
-  },
-  {
-   "facility_id": "12109",
-   "campus": "JAMES E. STUCHBERY ELEMENTARY",
-   "address": "11210 HUGHES HOUSTON TX",
-   "zip": "77089",
-   "site": "PREMISES",
-   "level": "Elementary",
-   "date": "2026-10-21",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "B6311589-B684-2ECC-DAF8B27475B3F94B"
   },
   {
    "facility_id": "747200E8-DF03-8C04-A3B4B83E062C44B1",
@@ -164,13 +164,13 @@
    "campus": "MOORE ELEMENTARY",
    "address": "8880 SOUTHBLUFF HOUSTON TX",
    "zip": "77089",
-   "site": "PREMISES",
+   "site": "KITCHEN",
    "level": "Elementary",
    "date": "2026-10-20",
    "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "81A17187-B2F0-FEFA-EB016C06E9E51C9D"
+   "violation_count": 7,
+   "inspections_that_day": 2,
+   "inspection_id": "825DAABC-BEC8-552A-87060C5A71E1B4C8"
   },
   {
    "facility_id": "11524",
@@ -190,26 +190,26 @@
    "campus": "J. FRANK DOBIE HIGH SCHOOL",
    "address": "10220 BLACKHAWK DR HOUSTON TX",
    "zip": "77089",
-   "site": "PREMISES",
+   "site": "TOTAL ESTABLISHMENT",
    "level": "High School",
    "date": "2026-10-20",
    "status": "OPEN",
    "violation_count": 0,
-   "inspections_that_day": 2,
-   "inspection_id": "858C4935-CBE6-CFCC-750B0F5C28EB5C34"
+   "inspections_that_day": 3,
+   "inspection_id": "85B1FEAE-BF8D-84A8-FC613A30CB50E5B1"
   },
   {
    "facility_id": "12108",
    "campus": "FRAZIER ELEMENTARY SCHOOL",
    "address": "10503 HUGHES HOUSTON TX",
    "zip": "77089",
-   "site": "PREMISES",
+   "site": "TOTAL ESTABLISHMENT",
    "level": "Elementary",
    "date": "2026-10-20",
    "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "87AAC157-997A-83FF-8BF0B0C03A8DB217"
+   "violation_count": 1,
+   "inspections_that_day": 2,
+   "inspection_id": "87D4C860-CE81-FF1A-8F26936D0DC39937"
   },
   {
    "facility_id": "2CCC2DAB-E821-CFFF-DB29326F4E6A0FB2",
