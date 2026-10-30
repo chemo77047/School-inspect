@@ -1,8 +1,164 @@
 {
- "generated_at": "2026-10-29T20:18:54+00:00",
+ "generated_at": "2026-10-30T00:52:50+00:00",
  "source": "latest day per facility, bundled from inspections.json",
  "record_count": 474,
  "records": [
+  {
+   "facility_id": "50981",
+   "campus": "THE DRAW ACADEMY",
+   "address": "3920 STONEY BROOK HOUSTON TX",
+   "zip": "77063",
+   "site": "ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-28",
+   "status": "OPEN",
+   "violation_count": 4,
+   "inspections_that_day": 2,
+   "inspection_id": "21DAFEF8-F970-BC62-EBD9166888BDEBE1"
+  },
+  {
+   "facility_id": "54953",
+   "campus": "SEGUIN ELEMENTARY SCHOOL",
+   "address": "5905 WALTRIP HOUSTON TX",
+   "zip": "77087",
+   "site": "TOTAL ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-28",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 2,
+   "inspection_id": "1F335ED0-D49B-93EE-174723FEE9B4081D"
+  },
+  {
+   "facility_id": "11600",
+   "campus": "FOSTER ELEMENTARY SCHOOL",
+   "address": "3919 WARD HOUSTON TX",
+   "zip": "77021",
+   "site": "TOTAL ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-28",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 2,
+   "inspection_id": "1C14DFB2-C25B-F159-20F57BFA096CD33F"
+  },
+  {
+   "facility_id": "11523",
+   "campus": "STERLING HIGH SCHOOL",
+   "address": "11625 MARTINDALE HOUSTON TX",
+   "zip": "77048",
+   "site": "ESTABLISHMENT",
+   "level": "Middle / Jr. High",
+   "date": "2026-10-27",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 2,
+   "inspection_id": "EF6593D3-EC33-0A73-DAFFEAC8A3FD46C5"
+  },
+  {
+   "facility_id": "006C3A75-0D76-83A4-8F01FE2D59EF08BC",
+   "campus": "LAWSON MIDDLE SCHOOL",
+   "address": "14000 STANCLIFF ST HOUSTON TX",
+   "zip": "77045",
+   "site": "ESTABLISHMENT",
+   "level": "Middle / Jr. High",
+   "date": "2026-10-27",
+   "status": "OPEN",
+   "violation_count": 6,
+   "inspections_that_day": 2,
+   "inspection_id": "EE3C2D99-F3EB-8636-AEF7FA678D79A1D2"
+  },
+  {
+   "facility_id": "74311",
+   "campus": "DAILY ELEMENTARY",
+   "address": "12909 BRIAR FOREST DR HOUSTON TX",
+   "zip": "77077",
+   "site": "kitchen",
+   "level": "Elementary",
+   "date": "2026-10-27",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 2,
+   "inspection_id": "E9C9F23F-95B4-891F-3BD2A84DB9E8DFE8"
+  },
+  {
+   "facility_id": "11535",
+   "campus": "CRESPO ELEMENTARY",
+   "address": "7500 OFFICE CITY DR HOUSTON TX",
+   "zip": "77087",
+   "site": "TOTAL ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-27",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 2,
+   "inspection_id": "EB4EF4EF-B558-D3E7-FCAB88BA0D542FAD"
+  },
+  {
+   "facility_id": "11607",
+   "campus": "CORNELIUS ELEMENTARY",
+   "address": "7475 WESTOVER HOUSTON TX",
+   "zip": "77087",
+   "site": "TOTAL ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-27",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 2,
+   "inspection_id": "E8A8DBCB-C233-DE31-27B9BE81C92EA026"
+  },
+  {
+   "facility_id": "11565",
+   "campus": "ALBERT THOMAS MIDDLE SCHOOL",
+   "address": "5655 SELINSKY HOUSTON TX",
+   "zip": "77048",
+   "site": "PREMISES",
+   "level": "Middle / Jr. High",
+   "date": "2026-10-27",
+   "status": "OPEN",
+   "violation_count": 4,
+   "inspections_that_day": 2,
+   "inspection_id": "ECB268D9-EE6F-1EA2-63721EF5AD9BC801"
+  },
+  {
+   "facility_id": "11553",
+   "campus": "GREGG ELEMENTARY",
+   "address": "6701 ROXBURY HOUSTON TX",
+   "zip": "77087",
+   "site": "TOTAL ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-26",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 2,
+   "inspection_id": "B58C51E7-E61B-3EE1-FE30421389387F88"
+  },
+  {
+   "facility_id": "11492",
+   "campus": "BENAVIDEZ ELEMENTARY",
+   "address": "6262 GULFTON HOUSTON TX",
+   "zip": "77081",
+   "site": "Total Establishment",
+   "level": "Elementary",
+   "date": "2026-10-26",
+   "status": "OPEN",
+   "violation_count": 4,
+   "inspections_that_day": 1,
+   "inspection_id": "BA8BF767-F6A6-CB0A-F60C40B0EE2185DA"
+  },
+  {
+   "facility_id": "50AB0A68-EBA9-1847-5E5571C2011F7A70",
+   "campus": "BASTIAN ELEMENTARY SCHOOL",
+   "address": "5051 BELLFORT ST HOUSTON TX",
+   "zip": "77033",
+   "site": "TOTAL ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-26",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 2,
+   "inspection_id": "B8B54136-B0EC-F07D-0BD09496B772347A"
+  },
   {
    "facility_id": "C5F36D24-F802-33A8-D202343AC78CDE65",
    "campus": "RICK SCHNEIDER MIDDLE SCHOOL",
@@ -26,7 +182,7 @@
    "date": "2026-10-23",
    "status": "OPEN",
    "violation_count": 0,
-   "inspections_that_day": 1,
+   "inspections_that_day": 2,
    "inspection_id": "1F0539A9-EBBD-C871-38498122B8142C64"
   },
   {
@@ -52,7 +208,7 @@
    "date": "2026-10-23",
    "status": "OPEN",
    "violation_count": 0,
-   "inspections_that_day": 1,
+   "inspections_that_day": 2,
    "inspection_id": "1CBE43AC-081C-09EA-8ACF760490E3AF76"
   },
   {
@@ -64,8 +220,8 @@
    "level": "Elementary",
    "date": "2026-10-23",
    "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
+   "violation_count": 2,
+   "inspections_that_day": 2,
    "inspection_id": "1A785309-C53A-E3FB-0B4B7B882D897FA6"
   },
   {
@@ -82,6 +238,19 @@
    "inspection_id": "1A86E5E0-F827-28B3-DC086CF0D04778A6"
   },
   {
+   "facility_id": "11573",
+   "campus": "EMERSON ELEMENTARY SCHOOL",
+   "address": "9533 SKYLINE HOUSTON TX",
+   "zip": "77063",
+   "site": "Kitchen",
+   "level": "Elementary",
+   "date": "2026-10-23",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 1,
+   "inspection_id": "24A9D5F9-D035-B32B-C018BC1D4F8AF55E"
+  },
+  {
    "facility_id": "12109",
    "campus": "JAMES E. STUCHBERY ELEMENTARY",
    "address": "11210 HUGHES HOUSTON TX",
@@ -93,6 +262,19 @@
    "violation_count": 0,
    "inspections_that_day": 1,
    "inspection_id": "F2601E1D-AFC7-18D5-6DB8BCCECA3782AC"
+  },
+  {
+   "facility_id": "75AAA8A4-5056-A20F-9EA1F5BF5B0B2A9C",
+   "campus": "YES PREP ELEMENTARY- BRAYS OAKS",
+   "address": "9060 BENNING DR HOUSTON TX",
+   "zip": "77031",
+   "site": "ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-21",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 2,
+   "inspection_id": "B8E90CB0-AA20-A034-CFCC78D1FDA00075"
   },
   {
    "facility_id": "11430",
@@ -119,6 +301,19 @@
    "violation_count": 3,
    "inspections_that_day": 2,
    "inspection_id": "B24CB0C7-E068-D270-92B7C2049FA88D5F"
+  },
+  {
+   "facility_id": "67B1372E-5056-A20B-FA8B6850F3C5EA01",
+   "campus": "MANDARIN IMMERSION MAGNATE SCHOOL",
+   "address": "5445 W ALABAMA ST HOUSTON TX",
+   "zip": "77056",
+   "site": "ESTABLISHMENT",
+   "level": "Middle / Jr. High",
+   "date": "2026-10-21",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 1,
+   "inspection_id": "B91B9C7D-A74B-8C3C-4B8BEA43318D39D0"
   },
   {
    "facility_id": "747200E8-DF03-8C04-A3B4B83E062C44B1",
@@ -1980,19 +2175,6 @@
    "inspection_id": "A6017977-A1E0-F058-AA8F610C64F6BFC0"
   },
   {
-   "facility_id": "50981",
-   "campus": "THE DRAW ACADEMY",
-   "address": "3920 STONEY BROOK HOUSTON TX",
-   "zip": "77063",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-09-10",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "80F11815-F1A0-3482-9F68CF269DE94463"
-  },
-  {
    "facility_id": "5704C41E-FCDF-EBAF-D8B006A4BEFA2AA1",
    "campus": "PROVISION MIDDLE SCHOOL",
    "address": "4590 WILMINGTON HOUSTON TX",
@@ -2773,19 +2955,6 @@
    "inspection_id": "260A3508-E150-3A9B-2F06A9BB1D88C84A"
   },
   {
-   "facility_id": "75AAA8A4-5056-A20F-9EA1F5BF5B0B2A9C",
-   "campus": "YES PREP ELEMENTARY- BRAYS OAKS",
-   "address": "9060 BENNING DR HOUSTON TX",
-   "zip": "77031",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-05-26",
-   "status": "OPEN",
-   "violation_count": 3,
-   "inspections_that_day": 2,
-   "inspection_id": "F029900B-B968-8BCE-A5BA8ADF5CCBADA0"
-  },
-  {
    "facility_id": "45ED6F0D-D238-CBCA-CEC2D292CA9E2DCB",
    "campus": "STEPPING STONE CHARTER SCHOOL",
    "address": "11001 S WILCREST HOUSTON TX",
@@ -3174,19 +3343,6 @@
    "violation_count": 3,
    "inspections_that_day": 2,
    "inspection_id": "880AFDF9-9DDF-8C66-F72ED669830D66C6"
-  },
-  {
-   "facility_id": "11607",
-   "campus": "CORNELIUS ELEMENTARY",
-   "address": "7475 WESTOVER HOUSTON TX",
-   "zip": "77087",
-   "site": "TOTAL ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-05-14",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "831FE5C0-06DF-DDEB-F7998BF54E6A3C41"
   },
   {
    "facility_id": "74645",
@@ -3618,19 +3774,6 @@
    "inspection_id": "B41D7636-96CD-6B2C-E4BB658A60C4AE46"
   },
   {
-   "facility_id": "11492",
-   "campus": "BENAVIDEZ ELEMENTARY",
-   "address": "6262 GULFTON HOUSTON TX",
-   "zip": "77081",
-   "site": "Total Establishment",
-   "level": "Elementary",
-   "date": "2026-05-05",
-   "status": "OPEN",
-   "violation_count": 8,
-   "inspections_that_day": 2,
-   "inspection_id": "B67C3D64-0DE9-6A5B-570D3B5760F08F14"
-  },
-  {
    "facility_id": "11508",
    "campus": "PUGH ELEMENTARY SCHOOL",
    "address": "1147 KRESS HOUSTON TX",
@@ -3657,19 +3800,6 @@
    "inspection_id": "80F99F29-A2CE-A829-FB1133B5718EDCED"
   },
   {
-   "facility_id": "67B1372E-5056-A20B-FA8B6850F3C5EA01",
-   "campus": "MANDARIN IMMERSION MAGNATE SCHOOL",
-   "address": "5445 W ALABAMA ST HOUSTON TX",
-   "zip": "77056",
-   "site": "PREMISES",
-   "level": "Middle / Jr. High",
-   "date": "2026-05-04",
-   "status": "OPEN",
-   "violation_count": 3,
-   "inspections_that_day": 2,
-   "inspection_id": "81C1345E-D53F-42E5-966E75DFF1CEC053"
-  },
-  {
    "facility_id": "B90F1C08-B6F1-30B6-4E30E4FF0DCCF945",
    "campus": "HUFFMAN ELEMENTARY SCHOOL",
    "address": "24405 E LAKE HOUSTON PKWY HUFFMAN TX",
@@ -3694,19 +3824,6 @@
    "violation_count": 0,
    "inspections_that_day": 2,
    "inspection_id": "E64D993B-FF8C-C6F6-29628BF453F8C011"
-  },
-  {
-   "facility_id": "11573",
-   "campus": "EMERSON ELEMENTARY SCHOOL",
-   "address": "9533 SKYLINE HOUSTON TX",
-   "zip": "77063",
-   "site": "Kitchen",
-   "level": "Elementary",
-   "date": "2026-05-01",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 2,
-   "inspection_id": "E8811175-FDAF-752F-F510C4BF7BDC3308"
   },
   {
    "facility_id": "11632",
@@ -4424,32 +4541,6 @@
    "inspection_id": "DF17A0BF-E32C-E48B-5A49348E33655D51"
   },
   {
-   "facility_id": "11553",
-   "campus": "GREGG ELEMENTARY",
-   "address": "6701 ROXBURY HOUSTON TX",
-   "zip": "77087",
-   "site": "TOTAL ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-04-02",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 1,
-   "inspection_id": "19ECEA9F-A50A-A897-9FA84C0A59614845"
-  },
-  {
-   "facility_id": "11535",
-   "campus": "CRESPO ELEMENTARY",
-   "address": "7500 OFFICE CITY DR HOUSTON TX",
-   "zip": "77087",
-   "site": "TOTAL ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-04-02",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "17AFF5D1-A1EB-70D9-35757A84BC80E47D"
-  },
-  {
    "facility_id": "FECBAFDF-FB31-8E1B-8F9574FB61580FE0",
    "campus": "ALIEF MONTESSORI COMMUNITY SCHOOL",
    "address": "4215 H ST HOUSTON TX",
@@ -4658,19 +4749,6 @@
    "inspection_id": "A89F1ABD-EC1E-5443-69377ABFB6EEAF37"
   },
   {
-   "facility_id": "11523",
-   "campus": "STERLING HIGH SCHOOL",
-   "address": "11625 MARTINDALE HOUSTON TX",
-   "zip": "77048",
-   "site": "ESTABLISHMENT",
-   "level": "Middle / Jr. High",
-   "date": "2026-03-25",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 2,
-   "inspection_id": "765418BC-EBA7-4C01-CDC96846B9E49106"
-  },
-  {
    "facility_id": "11460",
    "campus": "SCARBOROUGH HIGH SCHOOL",
    "address": "4141 COSTA RICA HOUSTON TX",
@@ -4708,19 +4786,6 @@
    "violation_count": 1,
    "inspections_that_day": 1,
    "inspection_id": "749A4143-DCC1-B034-84361AE31344A08B"
-  },
-  {
-   "facility_id": "11565",
-   "campus": "ALBERT THOMAS MIDDLE SCHOOL",
-   "address": "5655 SELINSKY HOUSTON TX",
-   "zip": "77048",
-   "site": "KITCHEN",
-   "level": "Middle / Jr. High",
-   "date": "2026-03-25",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 2,
-   "inspection_id": "7461306E-E20F-ABED-B9FB54539309C990"
   },
   {
    "facility_id": "46318",
@@ -4957,19 +5022,6 @@
    "inspection_id": "415ECB8A-DAB0-7804-6C1045E89EBEF1F0"
   },
   {
-   "facility_id": "50AB0A68-EBA9-1847-5E5571C2011F7A70",
-   "campus": "BASTIAN ELEMENTARY SCHOOL",
-   "address": "5051 BELLFORT ST HOUSTON TX",
-   "zip": "77033",
-   "site": "TOTAL ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-03-19",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 2,
-   "inspection_id": "41372059-F9D0-4914-064F0026467D61A1"
-  },
-  {
    "facility_id": "69343",
    "campus": "WESTBROOK INTERMEDIATE SCHOOL",
    "address": "302 EL DORADO BLVD FRIENDSWOOD TX",
@@ -5204,19 +5256,6 @@
    "inspection_id": "7182250E-FDE1-DC02-9F105FE30ED61DEE"
   },
   {
-   "facility_id": "006C3A75-0D76-83A4-8F01FE2D59EF08BC",
-   "campus": "LAWSON MIDDLE SCHOOL",
-   "address": "14000 STANCLIFF ST HOUSTON TX",
-   "zip": "77045",
-   "site": "ESTABLISHMENT",
-   "level": "Middle / Jr. High",
-   "date": "2026-03-04",
-   "status": "OPEN",
-   "violation_count": 8,
-   "inspections_that_day": 2,
-   "inspection_id": "45FBD515-D871-642E-F215BEBBB6CCA983"
-  },
-  {
    "facility_id": "3E97FCFE-C4DB-7243-6C9D6EFD469ECF77",
    "campus": "WEST FORK HIGH SCHOOL",
    "address": "180 SORTERS MCCLELLAN RD KINGWOOD TX",
@@ -5241,19 +5280,6 @@
    "violation_count": 0,
    "inspections_that_day": 2,
    "inspection_id": "092EA63F-B9B1-B717-C178C94722ACE59C"
-  },
-  {
-   "facility_id": "54953",
-   "campus": "SEGUIN ELEMENTARY SCHOOL",
-   "address": "5905 WALTRIP HOUSTON TX",
-   "zip": "77087",
-   "site": "TOTAL ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-02-26",
-   "status": "OPEN",
-   "violation_count": 3,
-   "inspections_that_day": 1,
-   "inspection_id": "0B5F7855-90A2-FD32-24D8BBF47380B04D"
   },
   {
    "facility_id": "95F3FC42-ACA3-7E54-BD61B0F284A1EFCE",
@@ -5386,19 +5412,6 @@
    "inspection_id": "40F56FC3-F82A-150A-C70D88A51FFECEFB"
   },
   {
-   "facility_id": "11600",
-   "campus": "FOSTER ELEMENTARY SCHOOL",
-   "address": "3919 WARD HOUSTON TX",
-   "zip": "77021",
-   "site": "TOTAL ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-02-12",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "3C36ED89-C83C-EB57-9FE5F37620CD7E98"
-  },
-  {
    "facility_id": "74905",
    "campus": "THOMPSON ELEMENTARY SCHOOL",
    "address": "6121 TIERWESTER HOUSTON TX",
@@ -5514,19 +5527,6 @@
    "violation_count": 0,
    "inspections_that_day": 2,
    "inspection_id": "9E29D26A-CEE0-6D6D-F6F55B41F9F8F6B1"
-  },
-  {
-   "facility_id": "74311",
-   "campus": "DAILY ELEMENTARY",
-   "address": "12909 BRIAR FOREST DR HOUSTON TX",
-   "zip": "77077",
-   "site": "kitchen",
-   "level": "Elementary",
-   "date": "2026-02-06",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "13C25780-BD83-61BB-EEC5A29BD7EB588A"
   },
   {
    "facility_id": "12137",
