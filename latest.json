@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T00:52:50+00:00",
+ "generated_at": "2026-10-30T20:02:12+00:00",
  "source": "latest day per facility, bundled from inspections.json",
  "record_count": 474,
  "records": [
@@ -108,6 +108,19 @@
    "inspection_id": "E8A8DBCB-C233-DE31-27B9BE81C92EA026"
   },
   {
+   "facility_id": "11627",
+   "campus": "CLEMENTE MARTINEZ ELEMENTARY",
+   "address": "901 HAYS HOUSTON TX",
+   "zip": "77009",
+   "site": "PREMISES",
+   "level": "Elementary",
+   "date": "2026-10-27",
+   "status": "OPEN",
+   "violation_count": 4,
+   "inspections_that_day": 2,
+   "inspection_id": "EAC6CAB4-DD54-B9C2-C8BC0BD31C339414"
+  },
+  {
    "facility_id": "11565",
    "campus": "ALBERT THOMAS MIDDLE SCHOOL",
    "address": "5655 SELINSKY HOUSTON TX",
@@ -158,6 +171,19 @@
    "violation_count": 2,
    "inspections_that_day": 2,
    "inspection_id": "B8B54136-B0EC-F07D-0BD09496B772347A"
+  },
+  {
+   "facility_id": "11646",
+   "campus": "SPRING BRANCH ELEMENTARY SCHOOL",
+   "address": "1700 CAMPBELL HOUSTON TX",
+   "zip": "77080",
+   "site": "TOTAL SITES",
+   "level": "Elementary",
+   "date": "2026-10-23",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 2,
+   "inspection_id": "1BAAA902-FB00-F3D2-A2D8708B661B972D"
   },
   {
    "facility_id": "C5F36D24-F802-33A8-D202343AC78CDE65",
@@ -223,6 +249,19 @@
    "violation_count": 2,
    "inspections_that_day": 2,
    "inspection_id": "1A785309-C53A-E3FB-0B4B7B882D897FA6"
+  },
+  {
+   "facility_id": "11652",
+   "campus": "HOLLIBROOK ELEMENTARY SCHOOL",
+   "address": "3602 HOLLISTER HOUSTON TX",
+   "zip": "77080",
+   "site": "KITCHEN",
+   "level": "Elementary",
+   "date": "2026-10-23",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 2,
+   "inspection_id": "1D929387-C089-F459-D488F935773D5A9F"
   },
   {
    "facility_id": "11561",
@@ -316,6 +355,19 @@
    "inspection_id": "B91B9C7D-A74B-8C3C-4B8BEA43318D39D0"
   },
   {
+   "facility_id": "11655",
+   "campus": "BENDWOOD ELEMENTARY SCHOOL",
+   "address": "12750 KIMBERLY HOUSTON TX",
+   "zip": "77024",
+   "site": "ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-21",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "BD65468D-D4C2-D0DD-5648691C3F91F2C2"
+  },
+  {
    "facility_id": "747200E8-DF03-8C04-A3B4B83E062C44B1",
    "campus": "ARABIC IMMERSION MAGNET SCHOOL",
    "address": "4001 STANFORD ST HOUSTON TX",
@@ -366,6 +418,32 @@
    "violation_count": 7,
    "inspections_that_day": 2,
    "inspection_id": "825DAABC-BEC8-552A-87060C5A71E1B4C8"
+  },
+  {
+   "facility_id": "11670",
+   "campus": "MEMORIAL JR HIGH SCHOOL",
+   "address": "12550 VINDON DR HOUSTON TX",
+   "zip": "77024",
+   "site": "PREMISES",
+   "level": "Middle / Jr. High",
+   "date": "2026-10-20",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 2,
+   "inspection_id": "84395868-CE8E-49C8-9C6A363FEF93B01C"
+  },
+  {
+   "facility_id": "11410",
+   "campus": "MEMORIAL ELEMENTARY SCHOOL",
+   "address": "6401 ARNOT HOUSTON TX",
+   "zip": "77007",
+   "site": "KITCHEN",
+   "level": "Middle / Jr. High",
+   "date": "2026-10-20",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 1,
+   "inspection_id": "80246F1C-059B-911C-EEB28A33AB61311E"
   },
   {
    "facility_id": "11524",
@@ -498,6 +576,32 @@
    "inspection_id": "4E1B85E9-AAA1-C5E9-6EFFBF3E01359324"
   },
   {
+   "facility_id": "11549",
+   "campus": "LOOSCAN ELEMENTARY",
+   "address": "3800 ROBERTSON HOUSTON TX",
+   "zip": "77009",
+   "site": "Kitchen",
+   "level": "Elementary",
+   "date": "2026-10-19",
+   "status": "OPEN",
+   "violation_count": 3,
+   "inspections_that_day": 2,
+   "inspection_id": "507D0895-0E64-0D29-2B703767C54A7DB4"
+  },
+  {
+   "facility_id": "879AA4A6-9CA4-A266-8502FB83B0520141",
+   "campus": "LANDRUM MIDDLE SCHOOL",
+   "address": "2200 RIDGECREST DR HOUSTON TX",
+   "zip": "77055",
+   "site": "PREMISES",
+   "level": "Middle / Jr. High",
+   "date": "2026-10-19",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 2,
+   "inspection_id": "4E415AA6-9DDE-697B-B3A4541E3EADC99C"
+  },
+  {
    "facility_id": "54917",
    "campus": "JUDSON ROBINSON ELEMENTARY SCHOOL",
    "address": "12425 WOODFOREST BLVD HOUSTON TX",
@@ -626,6 +730,19 @@
    "violation_count": 2,
    "inspections_that_day": 1,
    "inspection_id": "B3B09C9C-016C-A8A2-1C0F5F28F8D44C9B"
+  },
+  {
+   "facility_id": "11453",
+   "campus": "BLACK MIDDLE SCHOOL",
+   "address": "1575 CHANTILLY HOUSTON TX",
+   "zip": "77018",
+   "site": "ESTABLISHMENT",
+   "level": "Middle / Jr. High",
+   "date": "2026-10-16",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 2,
+   "inspection_id": "B2F2DF2E-E6AB-3827-31275853CF309A0E"
   },
   {
    "facility_id": "25E90CBF-5056-A20F-9EE1B0C0E148A23E",
@@ -3943,19 +4060,6 @@
    "inspection_id": "1955898E-A424-BEA3-697AF9E5A5E6F60D"
   },
   {
-   "facility_id": "11549",
-   "campus": "LOOSCAN ELEMENTARY",
-   "address": "3800 ROBERTSON HOUSTON TX",
-   "zip": "77009",
-   "site": "Kitchen",
-   "level": "Elementary",
-   "date": "2026-04-27",
-   "status": "OPEN",
-   "violation_count": 3,
-   "inspections_that_day": 1,
-   "inspection_id": "1B5965E4-C635-452D-344E17E31DD144B7"
-  },
-  {
    "facility_id": "11617",
    "campus": "GALLEGOS ELEMENTARY SCHOOL",
    "address": "7415 HARRISBURG HOUSTON TX",
@@ -4110,19 +4214,6 @@
    "violation_count": 3,
    "inspections_that_day": 2,
    "inspection_id": "B26F839F-D5F3-D66E-03B8EE76199D3422"
-  },
-  {
-   "facility_id": "11627",
-   "campus": "CLEMENTE MARTINEZ ELEMENTARY",
-   "address": "901 HAYS HOUSTON TX",
-   "zip": "77009",
-   "site": "Kitchen",
-   "level": "Elementary",
-   "date": "2026-04-20",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 1,
-   "inspection_id": "B051F7FB-A14B-0058-48D9A18FC8FCD91F"
   },
   {
    "facility_id": "231AEA77-5056-A20B-FA85A7FBAD1AAB24",
@@ -4736,19 +4827,6 @@
    "inspection_id": "AF1AA889-A952-D7BA-70309E2B1AAF653A"
   },
   {
-   "facility_id": "11655",
-   "campus": "BENDWOOD ELEMENTARY SCHOOL",
-   "address": "12750 KIMBERLY HOUSTON TX",
-   "zip": "77024",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-03-26",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "A89F1ABD-EC1E-5443-69377ABFB6EEAF37"
-  },
-  {
    "facility_id": "11460",
    "campus": "SCARBOROUGH HIGH SCHOOL",
    "address": "4141 COSTA RICA HOUSTON TX",
@@ -4760,19 +4838,6 @@
    "violation_count": 4,
    "inspections_that_day": 2,
    "inspection_id": "77C73C19-B8AF-85D9-87EB95C9499FDA4A"
-  },
-  {
-   "facility_id": "11670",
-   "campus": "MEMORIAL JR HIGH SCHOOL",
-   "address": "12550 VINDON DR HOUSTON TX",
-   "zip": "77024",
-   "site": "PREMISES",
-   "level": "Middle / Jr. High",
-   "date": "2026-03-25",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 2,
-   "inspection_id": "76218FF8-E6C4-5270-F06F29F45C98057E"
   },
   {
    "facility_id": "12415",
@@ -4916,19 +4981,6 @@
    "violation_count": 2,
    "inspections_that_day": 2,
    "inspection_id": "0E95C399-ACEA-FA3F-9389A989CEE45DA6"
-  },
-  {
-   "facility_id": "879AA4A6-9CA4-A266-8502FB83B0520141",
-   "campus": "LANDRUM MIDDLE SCHOOL",
-   "address": "2200 RIDGECREST DR HOUSTON TX",
-   "zip": "77055",
-   "site": "KITCHEN",
-   "level": "Middle / Jr. High",
-   "date": "2026-03-20",
-   "status": "OPEN",
-   "violation_count": 5,
-   "inspections_that_day": 1,
-   "inspection_id": "76A8FD3C-E8DB-D1A8-D426199A91EB2634"
   },
   {
    "facility_id": "65",
@@ -5111,19 +5163,6 @@
    "violation_count": 1,
    "inspections_that_day": 1,
    "inspection_id": "A7C4A328-A061-4DD6-F06ED0D3DFA0525B"
-  },
-  {
-   "facility_id": "11410",
-   "campus": "MEMORIAL ELEMENTARY SCHOOL",
-   "address": "6401 ARNOT HOUSTON TX",
-   "zip": "77007",
-   "site": "KITCHEN",
-   "level": "Middle / Jr. High",
-   "date": "2026-03-16",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 1,
-   "inspection_id": "A7FFCAA6-AF75-3CC5-D03B419D44262764"
   },
   {
    "facility_id": "90D16B1B-5056-A20B-FA3C38AEC9FA5F78",
@@ -5319,19 +5358,6 @@
    "violation_count": 0,
    "inspections_that_day": 2,
    "inspection_id": "0CADE753-FC3C-7C11-95743DE0CECD1A82"
-  },
-  {
-   "facility_id": "11453",
-   "campus": "BLACK MIDDLE SCHOOL",
-   "address": "1575 CHANTILLY HOUSTON TX",
-   "zip": "77018",
-   "site": "Premises",
-   "level": "Middle / Jr. High",
-   "date": "2026-02-26",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 2,
-   "inspection_id": "0BBD7B6F-D148-A4AF-E8118E5FD7B96802"
   },
   {
    "facility_id": "12122",
@@ -5789,19 +5815,6 @@
    "inspection_id": "4F97775F-C2AB-E2A2-B3F5F37BA92FA880"
   },
   {
-   "facility_id": "11652",
-   "campus": "HOLLIBROOK ELEMENTARY SCHOOL",
-   "address": "3602 HOLLISTER HOUSTON TX",
-   "zip": "77080",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2025-11-18",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "F3E80966-CE93-6D17-A1147282C7C2CE66"
-  },
-  {
    "facility_id": "2E7A2529-AA0C-6627-8F165D1F7F8142F7",
    "campus": "ALIEF ISD CAREER CENTER",
    "address": "12160 RICHMOND AVE HOUSTON TX",
@@ -6034,19 +6047,6 @@
    "violation_count": 0,
    "inspections_that_day": 1,
    "inspection_id": "47A6EF59-C7F9-C13C-CDC792C8C4ACC00D"
-  },
-  {
-   "facility_id": "11646",
-   "campus": "SPRING BRANCH ELEMENTARY SCHOOL",
-   "address": "1700 CAMPBELL HOUSTON TX",
-   "zip": "77080",
-   "site": "PREMISES",
-   "level": "Elementary",
-   "date": "2025-10-20",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 2,
-   "inspection_id": "1792F185-B819-E93B-99B07A8DF95D7818"
   },
   {
    "facility_id": "11667",
