@@ -1,17 +1,17 @@
 date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-10-28,THE DRAW ACADEMY,Elementary,inspection,3920 STONEY BROOK HOUSTON TX,77063,OPEN,1,1 Houston Ordinance Violation: 5-205.15 (Violation)
-2026-10-28,THE DRAW ACADEMY,Elementary,inspection,3920 STONEY BROOK HOUSTON TX,77063,OPEN,3,13 Houston Ordinance Violation: 3-501.16(A)(2) (Violation) | 19 Houston Ordinance Violation: TAC-228.32 (Violation Corrected On Site) | 32 Houston Ordinance Violation: 5-103.11(B) (Violation Corrected On Site)
+2026-10-28,THE DRAW ACADEMY,Elementary,inspection,3920 STONEY BROOK HOUSTON TX,77063,OPEN,3,39 Houston Ordinance Violation: 5-103.11(B) (Violation Corrected On Site) | 40 Houston Ordinance Violation: TAC-228.32 (Violation Corrected On Site) | 41 Houston Ordinance Violation: 3-501.16(A)(2) (Violation)
 2026-10-28,SEGUIN ELEMENTARY SCHOOL,Elementary,inspection,5905 WALTRIP HOUSTON TX,77087,OPEN,0,
 2026-10-28,SEGUIN ELEMENTARY SCHOOL,Elementary,grease_trap,5905 WALTRIP HOUSTON TX,77087,OPEN,0,
 2026-10-28,SEGUIN ELEMENTARY SCHOOL,Elementary,inspection,5905 WALTRIP HOUSTON TX,77087,OPEN,0,
 2026-10-28,FOSTER ELEMENTARY SCHOOL,Elementary,inspection,3919 WARD HOUSTON TX,77021,OPEN,0,
 2026-10-28,FOSTER ELEMENTARY SCHOOL,Elementary,inspection,3919 WARD HOUSTON TX,77021,OPEN,0,
 2026-10-28,FOSTER ELEMENTARY SCHOOL,Elementary,grease_trap,3919 WARD HOUSTON TX,77021,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
-2026-10-27,STERLING HIGH SCHOOL,Middle / Jr. High,inspection,11625 MARTINDALE HOUSTON TX,77048,OPEN,1,45 Houston Ordinance Violation: 4-601.11(C) (Violation)
+2026-10-27,STERLING HIGH SCHOOL,Middle / Jr. High,inspection,11625 MARTINDALE HOUSTON TX,77048,OPEN,1,57 Houston Ordinance Violation: 4-601.11(C) (Violation)
 2026-10-27,STERLING HIGH SCHOOL,Middle / Jr. High,grease_trap,11625 MARTINDALE HOUSTON TX,77048,OPEN,0,
 2026-10-27,STERLING HIGH SCHOOL,Middle / Jr. High,inspection,11625 MARTINDALE HOUSTON TX,77048,OPEN,0,
 2026-10-27,LAWSON MIDDLE SCHOOL,Middle / Jr. High,inspection,14000 STANCLIFF ST HOUSTON TX,77045,OPEN,1,1 Houston Ordinance Violation: 5-202.12(C) (Violation)
-2026-10-27,LAWSON MIDDLE SCHOOL,Middle / Jr. High,inspection,14000 STANCLIFF ST HOUSTON TX,77045,OPEN,5,13 Houston Ordinance Violation: TAC-228.31(E) (Violation) | 33 Houston Ordinance Violation: 6-501.111(C) (Violation Corrected On Site) | 34 Houston Ordinance Violation: 6-202.15(A) (Violation) | 53 Houston Ordinance Violation: 6-501.11 (Violation) | 54 Houston Ordinance Violation: 6-101.11(A)(3) (Violation)
+2026-10-27,LAWSON MIDDLE SCHOOL,Middle / Jr. High,inspection,14000 STANCLIFF ST HOUSTON TX,77045,OPEN,5,55 Houston Ordinance Violation: TAC-228.31(E) (Violation) | 56 Houston Ordinance Violation: 6-202.15(A) (Violation) | 57 Houston Ordinance Violation: 6-501.111(C) (Violation Corrected On Site) | 58 Houston Ordinance Violation: 6-101.11(A)(3) (Violation) | 59 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-10-27,LAWSON MIDDLE SCHOOL,Middle / Jr. High,grease_trap,14000 STANCLIFF ST HOUSTON TX,77045,OPEN,0,
 2026-10-27,DAILY ELEMENTARY,Elementary,inspection,12909 BRIAR FOREST DR HOUSTON TX,77077,OPEN,0,
 2026-10-27,DAILY ELEMENTARY,Elementary,inspection,12909 BRIAR FOREST DR HOUSTON TX,77077,OPEN,1,1 Houston Ordinance Violation: 5-501.114 (Violation)
@@ -23,15 +23,15 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-10-27,CORNELIUS ELEMENTARY,Elementary,inspection,7475 WESTOVER HOUSTON TX,77087,OPEN,0,
 2026-10-27,CORNELIUS ELEMENTARY,Elementary,inspection,7475 WESTOVER HOUSTON TX,77087,OPEN,1,1 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-10-27,CLEMENTE MARTINEZ ELEMENTARY,Elementary,inspection,901 HAYS HOUSTON TX,77009,OPEN,2,1 Houston Ordinance Violation: 4-402.11(A)(2) (Violation) | 2 Houston Ordinance Violation: 5-205.15 (Violation)
-2026-10-27,CLEMENTE MARTINEZ ELEMENTARY,Elementary,inspection,901 HAYS HOUSTON TX,77009,OPEN,2,13 Houston Ordinance Violation: TAC-228.31(E) (Violation Corrected On Site) | 52 Houston Ordinance Violation: 6-501.12(A) (Violation)
+2026-10-27,CLEMENTE MARTINEZ ELEMENTARY,Elementary,inspection,901 HAYS HOUSTON TX,77009,OPEN,2,56 Houston Ordinance Violation: TAC-228.31(E) (Violation Corrected On Site) | 57 Houston Ordinance Violation: 6-501.12(A) (Violation)
 2026-10-27,CLEMENTE MARTINEZ ELEMENTARY,Elementary,grease_trap,901 HAYS HOUSTON TX,77009,OPEN,0,
-2026-10-27,ALBERT THOMAS MIDDLE SCHOOL,Middle / Jr. High,inspection,5655 SELINSKY HOUSTON TX,77048,OPEN,1,51 Houston Ordinance Violation: 5-501.114 (Violation)
+2026-10-27,ALBERT THOMAS MIDDLE SCHOOL,Middle / Jr. High,inspection,5655 SELINSKY HOUSTON TX,77048,OPEN,1,57 Houston Ordinance Violation: 5-501.114 (Violation)
 2026-10-27,ALBERT THOMAS MIDDLE SCHOOL,Middle / Jr. High,grease_trap,5655 SELINSKY HOUSTON TX,77048,OPEN,0,
-2026-10-27,ALBERT THOMAS MIDDLE SCHOOL,Middle / Jr. High,inspection,5655 SELINSKY HOUSTON TX,77048,OPEN,3,1 Houston Ordinance Violation: 6-301.14 (Violation) | 2 Houston Ordinance Violation: 5-202.12(A) (Violation) | 3 Houston Ordinance Violation: 5-501.17 (Violation)
+2026-10-27,ALBERT THOMAS MIDDLE SCHOOL,Middle / Jr. High,inspection,5655 SELINSKY HOUSTON TX,77048,OPEN,3,1 Houston Ordinance Violation: 5-202.12(A) (Violation) | 2 Houston Ordinance Violation: 6-301.14 (Violation) | 3 Houston Ordinance Violation: 5-501.17 (Violation)
 2026-10-26,GREGG ELEMENTARY,Elementary,grease_trap,6701 ROXBURY HOUSTON TX,77087,OPEN,1,1 Houston Ordinance Violation: COH-47-521 (Violation Repeat)
 2026-10-26,GREGG ELEMENTARY,Elementary,inspection,6701 ROXBURY HOUSTON TX,77087,OPEN,0,
 2026-10-26,GREGG ELEMENTARY,Elementary,inspection,6701 ROXBURY HOUSTON TX,77087,OPEN,1,1 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
-2026-10-26,BENAVIDEZ ELEMENTARY,Elementary,inspection,6262 GULFTON HOUSTON TX,77081,OPEN,4,1 Houston Ordinance Violation: 5-202.12(A) (Violation) | 2 Houston Ordinance Violation: 6-202.15(A) (Violation Repeat) | 3 Houston Ordinance Violation: 5-205.15 (Violation) | 4 Houston Ordinance Violation: 3-801.11(D) (Violation Corrected On Site)
+2026-10-26,BENAVIDEZ ELEMENTARY,Elementary,inspection,6262 GULFTON HOUSTON TX,77081,OPEN,4,1 Houston Ordinance Violation: 3-801.11(D) (Violation Corrected On Site) | 2 Houston Ordinance Violation: 5-202.12(A) (Violation) | 3 Houston Ordinance Violation: 6-202.15(A) (Violation Repeat) | 4 Houston Ordinance Violation: 5-205.15 (Violation)
 2026-10-26,BASTIAN ELEMENTARY SCHOOL,Elementary,grease_trap,5051 BELLFORT ST HOUSTON TX,77033,OPEN,0,
 2026-10-26,BASTIAN ELEMENTARY SCHOOL,Elementary,inspection,5051 BELLFORT ST HOUSTON TX,77033,OPEN,0,
 2026-10-26,BASTIAN ELEMENTARY SCHOOL,Elementary,inspection,5051 BELLFORT ST HOUSTON TX,77033,OPEN,2,1 Houston Ordinance Violation: 6-501.111(B) (Violation) | 2 Houston Ordinance Violation: 5-501.15(A) (Violation)
@@ -52,43 +52,43 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-10-23,MARK TWAIN ELEMENTARY,Elementary,inspection,7500 BRAES BLVD HOUSTON TX,77025,OPEN,0,
 2026-10-23,LOVETT ELEMENTARY,Elementary,inspection,8814 S RICE BLVD HOUSTON TX,77096,OPEN,1,1 Houston Ordinance Violation: 5-205.15 (Violation)
 2026-10-23,LOVETT ELEMENTARY,Elementary,grease_trap,8814 S RICE BLVD HOUSTON TX,77096,OPEN,0,
-2026-10-23,LOVETT ELEMENTARY,Elementary,inspection,8814 S RICE BLVD HOUSTON TX,77096,OPEN,1,51 Houston Ordinance Violation: 5-501.113 (Violation Corrected On Site)
+2026-10-23,LOVETT ELEMENTARY,Elementary,inspection,8814 S RICE BLVD HOUSTON TX,77096,OPEN,1,57 Houston Ordinance Violation: 5-501.113 (Violation Corrected On Site)
 2026-10-23,HOLLIBROOK ELEMENTARY SCHOOL,Elementary,inspection,3602 HOLLISTER HOUSTON TX,77080,OPEN,0,
 2026-10-23,HOLLIBROOK ELEMENTARY SCHOOL,Elementary,inspection,3602 HOLLISTER HOUSTON TX,77080,OPEN,2,1 Houston Ordinance Violation: 6-501.112 (Violation) | 2 Houston Ordinance Violation: 3-304.14(B) (Violation)
 2026-10-23,HOLLIBROOK ELEMENTARY SCHOOL,Elementary,grease_trap,3602 HOLLISTER HOUSTON TX,77080,OPEN,0,
 2026-10-23,GARDEN VILLAS ELEMENTARY,Elementary,inspection,7185 SANTA FE HOUSTON TX,77061,OPEN,0,
 2026-10-23,GARDEN VILLAS ELEMENTARY,Elementary,grease_trap,7185 SANTA FE HOUSTON TX,77061,OPEN,0,
-2026-10-23,GARDEN VILLAS ELEMENTARY,Elementary,inspection,7185 SANTA FE HOUSTON TX,77061,OPEN,1,52 Houston Ordinance Violation: 6-501.11 (Violation)
-2026-10-23,EMERSON ELEMENTARY SCHOOL,Elementary,inspection,9533 SKYLINE HOUSTON TX,77063,OPEN,2,23 Houston Ordinance Violation: 6-202.15(A) (Violation) | 32 Houston Ordinance Violation: 4-501.11(A) (Violation)
+2026-10-23,GARDEN VILLAS ELEMENTARY,Elementary,inspection,7185 SANTA FE HOUSTON TX,77061,OPEN,1,57 Houston Ordinance Violation: 6-501.11 (Violation)
+2026-10-23,EMERSON ELEMENTARY SCHOOL,Elementary,inspection,9533 SKYLINE HOUSTON TX,77063,OPEN,2,44 Houston Ordinance Violation: 6-202.15(A) (Violation) | 45 Houston Ordinance Violation: 4-501.11(A) (Violation)
 2026-10-23,EMERSON ELEMENTARY SCHOOL,Elementary,grease_trap,9533 SKYLINE HOUSTON TX,77063,OPEN,0,
 2026-10-22,JAMES E. STUCHBERY ELEMENTARY,Elementary,inspection,11210 HUGHES HOUSTON TX,77089,OPEN,0,
 2026-10-21,YES PREP ELEMENTARY- BRAYS OAKS,Elementary,inspection,9060 BENNING DR HOUSTON TX,77031,OPEN,0,
 2026-10-21,YES PREP ELEMENTARY- BRAYS OAKS,Elementary,inspection,9060 BENNING DR HOUSTON TX,77031,OPEN,0,
 2026-10-21,SCROGGINS ELEMENTARY,Elementary,inspection,400 BOYLES HOUSTON TX,77020,OPEN,4,1 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 2 Houston Ordinance Violation: 4-501.11(A) (Violation) | 3 Houston Ordinance Violation: 5-205.15 (Violation) | 4 Houston Ordinance Violation: 6-501.11 (Violation)
-2026-10-21,SCROGGINS ELEMENTARY,Elementary,inspection,400 BOYLES HOUSTON TX,77020,OPEN,4,1 Houston Ordinance Violation: 8-304.11(K) (Violation) | 2 Houston Ordinance Violation: 3-501.18(A) (Violation Corrected On Site) | 3 Houston Ordinance Violation: 3-501.13(A) (Violation Corrected On Site) | 4 Houston Ordinance Violation: 4-601.11(C) (Violation)
+2026-10-21,SCROGGINS ELEMENTARY,Elementary,inspection,400 BOYLES HOUSTON TX,77020,OPEN,4,1 Houston Ordinance Violation: 3-501.18(A) (Violation Corrected On Site) | 2 Houston Ordinance Violation: 3-501.13(A) (Violation Corrected On Site) | 3 Houston Ordinance Violation: 4-601.11(C) (Violation) | 4 Houston Ordinance Violation: 8-304.11(K) (Violation)
 2026-10-21,SCROGGINS ELEMENTARY,Elementary,grease_trap,400 BOYLES HOUSTON TX,77020,OPEN,0,
 2026-10-21,RODERICK PAIGE  ELEMENTARY  SCHOOL,Elementary,grease_trap,7501 CURRY RD HOUSTON TX,77093,OPEN,0,
 2026-10-21,RODERICK PAIGE  ELEMENTARY  SCHOOL,Elementary,inspection,7501 CURRY RD HOUSTON TX,77093,OPEN,0,
-2026-10-21,RODERICK PAIGE  ELEMENTARY  SCHOOL,Elementary,inspection,7501 CURRY RD HOUSTON TX,77093,OPEN,3,37 Houston Ordinance Violation: 3-304.14(B) (Violation) | 48 Houston Ordinance Violation: 5-205.15 (Violation) | 52 Houston Ordinance Violation: 6-501.12(A) (Violation Repeat)
-2026-10-21,MANDARIN IMMERSION MAGNATE SCHOOL,Middle / Jr. High,inspection,5445 W ALABAMA ST HOUSTON TX,77056,OPEN,2,1 Houston Ordinance Violation: 2-103.11(O) (Violation) | 2 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
+2026-10-21,RODERICK PAIGE  ELEMENTARY  SCHOOL,Elementary,inspection,7501 CURRY RD HOUSTON TX,77093,OPEN,3,55 Houston Ordinance Violation: 3-304.14(B) (Violation) | 56 Houston Ordinance Violation: 5-205.15 (Violation) | 57 Houston Ordinance Violation: 6-501.12(A) (Violation Repeat)
+2026-10-21,MANDARIN IMMERSION MAGNATE SCHOOL,Middle / Jr. High,inspection,5445 W ALABAMA ST HOUSTON TX,77056,OPEN,2,1 Houston Ordinance Violation: 6-501.11 (Violation Repeat) | 2 Houston Ordinance Violation: 2-103.11(O) (Violation)
 2026-10-21,JAMES E. STUCHBERY ELEMENTARY,Elementary,inspection,11210 HUGHES HOUSTON TX,77089,OPEN,0,
 2026-10-21,JAMES E. STUCHBERY ELEMENTARY,Elementary,grease_trap,11210 HUGHES HOUSTON TX,77089,OPEN,0,
-2026-10-21,JAMES E. STUCHBERY ELEMENTARY,Elementary,inspection,11210 HUGHES HOUSTON TX,77089,OPEN,3,3 Houston Ordinance Violation: 8-404.11(A) (Violation) | 48 Houston Ordinance Violation: 5-103.11(B) (Violation) | 53 Houston Ordinance Violation: 6-501.11 (Violation)
+2026-10-21,JAMES E. STUCHBERY ELEMENTARY,Elementary,inspection,11210 HUGHES HOUSTON TX,77089,OPEN,3,56 Houston Ordinance Violation: 5-103.11(B) (Violation) | 57 Houston Ordinance Violation: 6-501.11 (Violation) | 58 Houston Ordinance Violation: 8-404.11(A) (Violation)
 2026-10-21,BENDWOOD ELEMENTARY SCHOOL,Elementary,inspection,12750 KIMBERLY HOUSTON TX,77024,OPEN,0,
 2026-10-21,ARABIC IMMERSION MAGNET SCHOOL,Elementary,grease_trap,4001 STANFORD ST HOUSTON TX,77006,OPEN,0,
 2026-10-21,ARABIC IMMERSION MAGNET SCHOOL,Elementary,inspection,4001 STANFORD ST HOUSTON TX,77006,OPEN,1,1 Houston Ordinance Violation: 4-601.11(C) (Violation Repeat)
 2026-10-20,VARNETT CHARTER SCHOOL,Elementary,grease_trap,8311 MESA DR HOUSTON TX,77028,OPEN,0,
-2026-10-20,VARNETT CHARTER SCHOOL,Elementary,inspection,8311 MESA DR HOUSTON TX,77028,OPEN,2,1 Houston Ordinance Violation: 8-304.11(K) (Violation Corrected On Site) | 2 Houston Ordinance Violation: 6-501.11 (Violation)
+2026-10-20,VARNETT CHARTER SCHOOL,Elementary,inspection,8311 MESA DR HOUSTON TX,77028,OPEN,2,1 Houston Ordinance Violation: 6-501.11 (Violation) | 2 Houston Ordinance Violation: 8-304.11(K) (Violation Corrected On Site)
 2026-10-20,STEVENSON MIDDLE SCHOOL,Middle / Jr. High,inspection,9595 WINKLER HOUSTON TX,77017,OPEN,0,
 2026-10-20,STEVENSON MIDDLE SCHOOL,Middle / Jr. High,grease_trap,9595 WINKLER HOUSTON TX,77017,OPEN,0,
 2026-10-20,STEVENSON MIDDLE SCHOOL,Middle / Jr. High,inspection,9595 WINKLER HOUSTON TX,77017,OPEN,2,1 Houston Ordinance Violation: 5-205.15 (Violation) | 2 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
 2026-10-20,MOORE ELEMENTARY,Elementary,inspection,8880 SOUTHBLUFF HOUSTON TX,77089,OPEN,1,1 Houston Ordinance Violation: 6-501.111(B) (Violation Repeat)
 2026-10-20,MOORE ELEMENTARY,Elementary,grease_trap,8880 SOUTHBLUFF HOUSTON TX,77089,OPEN,0,
-2026-10-20,MOORE ELEMENTARY,Elementary,inspection,8880 SOUTHBLUFF HOUSTON TX,77089,OPEN,6,33 Houston Ordinance Violation: 6-501.111(B) (Violation) | 34 Houston Ordinance Violation: 3-305.11(A) (Violation Corrected On Site) | 43 Houston Ordinance Violation: 4-501.11(A) (Violation) | 45 Houston Ordinance Violation: 4-601.11(C) (Violation) | 48 Houston Ordinance Violation: 5-202.13 (Violation) | 52 Houston Ordinance Violation: 6-501.12(A) (Violation)
+2026-10-20,MOORE ELEMENTARY,Elementary,inspection,8880 SOUTHBLUFF HOUSTON TX,77089,OPEN,6,52 Houston Ordinance Violation: 6-501.111(B) (Violation) | 53 Houston Ordinance Violation: 3-305.11(A) (Violation Corrected On Site) | 54 Houston Ordinance Violation: 4-501.11(A) (Violation) | 55 Houston Ordinance Violation: 4-601.11(C) (Violation) | 56 Houston Ordinance Violation: 5-202.13 (Violation) | 57 Houston Ordinance Violation: 6-501.12(A) (Violation)
 2026-10-20,MEMORIAL JR HIGH SCHOOL,Middle / Jr. High,grease_trap,12550 VINDON DR HOUSTON TX,77024,OPEN,0,
 2026-10-20,MEMORIAL JR HIGH SCHOOL,Middle / Jr. High,inspection,12550 VINDON DR HOUSTON TX,77024,OPEN,0,
 2026-10-20,MEMORIAL JR HIGH SCHOOL,Middle / Jr. High,inspection,12550 VINDON DR HOUSTON TX,77024,OPEN,0,
-2026-10-20,MEMORIAL ELEMENTARY SCHOOL,Middle / Jr. High,inspection,6401 ARNOT HOUSTON TX,77007,OPEN,2,34 Houston Ordinance Violation: 3-305.11(A) (Violation Corrected On Site) | 51 Houston Ordinance Violation: 5-501.11 (Violation Repeat)
+2026-10-20,MEMORIAL ELEMENTARY SCHOOL,Middle / Jr. High,inspection,6401 ARNOT HOUSTON TX,77007,OPEN,2,56 Houston Ordinance Violation: 3-305.11(A) (Violation Corrected On Site) | 57 Houston Ordinance Violation: 5-501.11 (Violation Repeat)
 2026-10-20,MEMORIAL ELEMENTARY SCHOOL,Middle / Jr. High,grease_trap,6401 ARNOT HOUSTON TX,77007,OPEN,0,
 2026-10-20,MCNAMARA ELEMENTARY SCHOOL,Elementary,inspection,8714 MCAVOY HOUSTON TX,77074,OPEN,0,
 2026-10-20,MCNAMARA ELEMENTARY SCHOOL,Elementary,grease_trap,8714 MCAVOY HOUSTON TX,77074,OPEN,0,
@@ -99,13 +99,13 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-10-20,J. FRANK DOBIE HIGH SCHOOL,High School,inspection,10220 BLACKHAWK DR HOUSTON TX,77089,OPEN,0,
 2026-10-20,FRAZIER ELEMENTARY SCHOOL,Elementary,inspection,10503 HUGHES HOUSTON TX,77089,OPEN,0,
 2026-10-20,FRAZIER ELEMENTARY SCHOOL,Elementary,grease_trap,10503 HUGHES HOUSTON TX,77089,OPEN,0,
-2026-10-20,FRAZIER ELEMENTARY SCHOOL,Elementary,inspection,10503 HUGHES HOUSTON TX,77089,OPEN,1,33 Houston Ordinance Violation: 6-202.15(A) (Violation)
+2026-10-20,FRAZIER ELEMENTARY SCHOOL,Elementary,inspection,10503 HUGHES HOUSTON TX,77089,OPEN,1,57 Houston Ordinance Violation: 6-202.15(A) (Violation)
 2026-10-20,FONWOOD EARLY CHILDHOOD CENTER HISD,Elementary,grease_trap,9709 MESA HOUSTON TX,77078,OPEN,0,
 2026-10-20,FONWOOD EARLY CHILDHOOD CENTER HISD,Elementary,inspection,9709 MESA HOUSTON TX,77078,OPEN,3,1 Houston Ordinance Violation: 4-601.11(C) (Violation) | 2 Houston Ordinance Violation: 5-501.111 (Violation) | 3 Houston Ordinance Violation: 5-501.114 (Violation)
 2026-10-20,A.A.M.A'S GEORGE I SANCHEZ H.S,Middle / Jr. High,inspection,6001 GULF FWY HOUSTON TX,77023,OPEN,2,1 Houston Ordinance Violation: 6-202.15(A) (Violation Repeat) | 2 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
 2026-10-20,A.A.M.A'S GEORGE I SANCHEZ H.S,Middle / Jr. High,grease_trap,6001 GULF FWY HOUSTON TX,77023,OPEN,0,
-2026-10-20,A.A.M.A'S GEORGE I SANCHEZ H.S,Middle / Jr. High,inspection,6001 GULF FWY HOUSTON TX,77023,OPEN,1,43 Houston Ordinance Violation: 4-402.11(A)(3) (Violation)
-2026-10-19,WILLOW CREEK ELEMENTARY,Elementary,inspection,2002 WILLOW TERRACE HUMBLE TX,77339,OPEN,2,52 Houston Ordinance Violation: 6-501.16 (Violation Corrected On Site) | 53 Houston Ordinance Violation: 6-201.17(B) (Violation)
+2026-10-20,A.A.M.A'S GEORGE I SANCHEZ H.S,Middle / Jr. High,inspection,6001 GULF FWY HOUSTON TX,77023,OPEN,1,57 Houston Ordinance Violation: 4-402.11(A)(3) (Violation)
+2026-10-19,WILLOW CREEK ELEMENTARY,Elementary,inspection,2002 WILLOW TERRACE HUMBLE TX,77339,OPEN,2,57 Houston Ordinance Violation: 6-201.17(B) (Violation) | 58 Houston Ordinance Violation: 6-501.16 (Violation Corrected On Site)
 2026-10-19,WILLOW CREEK ELEMENTARY,Elementary,inspection,2002 WILLOW TERRACE HUMBLE TX,77339,OPEN,3,1 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 2 Houston Ordinance Violation: 5-501.113 (Violation Corrected On Site) | 3 Houston Ordinance Violation: 6-201.17(B) (Violation)
 2026-10-19,WILLOW CREEK ELEMENTARY,Elementary,grease_trap,2002 WILLOW TERRACE HUMBLE TX,77339,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
 2026-10-19,WILCHESTER ELEMENTARY SCHOOL,Elementary,inspection,13618 SAINT MARY'S HOUSTON TX,77079,OPEN,0,
@@ -115,11 +115,11 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-10-19,WESTCHESTER ACADEMY,Middle / Jr. High,inspection,901 YORKCHESTER HOUSTON TX,77079,OPEN,0,
 2026-10-19,WESTCHESTER ACADEMY,Middle / Jr. High,grease_trap,901 YORKCHESTER HOUSTON TX,77079,OPEN,0,
 2026-10-19,WESTCHESTER ACADEMY,Middle / Jr. High,inspection,901 YORKCHESTER HOUSTON TX,77079,OPEN,0,
-2026-10-19,THE VARNETT SCHOOL,Elementary,inspection,804 MAXEY HOUSTON TX,77015,OPEN,2,1 Houston Ordinance Violation: TAC-228.32 (Violation Corrected On Site) | 2 Houston Ordinance Violation: 6-501.12(A) (Violation)
-2026-10-19,THE LAWSON ACADEMY,Middle / Jr. High,inspection,5052 SCOTT ST HOUSTON TX,77004,OPEN,4,41 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 46 Houston Ordinance Violation: 5-202.13 (Violation) | 49 Houston Ordinance Violation: 5-501.115 (Violation Corrected On Site) | 50 Houston Ordinance Violation: 6-501.12(A) (Violation Corrected On Site)
+2026-10-19,THE VARNETT SCHOOL,Elementary,inspection,804 MAXEY HOUSTON TX,77015,OPEN,2,1 Houston Ordinance Violation: 6-501.12(A) (Violation) | 2 Houston Ordinance Violation: TAC-228.32 (Violation Corrected On Site)
+2026-10-19,THE LAWSON ACADEMY,Middle / Jr. High,inspection,5052 SCOTT ST HOUSTON TX,77004,OPEN,4,52 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 53 Houston Ordinance Violation: 5-202.13 (Violation) | 54 Houston Ordinance Violation: 5-501.115 (Violation Corrected On Site) | 55 Houston Ordinance Violation: 6-501.12(A) (Violation Corrected On Site)
 2026-10-19,THE LAWSON ACADEMY,Middle / Jr. High,inspection,5052 SCOTT ST HOUSTON TX,77004,OPEN,0,
 2026-10-19,LOOSCAN ELEMENTARY,Elementary,inspection,3800 ROBERTSON HOUSTON TX,77009,OPEN,1,1 Houston Ordinance Violation: 5-202.12(C) (Violation)
-2026-10-19,LOOSCAN ELEMENTARY,Elementary,inspection,3800 ROBERTSON HOUSTON TX,77009,OPEN,2,43 Houston Ordinance Violation: 4-201.11 (Violation) | 52 Houston Ordinance Violation: 6-501.11 (Violation)
+2026-10-19,LOOSCAN ELEMENTARY,Elementary,inspection,3800 ROBERTSON HOUSTON TX,77009,OPEN,2,56 Houston Ordinance Violation: 4-201.11 (Violation) | 57 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-10-19,LOOSCAN ELEMENTARY,Elementary,grease_trap,3800 ROBERTSON HOUSTON TX,77009,OPEN,0,
 2026-10-19,LANDRUM MIDDLE SCHOOL,Middle / Jr. High,grease_trap,2200 RIDGECREST DR HOUSTON TX,77055,OPEN,0,
 2026-10-19,LANDRUM MIDDLE SCHOOL,Middle / Jr. High,inspection,2200 RIDGECREST DR HOUSTON TX,77055,OPEN,0,
@@ -127,48 +127,48 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-10-19,JUDSON ROBINSON ELEMENTARY SCHOOL,Elementary,inspection,12425 WOODFOREST BLVD HOUSTON TX,77013,OPEN,2,1 Houston Ordinance Violation: 4-601.11(C) (Violation) | 2 Houston Ordinance Violation: 5-205.15 (Violation)
 2026-10-19,HOUSTON CAN ACADEMY,High School,grease_trap,9020 GULF FWY HOUSTON TX,77017,OPEN,0,
 2026-10-19,HOUSTON CAN ACADEMY,High School,inspection,9020 GULF FWY HOUSTON TX,77017,OPEN,0,
-2026-10-19,HOUSTON CAN ACADEMY,High School,inspection,9020 GULF FWY HOUSTON TX,77017,OPEN,8,13 Houston Ordinance Violation: TAC-228.31(E) (Violation Repeat) | 30 Houston Ordinance Violation: 3-501.12 (Violation Corrected On Site) | 34 Houston Ordinance Violation: 3-305.11(A) (Violation Corrected On Site) | 43 Houston Ordinance Violation: 4-101.19 (Violation) | 44 Houston Ordinance Violation: 4-601.11(C) (Violation) | 47 Houston Ordinance Violation: 5-203.14(A) (Violation Repeat) | 49 Houston Ordinance Violation: 5-501.17 (Violation) | 50 Houston Ordinance Violation: 5-501.16(C) (Violation)
-2026-10-19,GREENTREE ELEMENTARY,Elementary,inspection,3502 BROOKSHADOW DR KINGWOOD TX,77345,OPEN,2,50 Houston Ordinance Violation: 6-201.17(B) (Violation Repeat) | 51 Houston Ordinance Violation: 6-501.12(A) (Violation)
+2026-10-19,HOUSTON CAN ACADEMY,High School,inspection,9020 GULF FWY HOUSTON TX,77017,OPEN,8,49 Houston Ordinance Violation: TAC-228.31(E) (Violation Repeat) | 50 Houston Ordinance Violation: 3-501.12 (Violation Corrected On Site) | 51 Houston Ordinance Violation: 3-305.11(A) (Violation Corrected On Site) | 52 Houston Ordinance Violation: 4-101.19 (Violation) | 53 Houston Ordinance Violation: 4-601.11(C) (Violation) | 54 Houston Ordinance Violation: 5-203.14(A) (Violation Repeat) | 55 Houston Ordinance Violation: 5-501.17 (Violation) | 56 Houston Ordinance Violation: 5-501.16(C) (Violation)
+2026-10-19,GREENTREE ELEMENTARY,Elementary,inspection,3502 BROOKSHADOW DR KINGWOOD TX,77345,OPEN,2,55 Houston Ordinance Violation: 6-201.17(B) (Violation Repeat) | 56 Houston Ordinance Violation: 6-501.12(A) (Violation)
 2026-10-19,GREENTREE ELEMENTARY,Elementary,inspection,3502 BROOKSHADOW DR KINGWOOD TX,77345,OPEN,1,1 Houston Ordinance Violation: 4-602.11(E) (Violation Corrected On Site)
 2026-10-19,GREENTREE ELEMENTARY,Elementary,grease_trap,3502 BROOKSHADOW DR KINGWOOD TX,77345,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
 2026-10-19,DAVID G. BURNET ELEMENTARY,Elementary,inspection,5403 CANAL HOUSTON TX,77011,OPEN,3,1 Houston Ordinance Violation: 6-301.11 (Violation Corrected On Site) | 2 Houston Ordinance Violation: 5-205.15 (Violation) | 3 Houston Ordinance Violation: 6-501.12(A) (Violation Repeat)
 2026-10-19,DAVID G. BURNET ELEMENTARY,Elementary,grease_trap,5403 CANAL HOUSTON TX,77011,OPEN,0,
-2026-10-19,DAVID G. BURNET ELEMENTARY,Elementary,inspection,5403 CANAL HOUSTON TX,77011,OPEN,4,1 Houston Ordinance Violation: 8-304.11(K) (Violation) | 2 Houston Ordinance Violation: 3-501.13(A) (Violation Corrected On Site) | 3 Houston Ordinance Violation: 4-601.11(C) (Violation Repeat) | 4 Houston Ordinance Violation: 6-201.17(A) (Violation)
-2026-10-19,BONNER ELEMENTARY SCHOOL,Elementary,inspection,8100 ELROD HOUSTON TX,77017,OPEN,4,1 Houston Ordinance Violation: 6-202.15(A) (Violation) | 2 Houston Ordinance Violation: 5-501.114 (Violation) | 3 Houston Ordinance Violation: 6-501.12(A) (Violation) | 4 Houston Ordinance Violation: 6-501.114(A) (Violation)
+2026-10-19,DAVID G. BURNET ELEMENTARY,Elementary,inspection,5403 CANAL HOUSTON TX,77011,OPEN,4,1 Houston Ordinance Violation: 3-501.13(A) (Violation Corrected On Site) | 2 Houston Ordinance Violation: 4-601.11(C) (Violation Repeat) | 3 Houston Ordinance Violation: 6-201.17(A) (Violation) | 4 Houston Ordinance Violation: 8-304.11(K) (Violation)
+2026-10-19,BONNER ELEMENTARY SCHOOL,Elementary,inspection,8100 ELROD HOUSTON TX,77017,OPEN,4,1 Houston Ordinance Violation: 6-202.15(A) (Violation) | 2 Houston Ordinance Violation: 5-501.114 (Violation) | 3 Houston Ordinance Violation: 6-501.114(A) (Violation) | 4 Houston Ordinance Violation: 6-501.12(A) (Violation)
 2026-10-19,BONNER ELEMENTARY SCHOOL,Elementary,grease_trap,8100 ELROD HOUSTON TX,77017,OPEN,0,
 2026-10-19,BONNER ELEMENTARY SCHOOL,Elementary,inspection,8100 ELROD HOUSTON TX,77017,OPEN,1,1 Houston Ordinance Violation: 6-501.16 (Violation Corrected On Site)
 2026-10-16,KASHMERE GARDENS ELEMENTARY,Elementary,grease_trap,4901 LOCKWOOD HOUSTON TX,77026,OPEN,0,
 2026-10-16,KASHMERE GARDENS ELEMENTARY,Elementary,inspection,4901 LOCKWOOD HOUSTON TX,77026,OPEN,1,1 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
 2026-10-16,ISAACS ELEMENTARY,Elementary,grease_trap,3830 PICKFAIR HOUSTON TX,77026,OPEN,0,
 2026-10-16,ISAACS ELEMENTARY,Elementary,inspection,3830 PICKFAIR HOUSTON TX,77026,OPEN,2,1 Houston Ordinance Violation: 5-501.113 (Violation) | 2 Houston Ordinance Violation: 5-501.15(A) (Violation)
-2026-10-16,ISAACS ELEMENTARY,Elementary,inspection,3830 PICKFAIR HOUSTON TX,77026,OPEN,2,43 Houston Ordinance Violation: 4-501.11(A) (Violation Repeat) | 52 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
+2026-10-16,ISAACS ELEMENTARY,Elementary,inspection,3830 PICKFAIR HOUSTON TX,77026,OPEN,2,56 Houston Ordinance Violation: 4-501.11(A) (Violation Repeat) | 57 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
 2026-10-16,HILLIARD ELEMENTARY SCHOOL,Elementary,grease_trap,8115 E HOUSTON RD HOUSTON TX,77028,OPEN,0,
 2026-10-16,HILLIARD ELEMENTARY SCHOOL,Elementary,inspection,8115 E HOUSTON RD HOUSTON TX,77028,OPEN,1,1 Houston Ordinance Violation: 4-602.11(E) (Violation)
-2026-10-16,HILLIARD ELEMENTARY SCHOOL,Elementary,inspection,8115 E HOUSTON RD HOUSTON TX,77028,OPEN,6,43 Houston Ordinance Violation: 4-501.11(A) (Violation) | 45 Houston Ordinance Violation: 4-601.11(C) (Violation Repeat) | 48 Houston Ordinance Violation: 5-205.15 (Violation) | 52 Houston Ordinance Violation: 6-501.12(A) (Violation) | 53 Houston Ordinance Violation: 6-501.16 (Violation) | 54 Houston Ordinance Violation: 6-501.110(B) (Violation)
+2026-10-16,HILLIARD ELEMENTARY SCHOOL,Elementary,inspection,8115 E HOUSTON RD HOUSTON TX,77028,OPEN,6,53 Houston Ordinance Violation: 4-501.11(A) (Violation) | 54 Houston Ordinance Violation: 4-601.11(C) (Violation Repeat) | 55 Houston Ordinance Violation: 5-205.15 (Violation) | 56 Houston Ordinance Violation: 6-501.12(A) (Violation) | 57 Houston Ordinance Violation: 6-501.16 (Violation) | 58 Houston Ordinance Violation: 6-501.110(B) (Violation)
 2026-10-16,FOERSTER ELEMENTARY SCHOOL,Elementary,inspection,14200 FONMEADOW HOUSTON TX,77035,OPEN,1,1 Houston Ordinance Violation: 5-205.15 (Violation)
 2026-10-16,FOERSTER ELEMENTARY SCHOOL,Elementary,grease_trap,14200 FONMEADOW HOUSTON TX,77035,OPEN,0,
-2026-10-16,FOERSTER ELEMENTARY SCHOOL,Elementary,inspection,14200 FONMEADOW HOUSTON TX,77035,OPEN,2,51 Houston Ordinance Violation: 5-501.11 (Violation) | 52 Houston Ordinance Violation: 5-501.114 (Violation)
+2026-10-16,FOERSTER ELEMENTARY SCHOOL,Elementary,inspection,14200 FONMEADOW HOUSTON TX,77035,OPEN,2,57 Houston Ordinance Violation: 5-501.11 (Violation) | 58 Houston Ordinance Violation: 5-501.114 (Violation)
 2026-10-16,DOGAN ELEMENTARY,Elementary,inspection,4202 LIBERTY RD HOUSTON TX,77026,OPEN,2,1 Houston Ordinance Violation: 5-501.113 (Violation) | 2 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-10-16,BLACK MIDDLE SCHOOL,Middle / Jr. High,inspection,1575 CHANTILLY HOUSTON TX,77018,OPEN,0,
-2026-10-16,BLACK MIDDLE SCHOOL,Middle / Jr. High,inspection,1575 CHANTILLY HOUSTON TX,77018,OPEN,2,51 Houston Ordinance Violation: 5-501.114 (Violation) | 52 Houston Ordinance Violation: 5-501.115 (Violation)
+2026-10-16,BLACK MIDDLE SCHOOL,Middle / Jr. High,inspection,1575 CHANTILLY HOUSTON TX,77018,OPEN,2,57 Houston Ordinance Violation: 5-501.114 (Violation) | 58 Houston Ordinance Violation: 5-501.115 (Violation)
 2026-10-16,BLACK MIDDLE SCHOOL,Middle / Jr. High,grease_trap,1575 CHANTILLY HOUSTON TX,77018,OPEN,0,
 2026-10-15,WOODLAND ACRES ELEMENTARY SCHOOL,Elementary,grease_trap,12936 SARAHS LN HOUSTON TX,77015,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
 2026-10-15,WOODLAND ACRES ELEMENTARY SCHOOL,Elementary,inspection,12936 SARAHS LN HOUSTON TX,77015,OPEN,0,
-2026-10-15,WOODLAND ACRES ELEMENTARY SCHOOL,Elementary,inspection,12936 SARAHS LN HOUSTON TX,77015,OPEN,7,3 Houston Ordinance Violation: 6-301.12(A) (Violation Repeat) | 9 Houston Ordinance Violation: 4-602.11(E) (Violation Repeat) | 32 Houston Ordinance Violation: 3-302.12 (Violation) | 33 Houston Ordinance Violation: 6-501.112 (Violation Repeat) | 46 Houston Ordinance Violation: 2-501.11 (Violation) | 48 Houston Ordinance Violation: 5-203.14(A) (Violation) | 52 Houston Ordinance Violation: 6-501.12(A) (Violation)
+2026-10-15,WOODLAND ACRES ELEMENTARY SCHOOL,Elementary,inspection,12936 SARAHS LN HOUSTON TX,77015,OPEN,7,51 Houston Ordinance Violation: 2-501.11 (Violation) | 52 Houston Ordinance Violation: 6-301.12(A) (Violation Repeat) | 53 Houston Ordinance Violation: 4-602.11(E) (Violation Repeat) | 54 Houston Ordinance Violation: 3-302.12 (Violation) | 55 Houston Ordinance Violation: 6-501.112 (Violation Repeat) | 56 Houston Ordinance Violation: 5-203.14(A) (Violation) | 57 Houston Ordinance Violation: 6-501.12(A) (Violation)
 2026-10-15,VALLEY OAKS ELEMENTARY,Elementary,grease_trap,8390 WESTVIEW DR HOUSTON TX,77055,OPEN,0,
 2026-10-15,VALLEY OAKS ELEMENTARY,Elementary,inspection,8390 WESTVIEW DR HOUSTON TX,77055,OPEN,0,
 2026-10-15,LAW ELEMENTARY,Elementary,inspection,12401 S COAST HOUSTON TX,77047,OPEN,4,1 Houston Ordinance Violation: 5-202.12(C) (Violation) | 2 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 3 Houston Ordinance Violation: 5-205.15 (Violation) | 4 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
-2026-10-15,LAW ELEMENTARY,Elementary,inspection,12401 S COAST HOUSTON TX,77047,OPEN,7,2 Houston Ordinance Violation: 8-304.11(K) (Violation) | 33 Houston Ordinance Violation: 6-202.15(A) (Violation) | 50 Houston Ordinance Violation: 5-501.17 (Violation) | 51 Houston Ordinance Violation: 5-501.113 (Violation) | 52 Houston Ordinance Violation: 6-201.13(B) (Violation) | 53 Houston Ordinance Violation: 6-101.11(A)(3) (Violation) | 54 Houston Ordinance Violation: 6-501.12(A) (Violation)
+2026-10-15,LAW ELEMENTARY,Elementary,inspection,12401 S COAST HOUSTON TX,77047,OPEN,7,53 Houston Ordinance Violation: 6-202.15(A) (Violation) | 54 Houston Ordinance Violation: 5-501.17 (Violation) | 55 Houston Ordinance Violation: 5-501.113 (Violation) | 56 Houston Ordinance Violation: 6-101.11(A)(3) (Violation) | 57 Houston Ordinance Violation: 6-201.13(B) (Violation) | 58 Houston Ordinance Violation: 6-501.12(A) (Violation) | 59 Houston Ordinance Violation: 8-304.11(K) (Violation)
 2026-10-15,LAW ELEMENTARY,Elementary,grease_trap,12401 S COAST HOUSTON TX,77047,OPEN,0,
 2026-10-15,HEROD ELEMENTARY,Elementary,inspection,5627 JASON ST HOUSTON TX,77096,OPEN,1,1 Houston Ordinance Violation: 5-205.15 (Violation)
 2026-10-15,HEROD ELEMENTARY,Elementary,grease_trap,5627 JASON ST HOUSTON TX,77096,OPEN,0,
-2026-10-15,HEROD ELEMENTARY,Elementary,inspection,5627 JASON ST HOUSTON TX,77096,OPEN,2,43 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 51 Houston Ordinance Violation: 5-501.114 (Violation)
+2026-10-15,HEROD ELEMENTARY,Elementary,inspection,5627 JASON ST HOUSTON TX,77096,OPEN,2,56 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 57 Houston Ordinance Violation: 5-501.114 (Violation)
 2026-10-15,ELROD ELEMENTARY SCHOOL,Elementary,inspection,6230 DUMFRIES HOUSTON TX,77096,OPEN,2,1 Houston Ordinance Violation: 5-205.15 (Violation) | 2 Houston Ordinance Violation: 6-501.12(A) (Violation)
 2026-10-15,ELROD ELEMENTARY SCHOOL,Elementary,grease_trap,6230 DUMFRIES HOUSTON TX,77096,OPEN,0,
-2026-10-15,ELROD ELEMENTARY SCHOOL,Elementary,inspection,6230 DUMFRIES HOUSTON TX,77096,OPEN,2,42 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 50 Houston Ordinance Violation: 5-501.11 (Violation)
+2026-10-15,ELROD ELEMENTARY SCHOOL,Elementary,inspection,6230 DUMFRIES HOUSTON TX,77096,OPEN,2,55 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 56 Houston Ordinance Violation: 5-501.11 (Violation)
 2026-10-15,CIMARRON ELEMENTARY,Elementary,grease_trap,816 CIMARRON HOUSTON TX,77015,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
 2026-10-15,CIMARRON ELEMENTARY,Elementary,inspection,816 CIMARRON HOUSTON TX,77015,OPEN,1,1 Houston Ordinance Violation: 5-501.113 (Violation)
-2026-10-15,CIMARRON ELEMENTARY,Elementary,inspection,816 CIMARRON HOUSTON TX,77015,OPEN,6,37 Houston Ordinance Violation: 3-304.14(B) (Violation) | 43 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 44 Houston Ordinance Violation: 4-501.11(A) (Violation) | 49 Houston Ordinance Violation: 5-205.15 (Violation) | 53 Houston Ordinance Violation: 6-501.11 (Violation) | 54 Houston Ordinance Violation: 6-501.12(A) (Violation)
+2026-10-15,CIMARRON ELEMENTARY,Elementary,inspection,816 CIMARRON HOUSTON TX,77015,OPEN,6,54 Houston Ordinance Violation: 3-304.14(B) (Violation) | 55 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 56 Houston Ordinance Violation: 4-501.11(A) (Violation) | 57 Houston Ordinance Violation: 5-205.15 (Violation) | 58 Houston Ordinance Violation: 6-501.11 (Violation) | 59 Houston Ordinance Violation: 6-501.12(A) (Violation)
 2026-10-15,BUFFALO CREEK ELEMENTARY,Elementary,inspection,2801 BLALOCK HOUSTON TX,77080,OPEN,2,1 Houston Ordinance Violation: 4-203.12(A) (Violation) | 2 Houston Ordinance Violation: 3-304.14(B) (Violation Corrected On Site)
 2026-10-15,BUFFALO CREEK ELEMENTARY,Elementary,inspection,2801 BLALOCK HOUSTON TX,77080,OPEN,0,
 2026-10-15,BUFFALO CREEK ELEMENTARY,Elementary,grease_trap,2801 BLALOCK HOUSTON TX,77080,OPEN,0,
@@ -177,10 +177,10 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-10-14,SNEED ELEMENTARY,Elementary,grease_trap,9855 PAGEWOOD HOUSTON TX,77042,OPEN,0,
 2026-10-14,PARKER ELEMENTARY SCHOOL,Elementary,inspection,10632 ATWELL HOUSTON TX,77096,OPEN,0,
 2026-10-14,PARKER ELEMENTARY SCHOOL,Elementary,grease_trap,10632 ATWELL HOUSTON TX,77096,OPEN,0,
-2026-10-14,PARKER ELEMENTARY SCHOOL,Elementary,inspection,10632 ATWELL HOUSTON TX,77096,OPEN,2,50 Houston Ordinance Violation: 5-501.114 (Violation) | 51 Houston Ordinance Violation: 5-501.113 (Violation Corrected On Site)
+2026-10-14,PARKER ELEMENTARY SCHOOL,Elementary,inspection,10632 ATWELL HOUSTON TX,77096,OPEN,2,56 Houston Ordinance Violation: 5-501.113 (Violation Corrected On Site) | 57 Houston Ordinance Violation: 5-501.114 (Violation)
 2026-10-14,OATES ELEMENTARY,Elementary,grease_trap,10044 WALLISVILLE HOUSTON TX,77013,OPEN,0,
 2026-10-14,OATES ELEMENTARY,Elementary,inspection,10044 WALLISVILLE HOUSTON TX,77013,OPEN,1,1 Houston Ordinance Violation: 5-501.15(A) (Violation)
-2026-10-14,OATES ELEMENTARY,Elementary,inspection,10044 WALLISVILLE HOUSTON TX,77013,OPEN,4,43 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 48 Houston Ordinance Violation: 5-203.14(A) (Violation) | 49 Houston Ordinance Violation: 5-205.15 (Violation) | 53 Houston Ordinance Violation: 6-101.11(A)(3) (Violation)
+2026-10-14,OATES ELEMENTARY,Elementary,inspection,10044 WALLISVILLE HOUSTON TX,77013,OPEN,4,55 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 56 Houston Ordinance Violation: 5-203.14(A) (Violation) | 57 Houston Ordinance Violation: 5-205.15 (Violation) | 58 Houston Ordinance Violation: 6-101.11(A)(3) (Violation)
 2026-10-14,McGOWEN ELEMENTARY,Elementary,inspection,6820 HOMESTEAD HOUSTON TX,77028,OPEN,0,
 2026-10-14,McGOWEN ELEMENTARY,Elementary,grease_trap,6820 HOMESTEAD HOUSTON TX,77028,OPEN,0,
 2026-10-14,McGOWEN ELEMENTARY,Elementary,inspection,6820 HOMESTEAD HOUSTON TX,77028,OPEN,1,1 Houston Ordinance Violation: 4-601.11(C) (Violation)
@@ -189,37 +189,37 @@ date,campus,level,record_type,address,zip,status,violation_count,violations
 2026-10-14,LONGFELLOW ELEMENTARY SCHOOL,Elementary,grease_trap,3617 NORRIS DR HOUSTON TX,77025,OPEN,0,
 2026-10-14,LANTRIP ELEMENTARY,Elementary,inspection,100 TELEPHONE HOUSTON TX,77023,OPEN,1,1 Houston Ordinance Violation: 6-202.15(A) (Violation Repeat)
 2026-10-14,LANTRIP ELEMENTARY,Elementary,grease_trap,100 TELEPHONE HOUSTON TX,77023,OPEN,0,
-2026-10-14,LANTRIP ELEMENTARY,Elementary,inspection,100 TELEPHONE HOUSTON TX,77023,OPEN,5,2 Houston Ordinance Violation: 7-102.11 (Violation) | 3 Houston Ordinance Violation: 6-202.15(A) (Violation) | 4 Houston Ordinance Violation: 4-601.11(C) (Violation) | 5 Houston Ordinance Violation: 6-501.16 (Violation) | 6 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
+2026-10-14,LANTRIP ELEMENTARY,Elementary,inspection,100 TELEPHONE HOUSTON TX,77023,OPEN,5,2 Houston Ordinance Violation: 7-102.11 (Violation) | 3 Houston Ordinance Violation: 6-202.15(A) (Violation) | 4 Houston Ordinance Violation: 4-601.11(C) (Violation) | 5 Houston Ordinance Violation: 6-501.11 (Violation Repeat) | 6 Houston Ordinance Violation: 6-501.16 (Violation)
 2026-10-14,HOUSMAN ELEMENTARY,Elementary,inspection,6705 HOUSMAN HOUSTON TX,77055,OPEN,0,
 2026-10-14,HOUSMAN ELEMENTARY,Elementary,inspection,6705 HOUSMAN HOUSTON TX,77055,OPEN,0,
 2026-10-14,HOUSMAN ELEMENTARY,Elementary,grease_trap,6705 HOUSMAN HOUSTON TX,77055,OPEN,0,
 2026-10-14,EASTWOOD ACADEMY,Middle / Jr. High,inspection,1315 DUMBLE ST HOUSTON TX,77023,OPEN,3,1 Houston Ordinance Violation: 5-205.15 (Violation) | 2 Houston Ordinance Violation: 6-302.10 (Violation) | 3 Houston Ordinance Violation: 6-501.11 (Violation)
-2026-10-14,EASTWOOD ACADEMY,Middle / Jr. High,inspection,1315 DUMBLE ST HOUSTON TX,77023,OPEN,4,3 Houston Ordinance Violation: 6-301.12(A) (Violation) | 32 Houston Ordinance Violation: 3-302.12 (Violation) | 45 Houston Ordinance Violation: 4-601.11(C) (Violation) | 46 Houston Ordinance Violation: 2-501.11 (Violation)
+2026-10-14,EASTWOOD ACADEMY,Middle / Jr. High,inspection,1315 DUMBLE ST HOUSTON TX,77023,OPEN,4,54 Houston Ordinance Violation: 2-501.11 (Violation) | 55 Houston Ordinance Violation: 6-301.12(A) (Violation) | 56 Houston Ordinance Violation: 3-302.12 (Violation) | 57 Houston Ordinance Violation: 4-601.11(C) (Violation)
 2026-10-14,EASTWOOD ACADEMY,Middle / Jr. High,grease_trap,1315 DUMBLE ST HOUSTON TX,77023,OPEN,0,
 2026-10-14,B.C. ELMORE ELEMENTARY,Elementary,grease_trap,8200 TATE HOUSTON TX,77028,OPEN,1,1 Houston Ordinance Violation: COH-47-512(b) (Violation)
 2026-10-14,B.C. ELMORE ELEMENTARY,Elementary,inspection,8200 TATE HOUSTON TX,77028,OPEN,1,1 Houston Ordinance Violation: 6-202.15(A) (Violation)
-2026-10-14,B.C. ELMORE ELEMENTARY,Elementary,inspection,8200 TATE HOUSTON TX,77028,OPEN,6,9 Houston Ordinance Violation: 4-602.11(E) (Violation) | 43 Houston Ordinance Violation: 4-501.11(A) (Violation) | 48 Houston Ordinance Violation: 5-203.14(A) (Violation) | 52 Houston Ordinance Violation: 6-501.12(A) (Violation) | 53 Houston Ordinance Violation: 6-501.16 (Violation) | 54 Houston Ordinance Violation: 6-501.114(A) (Violation)
+2026-10-14,B.C. ELMORE ELEMENTARY,Elementary,inspection,8200 TATE HOUSTON TX,77028,OPEN,6,54 Houston Ordinance Violation: 4-602.11(E) (Violation) | 55 Houston Ordinance Violation: 4-501.11(A) (Violation) | 56 Houston Ordinance Violation: 5-203.14(A) (Violation) | 57 Houston Ordinance Violation: 6-501.114(A) (Violation) | 58 Houston Ordinance Violation: 6-501.12(A) (Violation) | 59 Houston Ordinance Violation: 6-501.16 (Violation)
 2026-10-13,ST AUGUSTINE SCHOOL,Middle / Jr. High,grease_trap,5500 LAUREL CREEK HOUSTON TX,77017,OPEN,0,
 2026-10-13,ST AUGUSTINE SCHOOL,Middle / Jr. High,inspection,5500 LAUREL CREEK HOUSTON TX,77017,OPEN,1,1 Houston Ordinance Violation: 6-202.15(A) (Violation Repeat)
-2026-10-13,ST AUGUSTINE SCHOOL,Middle / Jr. High,inspection,5500 LAUREL CREEK HOUSTON TX,77017,OPEN,3,3 Houston Ordinance Violation: 6-301.11 (Violation Corrected On Site) | 33 Houston Ordinance Violation: 6-202.15(A) (Violation Repeat) | 52 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
+2026-10-13,ST AUGUSTINE SCHOOL,Middle / Jr. High,inspection,5500 LAUREL CREEK HOUSTON TX,77017,OPEN,3,55 Houston Ordinance Violation: 6-301.11 (Violation Corrected On Site) | 56 Houston Ordinance Violation: 6-202.15(A) (Violation Repeat) | 57 Houston Ordinance Violation: 6-501.11 (Violation Repeat)
 2026-10-13,RUCKER ELEMENTARY SCHOOL,Middle / Jr. High,grease_trap,5201 VINETT HOUSTON TX,77017,OPEN,0,
 2026-10-13,RUCKER ELEMENTARY SCHOOL,Middle / Jr. High,inspection,5201 VINETT HOUSTON TX,77017,OPEN,1,1 Houston Ordinance Violation: 6-501.11 (Violation)
-2026-10-13,RUCKER ELEMENTARY SCHOOL,Middle / Jr. High,inspection,5201 VINETT HOUSTON TX,77017,OPEN,1,43 Houston Ordinance Violation: 4-501.11(A) (Violation)
+2026-10-13,RUCKER ELEMENTARY SCHOOL,Middle / Jr. High,inspection,5201 VINETT HOUSTON TX,77017,OPEN,1,48 Houston Ordinance Violation: 4-501.11(A) (Violation)
 2026-10-13,NEFF EARLY LEARNING CENTER,Elementary,grease_trap,8200 CARVEL HOUSTON TX,77036,OPEN,0,
 2026-10-13,NEFF EARLY LEARNING CENTER,Elementary,inspection,8200 CARVEL HOUSTON TX,77036,OPEN,0,
 2026-10-13,NEFF EARLY LEARNING CENTER,Elementary,inspection,8200 CARVEL HOUSTON TX,77036,OPEN,1,1 Houston Ordinance Violation: 6-202.15(A) (Violation)
 2026-10-13,MADISON SR. HIGH,High School,inspection,13719 WHITE HEATHER HOUSTON TX,77045,OPEN,2,1 Houston Ordinance Violation: 5-202.12(C) (Violation) | 2 Houston Ordinance Violation: 4-402.11(A)(3) (Violation)
-2026-10-13,MADISON SR. HIGH,High School,inspection,13719 WHITE HEATHER HOUSTON TX,77045,OPEN,3,9 Houston Ordinance Violation: 4-602.11(E) (Violation) | 52 Houston Ordinance Violation: 6-501.12(A) (Violation) | 53 Houston Ordinance Violation: 6-501.11 (Violation)
+2026-10-13,MADISON SR. HIGH,High School,inspection,13719 WHITE HEATHER HOUSTON TX,77045,OPEN,3,56 Houston Ordinance Violation: 4-602.11(E) (Violation) | 57 Houston Ordinance Violation: 6-501.11 (Violation) | 58 Houston Ordinance Violation: 6-501.12(A) (Violation)
 2026-10-13,MADISON SR. HIGH,High School,grease_trap,13719 WHITE HEATHER HOUSTON TX,77045,OPEN,0,
 2026-10-13,BARBARA JORDAN VOCATIONAL HIGH SCHOOL,High School,inspection,5800 EASTEX FWY HOUSTON TX,77026,OPEN,0,
-2026-10-12,MARTINEZ ELEMENTARY,Elementary,inspection,7211 MARKET ST HOUSTON TX,77020,OPEN,4,1 Houston Ordinance Violation: 4-501.11(A) (Violation) | 2 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 3 Houston Ordinance Violation: 5-205.15 (Violation) | 4 Houston Ordinance Violation: 6-302.10 (Violation)
-2026-10-12,MARTINEZ ELEMENTARY,Elementary,inspection,7211 MARKET ST HOUSTON TX,77020,OPEN,3,1 Houston Ordinance Violation: 6-501.112 (Violation Corrected On Site) | 2 Houston Ordinance Violation: 6-201.11 (Violation) | 3 Houston Ordinance Violation: 2-401.11(A) (Violation)
+2026-10-12,MARTINEZ ELEMENTARY,Elementary,inspection,7211 MARKET ST HOUSTON TX,77020,OPEN,4,1 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 2 Houston Ordinance Violation: 4-501.11(A) (Violation) | 3 Houston Ordinance Violation: 5-205.15 (Violation) | 4 Houston Ordinance Violation: 6-302.10 (Violation)
+2026-10-12,MARTINEZ ELEMENTARY,Elementary,inspection,7211 MARKET ST HOUSTON TX,77020,OPEN,3,1 Houston Ordinance Violation: 2-401.11(A) (Violation) | 2 Houston Ordinance Violation: 6-501.112 (Violation Corrected On Site) | 3 Houston Ordinance Violation: 6-201.11 (Violation)
 2026-10-12,MARTINEZ ELEMENTARY,Elementary,grease_trap,7211 MARKET ST HOUSTON TX,77020,OPEN,0,
 2026-10-12,HARVARD ELEMENTARY SCHOOL,Elementary,inspection,810 HARVARD HOUSTON TX,77007,OPEN,0,
 2026-10-12,HARVARD ELEMENTARY SCHOOL,Elementary,inspection,810 HARVARD HOUSTON TX,77007,OPEN,4,1 Houston Ordinance Violation: 6-301.12(A) (Violation Corrected On Site) | 2 Houston Ordinance Violation: 6-501.18 (Violation) | 3 Houston Ordinance Violation: 6-501.11 (Violation) | 4 Houston Ordinance Violation: 6-501.114(A) (Violation)
 2026-10-12,HARVARD ELEMENTARY SCHOOL,Elementary,grease_trap,810 HARVARD HOUSTON TX,77007,OPEN,0,
 2026-10-12,BLACKSHEAR ELEMENTARY,Elementary,inspection,2900 HOLMAN HOUSTON TX,77004,OPEN,2,1 Houston Ordinance Violation: 6-202.15(A) (Violation) | 2 Houston Ordinance Violation: 6-501.12(A) (Violation Repeat)
-2026-10-12,BLACKSHEAR ELEMENTARY,Elementary,inspection,2900 HOLMAN HOUSTON TX,77004,OPEN,3,43 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 52 Houston Ordinance Violation: 6-501.11 (Violation) | 53 Houston Ordinance Violation: 6-101.11(A)(3) (Violation)
+2026-10-12,BLACKSHEAR ELEMENTARY,Elementary,inspection,2900 HOLMAN HOUSTON TX,77004,OPEN,3,56 Houston Ordinance Violation: 4-402.11(A)(3) (Violation) | 57 Houston Ordinance Violation: 6-101.11(A)(3) (Violation) | 58 Houston Ordinance Violation: 6-501.11 (Violation)
 2026-10-12,BLACKSHEAR ELEMENTARY,Elementary,grease_trap,2900 HOLMAN HOUSTON TX,77004,OPEN,0,
 2026-10-09,SINCLAIR ELEMENTARY SCHOOL,Elementary,inspection,6410 GROVEWOOD HOUSTON TX,77008,OPEN,3,1 Houston Ordinance Violation: 6-202.15(A) (Violation) | 2 Houston Ordinance Violation: 6-501.18 (Violation) | 3 Houston Ordinance Violation: 6-201.17(A) (Violation)
 2026-10-09,SINCLAIR ELEMENTARY SCHOOL,Elementary,grease_trap,6410 GROVEWOOD HOUSTON TX,77008,OPEN,0,
