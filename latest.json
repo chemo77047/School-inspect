@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T00:06:37+00:00",
+ "generated_at": "2026-11-01T19:14:55+00:00",
  "source": "latest day per facility, bundled from inspections.json",
  "record_count": 474,
  "records": [
@@ -1538,6 +1538,19 @@
    "inspection_id": "AE9C432B-DF27-CB4F-80FC6C5A34C59999"
   },
   {
+   "facility_id": "11619",
+   "campus": "SHADOWBRIAR SCHOOL",
+   "address": "2650 SHADOWBRIAR HOUSTON TX",
+   "zip": "77077",
+   "site": "Kitchen",
+   "level": "Elementary",
+   "date": "2026-10-01",
+   "status": "OPEN",
+   "violation_count": 4,
+   "inspections_that_day": 2,
+   "inspection_id": "AE633ACB-C28A-1A55-A86A1498ED198BA0"
+  },
+  {
    "facility_id": "11568",
    "campus": "JEFFERSON ELEMENTARY",
    "address": "5000 SHARMAN HOUSTON TX",
@@ -1614,6 +1627,19 @@
    "violation_count": 2,
    "inspections_that_day": 2,
    "inspection_id": "AB78C311-B3AB-D3EE-1D85CE3AEDAE8ED0"
+  },
+  {
+   "facility_id": "11427",
+   "campus": "WISDOM HIGH SCHOOL",
+   "address": "6529 BEVERLY HILL HOUSTON TX",
+   "zip": "77057",
+   "site": "Kitchen",
+   "level": "High School",
+   "date": "2026-09-30",
+   "status": "OPEN",
+   "violation_count": 5,
+   "inspections_that_day": 2,
+   "inspection_id": "7D5AD277-A5BB-4AC7-BDFC3464BD0A4856"
   },
   {
    "facility_id": "11468",
@@ -1835,6 +1861,19 @@
    "violation_count": 2,
    "inspections_that_day": 2,
    "inspection_id": "784822D7-F950-F80A-84EF60FEA9B88626"
+  },
+  {
+   "facility_id": "74645",
+   "campus": "BRIARGROVE ELEMENTARY SCHOOL",
+   "address": "6145 SAN FELIPE HOUSTON TX",
+   "zip": "77057",
+   "site": "Kitchen",
+   "level": "Elementary",
+   "date": "2026-09-25",
+   "status": "OPEN",
+   "violation_count": 10,
+   "inspections_that_day": 2,
+   "inspection_id": "7C77AB8D-C39F-3E85-10C188B742A50F4D"
   },
   {
    "facility_id": "11479",
@@ -3280,19 +3319,6 @@
    "inspection_id": "B74B54C2-D9BE-9453-C404DA99681AEFAE"
   },
   {
-   "facility_id": "11427",
-   "campus": "WISDOM HIGH SCHOOL",
-   "address": "6529 BEVERLY HILL HOUSTON TX",
-   "zip": "77057",
-   "site": "Premises",
-   "level": "High School",
-   "date": "2026-05-19",
-   "status": "OPEN",
-   "violation_count": 3,
-   "inspections_that_day": 2,
-   "inspection_id": "8823B46D-F544-1135-839014EAC7AA95B9"
-  },
-  {
    "facility_id": "BA07AF65-3048-9838-60CA7294B47D4BE9",
    "campus": "KIPP VOYAGE",
    "address": "9616 MESA RD HOUSTON TX",
@@ -3460,19 +3486,6 @@
    "violation_count": 3,
    "inspections_that_day": 2,
    "inspection_id": "880AFDF9-9DDF-8C66-F72ED669830D66C6"
-  },
-  {
-   "facility_id": "74645",
-   "campus": "BRIARGROVE ELEMENTARY SCHOOL",
-   "address": "6145 SAN FELIPE HOUSTON TX",
-   "zip": "77057",
-   "site": "Premises",
-   "level": "Elementary",
-   "date": "2026-05-14",
-   "status": "OPEN",
-   "violation_count": 4,
-   "inspections_that_day": 2,
-   "inspection_id": "856F3BBE-F2BE-CEC1-0EEE999465F6B411"
   },
   {
    "facility_id": "12141",
@@ -5462,19 +5475,6 @@
    "violation_count": 4,
    "inspections_that_day": 2,
    "inspection_id": "049BEAAE-A437-AC1F-B4DD690F83F650D7"
-  },
-  {
-   "facility_id": "11619",
-   "campus": "SHADOWBRIAR SCHOOL",
-   "address": "2650 SHADOWBRIAR HOUSTON TX",
-   "zip": "77077",
-   "site": "Kitchen",
-   "level": "Elementary",
-   "date": "2026-02-10",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 2,
-   "inspection_id": "CFF5E7FB-E4B2-20C3-147EEB3541A18710"
   },
   {
    "facility_id": "12138",
