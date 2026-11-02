@@ -1,8 +1,60 @@
 {
- "generated_at": "2026-11-02T01:24:41+00:00",
+ "generated_at": "2026-11-02T23:25:03+00:00",
  "source": "latest day per facility, bundled from inspections.json",
  "record_count": 474,
  "records": [
+  {
+   "facility_id": "F43A4DB4-5056-A20B-FA455B1B487F4FD3",
+   "campus": "WINDMILL LAKES HIGH SCHOOL",
+   "address": "9901 WINDMILL LAKES BLVD HOUSTON TX",
+   "zip": "77075",
+   "site": "249748",
+   "level": "High School",
+   "date": "2026-10-30",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 1,
+   "inspection_id": "8A7CD5F7-D4B7-BC7F-A618B931E85EA35D"
+  },
+  {
+   "facility_id": "46318",
+   "campus": "VARNETT CHARTER SCHOOL",
+   "address": "11203 CLEMATIS HOUSTON TX",
+   "zip": "77035",
+   "site": "PREMISES",
+   "level": "Middle / Jr. High",
+   "date": "2026-10-30",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "837C6875-E13F-D5DA-385F2A64F7B2974E"
+  },
+  {
+   "facility_id": "4362AC8D-5056-A20B-FADA7DF0B3E0C793",
+   "campus": "KOLTER ELEMTARY SCHOOL",
+   "address": "9710 RUNNYMEADE DR HOUSTON TX",
+   "zip": "77096",
+   "site": "PREMISES",
+   "level": "Elementary",
+   "date": "2026-10-30",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "85B9ECAE-03FC-8640-F96BE434EDFB2330"
+  },
+  {
+   "facility_id": "11518",
+   "campus": "ANDERSON ELEMENTARY SCHOOL",
+   "address": "5727 LUDINGTON HOUSTON TX",
+   "zip": "77035",
+   "site": "PREMISES",
+   "level": "Elementary",
+   "date": "2026-10-30",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "88129C01-026F-E3BD-0394CF710FF4DF8A"
+  },
   {
    "facility_id": "50981",
    "campus": "THE DRAW ACADEMY",
@@ -4099,19 +4151,6 @@
    "inspection_id": "1B58B48F-9DC2-DEDC-2B8AD4C2EF86F43D"
   },
   {
-   "facility_id": "11518",
-   "campus": "ANDERSON ELEMENTARY SCHOOL",
-   "address": "5727 LUDINGTON HOUSTON TX",
-   "zip": "77035",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-04-27",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "1AA8A5C0-B901-584D-20B19B46D95B9BE8"
-  },
-  {
    "facility_id": "F579FA62-CF9F-921B-B9A3C2BABE2BC6EC",
    "campus": "YES PREP ELEMENTARY-WEST CAMPUS",
    "address": "9910 1/2 SHARPCREST HOUSTON TX",
@@ -4866,32 +4905,6 @@
    "inspection_id": "749A4143-DCC1-B034-84361AE31344A08B"
   },
   {
-   "facility_id": "46318",
-   "campus": "VARNETT CHARTER SCHOOL",
-   "address": "11203 CLEMATIS HOUSTON TX",
-   "zip": "77035",
-   "site": "KITCHEN",
-   "level": "Middle / Jr. High",
-   "date": "2026-03-24",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "3F517F97-0DB3-D67F-878DF39F33F27AF1"
-  },
-  {
-   "facility_id": "4362AC8D-5056-A20B-FADA7DF0B3E0C793",
-   "campus": "KOLTER ELEMTARY SCHOOL",
-   "address": "9710 RUNNYMEADE DR HOUSTON TX",
-   "zip": "77096",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-03-24",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "44A5125D-B292-9812-2E3B48A09CB84150"
-  },
-  {
    "facility_id": "90CAAE75-5056-A20B-FA8915156958E368",
    "campus": "KINGWOOD MIDDLE SCHOOL",
    "address": "2407 PINE TERRACE KINGWOOD TX",
@@ -5007,19 +5020,6 @@
    "violation_count": 0,
    "inspections_that_day": 2,
    "inspection_id": "4118A16A-FD9F-F838-E366ED5F798CD27D"
-  },
-  {
-   "facility_id": "F43A4DB4-5056-A20B-FA455B1B487F4FD3",
-   "campus": "WINDMILL LAKES HIGH SCHOOL",
-   "address": "9901 WINDMILL LAKES BLVD HOUSTON TX",
-   "zip": "77075",
-   "site": "ESTABLISHMENT",
-   "level": "High School",
-   "date": "2026-03-19",
-   "status": "OPEN",
-   "violation_count": 4,
-   "inspections_that_day": 2,
-   "inspection_id": "43370816-DE04-2201-BB83E658824AF5B6"
   },
   {
    "facility_id": "3C384FBD-B3DD-0876-EC5BA9861133726D",
