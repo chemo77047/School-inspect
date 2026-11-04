@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:01:46+00:00",
+  "generated_at": "2026-11-04T21:44:17+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
   "inspection_count": 1991,
   "grease_trap_count": 1009,
@@ -171,21 +171,21 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 39,
-          "item": "Houston Ordinance Violation: 5-103.11(B)",
-          "status": "Violation Corrected On Site",
+          "no": 13,
+          "item": "Houston Ordinance Violation: 3-501.16(A)(2)",
+          "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 40,
+          "no": 19,
           "item": "Houston Ordinance Violation: TAC-228.32",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 41,
-          "item": "Houston Ordinance Violation: 3-501.16(A)(2)",
-          "status": "Violation",
+          "no": 32,
+          "item": "Houston Ordinance Violation: 5-103.11(B)",
+          "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         }
       ]
@@ -288,7 +288,7 @@
       "level": "Middle / Jr. High",
       "violations": [
         {
-          "no": 57,
+          "no": 45,
           "item": "Houston Ordinance Violation: 4-601.11(C)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -354,32 +354,32 @@
       "level": "Middle / Jr. High",
       "violations": [
         {
-          "no": 55,
+          "no": 13,
           "item": "Houston Ordinance Violation: TAC-228.31(E)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 56,
-          "item": "Houston Ordinance Violation: 6-202.15(A)",
-          "status": "Violation",
-          "activity": "Routine Inspection (001)"
-        },
-        {
-          "no": 57,
+          "no": 33,
           "item": "Houston Ordinance Violation: 6-501.111(C)",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 58,
-          "item": "Houston Ordinance Violation: 6-101.11(A)(3)",
+          "no": 34,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 59,
+          "no": 53,
           "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 54,
+          "item": "Houston Ordinance Violation: 6-101.11(A)(3)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
@@ -582,13 +582,13 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 56,
+          "no": 13,
           "item": "Houston Ordinance Violation: TAC-228.31(E)",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 57,
+          "no": 52,
           "item": "Houston Ordinance Violation: 6-501.12(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -621,7 +621,7 @@
       "level": "Middle / Jr. High",
       "violations": [
         {
-          "no": 57,
+          "no": 51,
           "item": "Houston Ordinance Violation: 5-501.114",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -655,13 +655,13 @@
       "violations": [
         {
           "no": 1,
-          "item": "Houston Ordinance Violation: 5-202.12(A)",
+          "item": "Houston Ordinance Violation: 6-301.14",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
           "no": 2,
-          "item": "Houston Ordinance Violation: 6-301.14",
+          "item": "Houston Ordinance Violation: 5-202.12(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
@@ -740,26 +740,26 @@
       "violations": [
         {
           "no": 1,
-          "item": "Houston Ordinance Violation: 3-801.11(D)",
-          "status": "Violation Corrected On Site",
-          "activity": "Routine Inspection (001)"
-        },
-        {
-          "no": 2,
           "item": "Houston Ordinance Violation: 5-202.12(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 3,
+          "no": 2,
           "item": "Houston Ordinance Violation: 6-202.15(A)",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 4,
+          "no": 3,
           "item": "Houston Ordinance Violation: 5-205.15",
           "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 3-801.11(D)",
+          "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         }
       ]
@@ -1071,7 +1071,7 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 57,
+          "no": 51,
           "item": "Houston Ordinance Violation: 5-501.113",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
@@ -1169,7 +1169,7 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 57,
+          "no": 52,
           "item": "Houston Ordinance Violation: 6-501.11",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -1189,13 +1189,13 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 44,
+          "no": 23,
           "item": "Houston Ordinance Violation: 6-202.15(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 45,
+          "no": 32,
           "item": "Houston Ordinance Violation: 4-501.11(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -1306,25 +1306,25 @@
       "violations": [
         {
           "no": 1,
+          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
           "item": "Houston Ordinance Violation: 3-501.18(A)",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 2,
+          "no": 3,
           "item": "Houston Ordinance Violation: 3-501.13(A)",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 3,
-          "item": "Houston Ordinance Violation: 4-601.11(C)",
-          "status": "Violation",
-          "activity": "Routine Inspection (001)"
-        },
-        {
           "no": 4,
-          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "item": "Houston Ordinance Violation: 4-601.11(C)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
@@ -1382,19 +1382,19 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 55,
+          "no": 37,
           "item": "Houston Ordinance Violation: 3-304.14(B)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 56,
+          "no": 48,
           "item": "Houston Ordinance Violation: 5-205.15",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 57,
+          "no": 52,
           "item": "Houston Ordinance Violation: 6-501.12(A)",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
@@ -1415,14 +1415,14 @@
       "violations": [
         {
           "no": 1,
-          "item": "Houston Ordinance Violation: 6-501.11",
-          "status": "Violation Repeat",
+          "item": "Houston Ordinance Violation: 2-103.11(O)",
+          "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
           "no": 2,
-          "item": "Houston Ordinance Violation: 2-103.11(O)",
-          "status": "Violation",
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         }
       ]
@@ -1466,20 +1466,20 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 56,
+          "no": 3,
+          "item": "Houston Ordinance Violation: 8-404.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 48,
           "item": "Houston Ordinance Violation: 5-103.11(B)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 57,
+          "no": 53,
           "item": "Houston Ordinance Violation: 6-501.11",
-          "status": "Violation",
-          "activity": "Routine Inspection (001)"
-        },
-        {
-          "no": 58,
-          "item": "Houston Ordinance Violation: 8-404.11(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
@@ -1558,14 +1558,14 @@
       "violations": [
         {
           "no": 1,
-          "item": "Houston Ordinance Violation: 6-501.11",
-          "status": "Violation",
+          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
           "no": 2,
-          "item": "Houston Ordinance Violation: 8-304.11(K)",
-          "status": "Violation Corrected On Site",
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
       ]
@@ -1668,37 +1668,37 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 52,
+          "no": 33,
           "item": "Houston Ordinance Violation: 6-501.111(B)",
           "status": "Violation",
           "activity": "Complaint (003)"
         },
         {
-          "no": 53,
+          "no": 34,
           "item": "Houston Ordinance Violation: 3-305.11(A)",
           "status": "Violation Corrected On Site",
           "activity": "Complaint (003)"
         },
         {
-          "no": 54,
+          "no": 43,
           "item": "Houston Ordinance Violation: 4-501.11(A)",
           "status": "Violation",
           "activity": "Complaint (003)"
         },
         {
-          "no": 55,
+          "no": 45,
           "item": "Houston Ordinance Violation: 4-601.11(C)",
           "status": "Violation",
           "activity": "Complaint (003)"
         },
         {
-          "no": 56,
+          "no": 48,
           "item": "Houston Ordinance Violation: 5-202.13",
           "status": "Violation",
           "activity": "Complaint (003)"
         },
         {
-          "no": 57,
+          "no": 52,
           "item": "Houston Ordinance Violation: 6-501.12(A)",
           "status": "Violation",
           "activity": "Complaint (003)"
@@ -1757,13 +1757,13 @@
       "level": "Middle / Jr. High",
       "violations": [
         {
-          "no": 56,
+          "no": 34,
           "item": "Houston Ordinance Violation: 3-305.11(A)",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 57,
+          "no": 51,
           "item": "Houston Ordinance Violation: 5-501.11",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
@@ -1913,7 +1913,7 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 57,
+          "no": 33,
           "item": "Houston Ordinance Violation: 6-202.15(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -2017,7 +2017,7 @@
       "level": "Middle / Jr. High",
       "violations": [
         {
-          "no": 57,
+          "no": 43,
           "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -2037,15 +2037,15 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 57,
-          "item": "Houston Ordinance Violation: 6-201.17(B)",
-          "status": "Violation",
+          "no": 52,
+          "item": "Houston Ordinance Violation: 6-501.16",
+          "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 58,
-          "item": "Houston Ordinance Violation: 6-501.16",
-          "status": "Violation Corrected On Site",
+          "no": 53,
+          "item": "Houston Ordinance Violation: 6-201.17(B)",
+          "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
       ]
@@ -2207,14 +2207,14 @@
       "violations": [
         {
           "no": 1,
-          "item": "Houston Ordinance Violation: 6-501.12(A)",
-          "status": "Violation",
+          "item": "Houston Ordinance Violation: TAC-228.32",
+          "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
           "no": 2,
-          "item": "Houston Ordinance Violation: TAC-228.32",
-          "status": "Violation Corrected On Site",
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
       ]
@@ -2232,25 +2232,25 @@
       "level": "Middle / Jr. High",
       "violations": [
         {
-          "no": 52,
+          "no": 41,
           "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 53,
+          "no": 46,
           "item": "Houston Ordinance Violation: 5-202.13",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 54,
+          "no": 49,
           "item": "Houston Ordinance Violation: 5-501.115",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 55,
+          "no": 50,
           "item": "Houston Ordinance Violation: 6-501.12(A)",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
@@ -2303,13 +2303,13 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 56,
+          "no": 43,
           "item": "Houston Ordinance Violation: 4-201.11",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 57,
+          "no": 52,
           "item": "Houston Ordinance Violation: 6-501.11",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -2433,49 +2433,49 @@
       "level": "High School",
       "violations": [
         {
-          "no": 49,
+          "no": 13,
           "item": "Houston Ordinance Violation: TAC-228.31(E)",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 50,
+          "no": 30,
           "item": "Houston Ordinance Violation: 3-501.12",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 51,
+          "no": 34,
           "item": "Houston Ordinance Violation: 3-305.11(A)",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 52,
+          "no": 43,
           "item": "Houston Ordinance Violation: 4-101.19",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 53,
+          "no": 44,
           "item": "Houston Ordinance Violation: 4-601.11(C)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 54,
+          "no": 47,
           "item": "Houston Ordinance Violation: 5-203.14(A)",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 55,
+          "no": 49,
           "item": "Houston Ordinance Violation: 5-501.17",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 56,
+          "no": 50,
           "item": "Houston Ordinance Violation: 5-501.16(C)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -2495,13 +2495,13 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 55,
+          "no": 50,
           "item": "Houston Ordinance Violation: 6-201.17(B)",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 56,
+          "no": 51,
           "item": "Houston Ordinance Violation: 6-501.12(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -2607,25 +2607,25 @@
       "violations": [
         {
           "no": 1,
+          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
           "item": "Houston Ordinance Violation: 3-501.13(A)",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 2,
+          "no": 3,
           "item": "Houston Ordinance Violation: 4-601.11(C)",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 3,
-          "item": "Houston Ordinance Violation: 6-201.17(A)",
-          "status": "Violation",
-          "activity": "Routine Inspection (001)"
-        },
-        {
           "no": 4,
-          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "item": "Houston Ordinance Violation: 6-201.17(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
@@ -2657,13 +2657,13 @@
         },
         {
           "no": 3,
-          "item": "Houston Ordinance Violation: 6-501.114(A)",
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
           "no": 4,
-          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "item": "Houston Ordinance Violation: 6-501.114(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
@@ -2787,13 +2787,13 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 56,
+          "no": 43,
           "item": "Houston Ordinance Violation: 4-501.11(A)",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 57,
+          "no": 52,
           "item": "Houston Ordinance Violation: 6-501.11",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
@@ -2846,37 +2846,37 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 53,
+          "no": 43,
           "item": "Houston Ordinance Violation: 4-501.11(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 54,
+          "no": 45,
           "item": "Houston Ordinance Violation: 4-601.11(C)",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 55,
+          "no": 48,
           "item": "Houston Ordinance Violation: 5-205.15",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 56,
+          "no": 52,
           "item": "Houston Ordinance Violation: 6-501.12(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 57,
+          "no": 53,
           "item": "Houston Ordinance Violation: 6-501.16",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 58,
+          "no": 54,
           "item": "Houston Ordinance Violation: 6-501.110(B)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -2929,13 +2929,13 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 57,
+          "no": 51,
           "item": "Houston Ordinance Violation: 5-501.11",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 58,
+          "no": 52,
           "item": "Houston Ordinance Violation: 5-501.114",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -2994,13 +2994,13 @@
       "level": "Middle / Jr. High",
       "violations": [
         {
-          "no": 57,
+          "no": 51,
           "item": "Houston Ordinance Violation: 5-501.114",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 58,
+          "no": 52,
           "item": "Houston Ordinance Violation: 5-501.115",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -3066,43 +3066,43 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 51,
-          "item": "Houston Ordinance Violation: 2-501.11",
-          "status": "Violation",
-          "activity": "Routine Inspection (001)"
-        },
-        {
-          "no": 52,
+          "no": 3,
           "item": "Houston Ordinance Violation: 6-301.12(A)",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 53,
+          "no": 9,
           "item": "Houston Ordinance Violation: 4-602.11(E)",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 54,
+          "no": 32,
           "item": "Houston Ordinance Violation: 3-302.12",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 55,
+          "no": 33,
           "item": "Houston Ordinance Violation: 6-501.112",
           "status": "Violation Repeat",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 56,
+          "no": 46,
+          "item": "Houston Ordinance Violation: 2-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 48,
           "item": "Houston Ordinance Violation: 5-203.14(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 57,
+          "no": 52,
           "item": "Houston Ordinance Violation: 6-501.12(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -3186,44 +3186,44 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 53,
+          "no": 2,
+          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 33,
           "item": "Houston Ordinance Violation: 6-202.15(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 54,
+          "no": 50,
           "item": "Houston Ordinance Violation: 5-501.17",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 55,
+          "no": 51,
           "item": "Houston Ordinance Violation: 5-501.113",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 56,
-          "item": "Houston Ordinance Violation: 6-101.11(A)(3)",
-          "status": "Violation",
-          "activity": "Routine Inspection (001)"
-        },
-        {
-          "no": 57,
+          "no": 52,
           "item": "Houston Ordinance Violation: 6-201.13(B)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 58,
-          "item": "Houston Ordinance Violation: 6-501.12(A)",
+          "no": 53,
+          "item": "Houston Ordinance Violation: 6-101.11(A)(3)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 59,
-          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "no": 54,
+          "item": "Houston Ordinance Violation: 6-501.12(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
@@ -3288,13 +3288,13 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 56,
+          "no": 43,
           "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 57,
+          "no": 51,
           "item": "Houston Ordinance Violation: 5-501.114",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -3353,13 +3353,13 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 55,
+          "no": 42,
           "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 56,
+          "no": 50,
           "item": "Houston Ordinance Violation: 5-501.11",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
@@ -3419,37 +3419,37 @@
       "level": "Elementary",
       "violations": [
         {
-          "no": 54,
+          "no": 37,
           "item": "Houston Ordinance Violation: 3-304.14(B)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 55,
+          "no": 43,
           "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 56,
+          "no": 44,
           "item": "Houston Ordinance Violation: 4-501.11(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 57,
+          "no": 49,
           "item": "Houston Ordinance Violation: 5-205.15",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 58,
+          "no": 53,
           "item": "Houston Ordinance Violation: 6-501.11",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         },
         {
-          "no": 59,
+          "no": 54,
           "item": "Houston Ordinance Violation: 6-501.12(A)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
