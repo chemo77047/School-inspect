@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-05T21:49:35+00:00",
+  "generated_at": "2026-11-06T02:06:18+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 1991,
-  "grease_trap_count": 1009,
-  "record_count": 3000,
+  "inspection_count": 1992,
+  "grease_trap_count": 1010,
+  "record_count": 3002,
   "campus_count": 471,
-  "violation_count": 2854,
+  "violation_count": 2858,
   "inspections": [
     {
       "inspection_id": "8A7CD5F7-D4B7-BC7F-A618B931E85EA35D",
@@ -61,6 +61,57 @@
       "address": "9604 MINNESOTA ST HOUSTON TX",
       "zip": "77075",
       "site": "FOG 204776",
+      "date": "2026-10-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "87954C0B-E6BF-7DEB-A1E3773DAF0CD472",
+      "record_type": "inspection",
+      "facility_id": "51073",
+      "campus": "SYLVAN RODRIGUEZ ELEM SCHOOL",
+      "address": "5858 CHIMNEY ROCK HOUSTON TX",
+      "zip": "77081",
+      "site": "Total Establishment",
+      "date": "2026-10-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 3-501.16(A)(1)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 7-102.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 4,
+          "item": "Houston Ordinance Violation: 6-403.11(A)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "86F50F5F-AE62-3402-0664F129EFF5E678",
+      "record_type": "grease_trap",
+      "facility_id": "51073",
+      "campus": "SYLVAN RODRIGUEZ ELEM SCHOOL",
+      "address": "5858 CHIMNEY ROCK HOUSTON TX",
+      "zip": "77081",
+      "site": "FOG 87984",
       "date": "2026-10-30",
       "status": "OPEN",
       "level": "Elementary",

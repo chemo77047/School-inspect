@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T21:49:35+00:00",
+ "generated_at": "2026-11-06T02:06:18+00:00",
  "source": "latest day per facility, bundled from inspections.json",
  "record_count": 474,
  "records": [
@@ -28,6 +28,19 @@
    "violation_count": 0,
    "inspections_that_day": 1,
    "inspection_id": "837C6875-E13F-D5DA-385F2A64F7B2974E"
+  },
+  {
+   "facility_id": "51073",
+   "campus": "SYLVAN RODRIGUEZ ELEM SCHOOL",
+   "address": "5858 CHIMNEY ROCK HOUSTON TX",
+   "zip": "77081",
+   "site": "Total Establishment",
+   "level": "Elementary",
+   "date": "2026-10-30",
+   "status": "OPEN",
+   "violation_count": 4,
+   "inspections_that_day": 1,
+   "inspection_id": "87954C0B-E6BF-7DEB-A1E3773DAF0CD472"
   },
   {
    "facility_id": "4362AC8D-5056-A20B-FADA7DF0B3E0C793",
@@ -3889,19 +3902,6 @@
    "violation_count": 2,
    "inspections_that_day": 2,
    "inspection_id": "B93FD4C1-0553-A814-1F6F80F91B3F16E7"
-  },
-  {
-   "facility_id": "51073",
-   "campus": "SYLVAN RODRIGUEZ ELEM SCHOOL",
-   "address": "5858 CHIMNEY ROCK HOUSTON TX",
-   "zip": "77081",
-   "site": "Total Establishment",
-   "level": "Elementary",
-   "date": "2026-05-05",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 2,
-   "inspection_id": "B7C18413-FCB9-6791-F558A4636147A274"
   },
   {
    "facility_id": "75153",
