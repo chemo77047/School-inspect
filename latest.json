@@ -1,33 +1,163 @@
 {
- "generated_at": "2026-11-06T02:06:18+00:00",
+ "generated_at": "2026-11-06T21:17:31+00:00",
  "source": "latest day per facility, bundled from inspections.json",
  "record_count": 474,
  "records": [
+  {
+   "facility_id": "12106",
+   "campus": "MORRIS 5TH GRADE CENTER",
+   "address": "10415 FUQUA HOUSTON TX",
+   "zip": "77089",
+   "site": "PREMISES",
+   "level": "Middle / Jr. High",
+   "date": "2026-11-06",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 1,
+   "inspection_id": "F4F676A0-F252-C5F3-04219255ED7B3C63"
+  },
+  {
+   "facility_id": "12112",
+   "campus": "MEADOR ELEMENTARY SCHOOL",
+   "address": "10701 SEAFORD HOUSTON TX",
+   "zip": "77089",
+   "site": "PREMISES",
+   "level": "Elementary",
+   "date": "2026-11-06",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "F30BB1E8-A207-4B00-F1B848DCA47562F4"
+  },
+  {
+   "facility_id": "74905",
+   "campus": "THOMPSON ELEMENTARY SCHOOL",
+   "address": "6121 TIERWESTER HOUSTON TX",
+   "zip": "77021",
+   "site": "PREMISES",
+   "level": "Elementary",
+   "date": "2026-11-04",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "8D3ED0EC-E05F-D961-7AC8157F4A05D92F"
+  },
+  {
+   "facility_id": "974CE3FF-DCCD-23D3-A31814B50F865DAC",
+   "campus": "PECK ELEMENTARY SCHOOL",
+   "address": "5001 MARTIN LUTHER KING JR BLVD HOUSTON TX",
+   "zip": "77021",
+   "site": "PREMISES",
+   "level": "Elementary",
+   "date": "2026-11-04",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "86D41FB3-A049-7477-DFA16007D06D1B00"
+  },
+  {
+   "facility_id": "11433",
+   "campus": "FONDREN MIDDLE SCHOOL",
+   "address": "6333 S BRAESWOOD BLVD HOUSTON TX",
+   "zip": "77096",
+   "site": "Premises",
+   "level": "Middle / Jr. High",
+   "date": "2026-11-04",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "8A41AB6D-931F-AA6A-FB76AD52EF9702A1"
+  },
+  {
+   "facility_id": "3FE9C4B6-5056-A20B-FA9A33E058C775DC",
+   "campus": "MITCHELL ELEMENTARY",
+   "address": "8050 SPRINGTIME LN HOUSTON TX",
+   "zip": "77075",
+   "site": "Premises",
+   "level": "Elementary",
+   "date": "2026-11-03",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "5AF5C9F0-0AAC-4271-B8830A28FAFC82D6"
+  },
+  {
+   "facility_id": "95F3FC42-ACA3-7E54-BD61B0F284A1EFCE",
+   "campus": "LEWIS ELEMENTARY SCHOOL",
+   "address": "6745 TIPPERARY ST HOUSTON TX",
+   "zip": "77061",
+   "site": "PREMISES",
+   "level": "Elementary",
+   "date": "2026-11-03",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "55FAF68E-CD99-FA95-0842182F520FC5A7"
+  },
+  {
+   "facility_id": "407FACF6-BDFE-0188-3AE2DB2106D033CB",
+   "campus": "JAMES DEANDA ELEMENTARY SCHOOL",
+   "address": "7980 ALMEDA GENOA RD HOUSTON TX",
+   "zip": "77075",
+   "site": "PREMISES",
+   "level": "Elementary",
+   "date": "2026-11-03",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 1,
+   "inspection_id": "58417CD9-A52B-B9B5-F337E1667D77678E"
+  },
+  {
+   "facility_id": "90D16B1B-5056-A20B-FA3C38AEC9FA5F78",
+   "campus": "JACK YATES HIGH SCHOOL",
+   "address": "3650 ALABAMA ST HOUSTON TX",
+   "zip": "77004",
+   "site": "ESTABLISHMENT",
+   "level": "High School",
+   "date": "2026-11-03",
+   "status": "OPEN",
+   "violation_count": 5,
+   "inspections_that_day": 2,
+   "inspection_id": "56BC7203-9F65-12C0-14220E17D7180823"
+  },
   {
    "facility_id": "F43A4DB4-5056-A20B-FA455B1B487F4FD3",
    "campus": "WINDMILL LAKES HIGH SCHOOL",
    "address": "9901 WINDMILL LAKES BLVD HOUSTON TX",
    "zip": "77075",
-   "site": "249748",
+   "site": "ESTABLISHMENT",
    "level": "High School",
    "date": "2026-10-30",
    "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "8A7CD5F7-D4B7-BC7F-A618B931E85EA35D"
+   "violation_count": 2,
+   "inspections_that_day": 2,
+   "inspection_id": "8A9BDC1A-E299-2142-9A111FCD74DF84AE"
   },
   {
    "facility_id": "46318",
    "campus": "VARNETT CHARTER SCHOOL",
    "address": "11203 CLEMATIS HOUSTON TX",
    "zip": "77035",
-   "site": "PREMISES",
+   "site": "KITCHEN",
    "level": "Middle / Jr. High",
    "date": "2026-10-30",
    "status": "OPEN",
+   "violation_count": 3,
+   "inspections_that_day": 2,
+   "inspection_id": "82DFFC62-9C4A-941C-0F6F78E8762A3732"
+  },
+  {
+   "facility_id": "3C384FBD-B3DD-0876-EC5BA9861133726D",
+   "campus": "THOMAS HANCOCK ELEMENTARY",
+   "address": "9604 MINNESOTA ST HOUSTON TX",
+   "zip": "77075",
+   "site": "ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-30",
+   "status": "OPEN",
    "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "837C6875-E13F-D5DA-385F2A64F7B2974E"
+   "inspections_that_day": 2,
+   "inspection_id": "854B4324-F699-A87B-E9DD2331B8854F15"
   },
   {
    "facility_id": "51073",
@@ -52,21 +182,34 @@
    "date": "2026-10-30",
    "status": "OPEN",
    "violation_count": 0,
-   "inspections_that_day": 1,
+   "inspections_that_day": 2,
    "inspection_id": "85B9ECAE-03FC-8640-F96BE434EDFB2330"
+  },
+  {
+   "facility_id": "BE824A0E-5056-A20F-9E50A6B6E3FF5CEF",
+   "campus": "INTERNATIONAL LEADERSHIP OF TEXAS",
+   "address": "9898 WINDMILL LAKES BLVD HOUSTON TX",
+   "zip": "77075",
+   "site": "ESTABLISHMENT",
+   "level": "Middle / Jr. High",
+   "date": "2026-10-30",
+   "status": "OPEN",
+   "violation_count": 5,
+   "inspections_that_day": 1,
+   "inspection_id": "881539CB-CBD8-14D0-18CB2797B1C3F2F6"
   },
   {
    "facility_id": "11518",
    "campus": "ANDERSON ELEMENTARY SCHOOL",
    "address": "5727 LUDINGTON HOUSTON TX",
    "zip": "77035",
-   "site": "PREMISES",
+   "site": "KITCHEN",
    "level": "Elementary",
    "date": "2026-10-30",
    "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "88129C01-026F-E3BD-0394CF710FF4DF8A"
+   "violation_count": 2,
+   "inspections_that_day": 2,
+   "inspection_id": "879C36B0-D233-5F8C-67DCA4DB64422810"
   },
   {
    "facility_id": "50981",
@@ -4294,32 +4437,6 @@
    "inspection_id": "EBCAE38C-C749-1FE9-E98723B9F7A44D96"
   },
   {
-   "facility_id": "12106",
-   "campus": "MORRIS 5TH GRADE CENTER",
-   "address": "10415 FUQUA HOUSTON TX",
-   "zip": "77089",
-   "site": "TOTAL ESTABLISHMENT",
-   "level": "Middle / Jr. High",
-   "date": "2026-04-16",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 2,
-   "inspection_id": "E64D4B92-FAC6-62B4-7908AD2580308D47"
-  },
-  {
-   "facility_id": "12112",
-   "campus": "MEADOR ELEMENTARY SCHOOL",
-   "address": "10701 SEAFORD HOUSTON TX",
-   "zip": "77089",
-   "site": "KITCHEN",
-   "level": "Elementary",
-   "date": "2026-04-16",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 2,
-   "inspection_id": "E874D73E-CEE2-EA47-9E475D712FFD7C0B"
-  },
-  {
    "facility_id": "11609",
    "campus": "KASHMERE SENIOR HIGH",
    "address": "6900 WILEYVALE HOUSTON TX",
@@ -4736,19 +4853,6 @@
    "inspection_id": "B47B7401-D2A7-9628-B07D14C5E54F4695"
   },
   {
-   "facility_id": "11433",
-   "campus": "FONDREN MIDDLE SCHOOL",
-   "address": "6333 S BRAESWOOD BLVD HOUSTON TX",
-   "zip": "77096",
-   "site": "TOTAL ESTABLISHMENT",
-   "level": "Middle / Jr. High",
-   "date": "2026-03-31",
-   "status": "OPEN",
-   "violation_count": 3,
-   "inspections_that_day": 1,
-   "inspection_id": "A87F8947-E995-D5B9-4A877A03810A9571"
-  },
-  {
    "facility_id": "12120",
    "campus": "CHAMBERS ELEMENTARY SCHOOL",
    "address": "10700 CARVEL HOUSTON TX",
@@ -4838,19 +4942,6 @@
    "violation_count": 1,
    "inspections_that_day": 1,
    "inspection_id": "A9B58D71-EE65-6DCF-0B761883E2371BE9"
-  },
-  {
-   "facility_id": "3FE9C4B6-5056-A20B-FA9A33E058C775DC",
-   "campus": "MITCHELL ELEMENTARY",
-   "address": "8050 SPRINGTIME LN HOUSTON TX",
-   "zip": "77075",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-03-26",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 2,
-   "inspection_id": "AC96F94A-CD5D-D435-9A359E39AACB9801"
   },
   {
    "facility_id": "11616",
@@ -5022,19 +5113,6 @@
    "inspection_id": "4118A16A-FD9F-F838-E366ED5F798CD27D"
   },
   {
-   "facility_id": "3C384FBD-B3DD-0876-EC5BA9861133726D",
-   "campus": "THOMAS HANCOCK ELEMENTARY",
-   "address": "9604 MINNESOTA ST HOUSTON TX",
-   "zip": "77075",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-03-19",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 2,
-   "inspection_id": "4553CC98-F504-182D-ED6B016196764677"
-  },
-  {
    "facility_id": "11506",
    "campus": "RIVER OAKS ELEMENTARY SCHOOL",
    "address": "2008 KIRBY DR HOUSTON TX",
@@ -5046,19 +5124,6 @@
    "violation_count": 2,
    "inspections_that_day": 2,
    "inspection_id": "42F525AA-CFA7-3725-37536EB4859107A3"
-  },
-  {
-   "facility_id": "BE824A0E-5056-A20F-9E50A6B6E3FF5CEF",
-   "campus": "INTERNATIONAL LEADERSHIP OF TEXAS",
-   "address": "9898 WINDMILL LAKES BLVD HOUSTON TX",
-   "zip": "77075",
-   "site": "ESTABLISHMENT",
-   "level": "Middle / Jr. High",
-   "date": "2026-03-19",
-   "status": "OPEN",
-   "violation_count": 6,
-   "inspections_that_day": 1,
-   "inspection_id": "4040172C-BADE-D6FA-C7093252C197AB14"
   },
   {
    "facility_id": "11400",
@@ -5178,19 +5243,6 @@
    "inspection_id": "A7C4A328-A061-4DD6-F06ED0D3DFA0525B"
   },
   {
-   "facility_id": "90D16B1B-5056-A20B-FA3C38AEC9FA5F78",
-   "campus": "JACK YATES HIGH SCHOOL",
-   "address": "3650 ALABAMA ST HOUSTON TX",
-   "zip": "77004",
-   "site": "ESTABLISHMENT",
-   "level": "High School",
-   "date": "2026-03-16",
-   "status": "OPEN",
-   "violation_count": 4,
-   "inspections_that_day": 2,
-   "inspection_id": "ABD67F81-0C19-F78C-6883D9907DD86399"
-  },
-  {
    "facility_id": "52460",
    "campus": "GENOA ELEMENTARY SCHOOL",
    "address": "12900 ALMEDA GENOA RD HOUSTON TX",
@@ -5282,19 +5334,6 @@
    "inspection_id": "74778B45-C101-DF1A-8A8BA289CCF96CA2"
   },
   {
-   "facility_id": "974CE3FF-DCCD-23D3-A31814B50F865DAC",
-   "campus": "PECK ELEMENTARY SCHOOL",
-   "address": "5001 MARTIN LUTHER KING JR BLVD HOUSTON TX",
-   "zip": "77021",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-03-05",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 1,
-   "inspection_id": "7229D907-99E7-6E63-FB84464696F4B668"
-  },
-  {
    "facility_id": "60771",
    "campus": "BUDEWIG INTERMEDIATE SCHOOL",
    "address": "12570 RICHMOND HOUSTON TX",
@@ -5332,32 +5371,6 @@
    "violation_count": 0,
    "inspections_that_day": 2,
    "inspection_id": "092EA63F-B9B1-B717-C178C94722ACE59C"
-  },
-  {
-   "facility_id": "95F3FC42-ACA3-7E54-BD61B0F284A1EFCE",
-   "campus": "LEWIS ELEMENTARY SCHOOL",
-   "address": "6745 TIPPERARY ST HOUSTON TX",
-   "zip": "77061",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-02-26",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 2,
-   "inspection_id": "0883C6A2-F0C0-F3C2-80730403C0E559C7"
-  },
-  {
-   "facility_id": "407FACF6-BDFE-0188-3AE2DB2106D033CB",
-   "campus": "JAMES DEANDA ELEMENTARY SCHOOL",
-   "address": "7980 ALMEDA GENOA RD HOUSTON TX",
-   "zip": "77075",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-02-26",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 2,
-   "inspection_id": "0B2C3FDD-B367-F135-3774784BA9ECC60D"
   },
   {
    "facility_id": "7709",
@@ -5449,19 +5462,6 @@
    "violation_count": 3,
    "inspections_that_day": 1,
    "inspection_id": "40F56FC3-F82A-150A-C70D88A51FFECEFB"
-  },
-  {
-   "facility_id": "74905",
-   "campus": "THOMPSON ELEMENTARY SCHOOL",
-   "address": "6121 TIERWESTER HOUSTON TX",
-   "zip": "77021",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-02-11",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "06059850-CD1D-237E-8F92D978AB6EBB7E"
   },
   {
    "facility_id": "11512",
