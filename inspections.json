@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T21:17:31+00:00",
+  "generated_at": "2026-11-07T01:44:57+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 2009,
-  "grease_trap_count": 1018,
-  "record_count": 3027,
+  "inspection_count": 2011,
+  "grease_trap_count": 1019,
+  "record_count": 3030,
   "campus_count": 471,
-  "violation_count": 2877,
+  "violation_count": 2878,
   "inspections": [
     {
       "inspection_id": "F4F676A0-F252-C5F3-04219255ED7B3C63",
@@ -107,6 +107,26 @@
       "violations": []
     },
     {
+      "inspection_id": "8A45F2A0-F851-DCC1-413B51B874BF842A",
+      "record_type": "inspection",
+      "facility_id": "74905",
+      "campus": "THOMPSON ELEMENTARY SCHOOL",
+      "address": "6121 TIERWESTER HOUSTON TX",
+      "zip": "77021",
+      "site": "ESTABLISHMENT",
+      "date": "2026-11-04",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-202.16",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
       "inspection_id": "86D4AAF9-FA79-F24A-57A31B36274F1491",
       "record_type": "grease_trap",
       "facility_id": "974CE3FF-DCCD-23D3-A31814B50F865DAC",
@@ -127,6 +147,19 @@
       "address": "5001 MARTIN LUTHER KING JR BLVD HOUSTON TX",
       "zip": "77021",
       "site": "PREMISES",
+      "date": "2026-11-04",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "86D55753-F184-989D-7590B8C298BD575F",
+      "record_type": "inspection",
+      "facility_id": "974CE3FF-DCCD-23D3-A31814B50F865DAC",
+      "campus": "PECK ELEMENTARY SCHOOL",
+      "address": "5001 MARTIN LUTHER KING JR BLVD HOUSTON TX",
+      "zip": "77021",
+      "site": "ESTABLISHMENT",
       "date": "2026-11-04",
       "status": "OPEN",
       "level": "Elementary",
@@ -293,6 +326,19 @@
           "activity": "Routine Inspection (001)"
         }
       ]
+    },
+    {
+      "inspection_id": "56A2EC3A-A0C7-F7F6-FC74752FDD677E8F",
+      "record_type": "grease_trap",
+      "facility_id": "90D16B1B-5056-A20B-FA3C38AEC9FA5F78",
+      "campus": "JACK YATES HIGH SCHOOL",
+      "address": "3650 ALABAMA ST HOUSTON TX",
+      "zip": "77004",
+      "site": "FOG 206700/1500 gls",
+      "date": "2026-11-03",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
     },
     {
       "inspection_id": "8A7CD5F7-D4B7-BC7F-A618B931E85EA35D",

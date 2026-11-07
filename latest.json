@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T21:17:31+00:00",
+ "generated_at": "2026-11-07T01:44:57+00:00",
  "source": "latest day per facility, bundled from inspections.json",
  "record_count": 474,
  "records": [
@@ -34,26 +34,26 @@
    "campus": "THOMPSON ELEMENTARY SCHOOL",
    "address": "6121 TIERWESTER HOUSTON TX",
    "zip": "77021",
-   "site": "PREMISES",
+   "site": "ESTABLISHMENT",
    "level": "Elementary",
    "date": "2026-11-04",
    "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "8D3ED0EC-E05F-D961-7AC8157F4A05D92F"
+   "violation_count": 1,
+   "inspections_that_day": 2,
+   "inspection_id": "8A45F2A0-F851-DCC1-413B51B874BF842A"
   },
   {
    "facility_id": "974CE3FF-DCCD-23D3-A31814B50F865DAC",
    "campus": "PECK ELEMENTARY SCHOOL",
    "address": "5001 MARTIN LUTHER KING JR BLVD HOUSTON TX",
    "zip": "77021",
-   "site": "PREMISES",
+   "site": "ESTABLISHMENT",
    "level": "Elementary",
    "date": "2026-11-04",
    "status": "OPEN",
    "violation_count": 0,
-   "inspections_that_day": 1,
-   "inspection_id": "86D41FB3-A049-7477-DFA16007D06D1B00"
+   "inspections_that_day": 2,
+   "inspection_id": "86D55753-F184-989D-7590B8C298BD575F"
   },
   {
    "facility_id": "11433",
