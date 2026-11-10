@@ -1,8 +1,34 @@
 {
- "generated_at": "2026-11-09T01:32:55+00:00",
+ "generated_at": "2026-11-10T00:00:06+00:00",
  "source": "latest day per facility, bundled from inspections.json",
  "record_count": 474,
  "records": [
+  {
+   "facility_id": "54951",
+   "campus": "NORTHSIDE HS",
+   "address": "1101 QUITMAN HOUSTON TX",
+   "zip": "77009",
+   "site": "Establishment",
+   "level": "High School",
+   "date": "2026-11-09",
+   "status": "OPEN",
+   "violation_count": 3,
+   "inspections_that_day": 2,
+   "inspection_id": "8AA11264-91E7-3679-7EB486F6AD7ADE75"
+  },
+  {
+   "facility_id": "54995",
+   "campus": "KETELSEN ELEMENTARY",
+   "address": "600 QUITMAN HOUSTON TX",
+   "zip": "77009",
+   "site": "Premises",
+   "level": "Elementary",
+   "date": "2026-11-09",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 1,
+   "inspection_id": "88DFF77F-DD92-2011-AE425F2C7A2CEEED"
+  },
   {
    "facility_id": "12106",
    "campus": "MORRIS 5TH GRADE CENTER",
@@ -69,6 +95,19 @@
    "inspection_id": "8A41AB6D-931F-AA6A-FB76AD52EF9702A1"
   },
   {
+   "facility_id": "8EFD1CF5-0561-47CF-76188A057F27CF4C",
+   "campus": "SHERMAN ELEMENTARY",
+   "address": "1909 MCKEE ST HOUSTON TX",
+   "zip": "77009",
+   "site": "PREMISES",
+   "level": "Elementary",
+   "date": "2026-11-03",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 2,
+   "inspection_id": "52F199F1-0C72-5F05-CF3415D998705048"
+  },
+  {
    "facility_id": "3FE9C4B6-5056-A20B-FA9A33E058C775DC",
    "campus": "MITCHELL ELEMENTARY",
    "address": "8050 SPRINGTIME LN HOUSTON TX",
@@ -80,6 +119,19 @@
    "violation_count": 0,
    "inspections_that_day": 1,
    "inspection_id": "5AF5C9F0-0AAC-4271-B8830A28FAFC82D6"
+  },
+  {
+   "facility_id": "11532",
+   "campus": "MARSHALL MIDDLE SCHOOL",
+   "address": "1115 NOBLE HOUSTON TX",
+   "zip": "77009",
+   "site": "Establishment",
+   "level": "Middle / Jr. High",
+   "date": "2026-11-03",
+   "status": "OPEN",
+   "violation_count": 4,
+   "inspections_that_day": 1,
+   "inspection_id": "5637635F-F932-AC3C-1216BDC756E51255"
   },
   {
    "facility_id": "95F3FC42-ACA3-7E54-BD61B0F284A1EFCE",
@@ -119,6 +171,32 @@
    "violation_count": 5,
    "inspections_that_day": 2,
    "inspection_id": "56BC7203-9F65-12C0-14220E17D7180823"
+  },
+  {
+   "facility_id": "11418",
+   "campus": "TRAVIS ELEMENTARY SCHOOL",
+   "address": "3311 BEAUCHAMP HOUSTON TX",
+   "zip": "77009",
+   "site": "Kitchen",
+   "level": "Elementary",
+   "date": "2026-11-02",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 1,
+   "inspection_id": "1FC82989-E8FC-6689-4A3F2129181A0769"
+  },
+  {
+   "facility_id": "11528",
+   "campus": "HOGG JR HIGH SCHOOL",
+   "address": "1100 MERRILL HOUSTON TX",
+   "zip": "77009",
+   "site": "Premises",
+   "level": "Middle / Jr. High",
+   "date": "2026-11-02",
+   "status": "OPEN",
+   "violation_count": 3,
+   "inspections_that_day": 2,
+   "inspection_id": "246E134C-AE84-7B1F-AD52BA05EBD30B54"
   },
   {
    "facility_id": "F43A4DB4-5056-A20B-FA455B1B487F4FD3",
@@ -197,6 +275,32 @@
    "violation_count": 5,
    "inspections_that_day": 1,
    "inspection_id": "881539CB-CBD8-14D0-18CB2797B1C3F2F6"
+  },
+  {
+   "facility_id": "12815",
+   "campus": "DEAN JR HIGH SCHOOL",
+   "address": "14104 REO HOUSTON TX",
+   "zip": "77040",
+   "site": "PREMISES",
+   "level": "Middle / Jr. High",
+   "date": "2026-10-30",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 2,
+   "inspection_id": "8A30021D-DDB7-3A2B-89C7DF0CA339746A"
+  },
+  {
+   "facility_id": "12814",
+   "campus": "BANE ELEMENTARY SCHOOL",
+   "address": "5805 KAISER HOUSTON TX",
+   "zip": "77040",
+   "site": "ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-10-30",
+   "status": "OPEN",
+   "violation_count": 0,
+   "inspections_that_day": 2,
+   "inspection_id": "890C298C-0C8D-7205-78E9F298F5F9584E"
   },
   {
    "facility_id": "11518",
@@ -3501,19 +3605,6 @@
    "inspection_id": "C7E6B2BD-9BEA-11C4-FFD88FCE90669007"
   },
   {
-   "facility_id": "12814",
-   "campus": "BANE ELEMENTARY SCHOOL",
-   "address": "5805 KAISER HOUSTON TX",
-   "zip": "77040",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-05-20",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "B9364221-E199-2DF6-755499AED309688D"
-  },
-  {
    "facility_id": "11422",
    "campus": "ALCOTT ELEMENTARY SCHOOL",
    "address": "5859 BELLFORT HOUSTON TX",
@@ -3564,19 +3655,6 @@
    "violation_count": 4,
    "inspections_that_day": 1,
    "inspection_id": "90429271-D4B0-EDB8-279B1AB4165E0B0F"
-  },
-  {
-   "facility_id": "12815",
-   "campus": "DEAN JR HIGH SCHOOL",
-   "address": "14104 REO HOUSTON TX",
-   "zip": "77040",
-   "site": "PREMISES",
-   "level": "Middle / Jr. High",
-   "date": "2026-05-19",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 2,
-   "inspection_id": "8C998442-DFB6-8D7C-C8012FCAAEEC734A"
   },
   {
    "facility_id": "11491",
@@ -4749,32 +4827,6 @@
    "inspection_id": "4DD7F38F-ACB5-460F-E34C0A726B55235C"
   },
   {
-   "facility_id": "8EFD1CF5-0561-47CF-76188A057F27CF4C",
-   "campus": "SHERMAN ELEMENTARY",
-   "address": "1909 MCKEE ST HOUSTON TX",
-   "zip": "77009",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-04-06",
-   "status": "OPEN",
-   "violation_count": 1,
-   "inspections_that_day": 1,
-   "inspection_id": "DF7DFB81-EAEA-A55C-ED2F82C899A08B68"
-  },
-  {
-   "facility_id": "11532",
-   "campus": "MARSHALL MIDDLE SCHOOL",
-   "address": "1115 NOBLE HOUSTON TX",
-   "zip": "77009",
-   "site": "Establishment",
-   "level": "Middle / Jr. High",
-   "date": "2026-04-06",
-   "status": "OPEN",
-   "violation_count": 5,
-   "inspections_that_day": 1,
-   "inspection_id": "E29F5CE2-EE9F-4DF6-0A0FECB7790C7C06"
-  },
-  {
    "facility_id": "11448",
    "campus": "FONDREN ELEMENTARY SCHOOL",
    "address": "12405 CARLSBAD HOUSTON TX",
@@ -5022,19 +5074,6 @@
    "inspection_id": "41E2F128-F079-162D-FA01D2240C8E6A1A"
   },
   {
-   "facility_id": "11418",
-   "campus": "TRAVIS ELEMENTARY SCHOOL",
-   "address": "3311 BEAUCHAMP HOUSTON TX",
-   "zip": "77009",
-   "site": "Kitchen",
-   "level": "Elementary",
-   "date": "2026-03-23",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 1,
-   "inspection_id": "0E03141D-F402-3B15-4D759BE4F956C912"
-  },
-  {
    "facility_id": "11669",
    "campus": "SHERWOOD ELEMENTARY SCHOOL",
    "address": "1700 SHERWOOD FOREST HOUSTON TX",
@@ -5165,19 +5204,6 @@
    "inspection_id": "DA2A2D87-DA57-0CC4-83B9A220993F7FF0"
   },
   {
-   "facility_id": "54951",
-   "campus": "NORTHSIDE HS",
-   "address": "1101 QUITMAN HOUSTON TX",
-   "zip": "77009",
-   "site": "Establishment",
-   "level": "High School",
-   "date": "2026-03-17",
-   "status": "OPEN",
-   "violation_count": 2,
-   "inspections_that_day": 1,
-   "inspection_id": "DC5DA8EB-9D51-5EAD-FC5A995CB5D17AE5"
-  },
-  {
    "facility_id": "76168",
    "campus": "MILSTEAD MIDDLE SCHOOL",
    "address": "338 GILPIN ST HOUSTON TX",
@@ -5189,19 +5215,6 @@
    "violation_count": 0,
    "inspections_that_day": 1,
    "inspection_id": "D72862C4-C356-6FD3-A66A2E662E194F65"
-  },
-  {
-   "facility_id": "54995",
-   "campus": "KETELSEN ELEMENTARY",
-   "address": "600 QUITMAN HOUSTON TX",
-   "zip": "77009",
-   "site": "Kitchen",
-   "level": "Elementary",
-   "date": "2026-03-17",
-   "status": "OPEN",
-   "violation_count": 4,
-   "inspections_that_day": 1,
-   "inspection_id": "D99C4BFB-0479-BF65-6C4883E2507FBB18"
   },
   {
    "facility_id": "11585",
@@ -5644,19 +5657,6 @@
    "violation_count": 1,
    "inspections_that_day": 2,
    "inspection_id": "6AE6FB41-ED03-A88F-1BA961B18486F158"
-  },
-  {
-   "facility_id": "11528",
-   "campus": "HOGG JR HIGH SCHOOL",
-   "address": "1100 MERRILL HOUSTON TX",
-   "zip": "77009",
-   "site": "Kitchen",
-   "level": "Middle / Jr. High",
-   "date": "2026-01-27",
-   "status": "OPEN",
-   "violation_count": 5,
-   "inspections_that_day": 2,
-   "inspection_id": "054F96D6-9180-B637-60B0A3FB2898BABE"
   },
   {
    "facility_id": "4554689C-5056-A20B-FAF154B5224271A0",

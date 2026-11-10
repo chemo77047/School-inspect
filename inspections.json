@@ -1,12 +1,117 @@
 {
-  "generated_at": "2026-11-09T01:32:55+00:00",
+  "generated_at": "2026-11-10T00:00:06+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 2011,
-  "grease_trap_count": 1019,
-  "record_count": 3030,
+  "inspection_count": 2024,
+  "grease_trap_count": 1028,
+  "record_count": 3052,
   "campus_count": 471,
-  "violation_count": 2878,
+  "violation_count": 2892,
   "inspections": [
+    {
+      "inspection_id": "8B97694F-B796-868F-FE2B39E22A698A3D",
+      "record_type": "inspection",
+      "facility_id": "54951",
+      "campus": "NORTHSIDE HS",
+      "address": "1101 QUITMAN HOUSTON TX",
+      "zip": "77009",
+      "site": "Premises",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "8AA11264-91E7-3679-7EB486F6AD7ADE75",
+      "record_type": "inspection",
+      "facility_id": "54951",
+      "campus": "NORTHSIDE HS",
+      "address": "1101 QUITMAN HOUSTON TX",
+      "zip": "77009",
+      "site": "Establishment",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": [
+        {
+          "no": 51,
+          "item": "Houston Ordinance Violation: 5-501.114",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 5-501.115",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "8A380B14-FCDC-80F2-1CBC5AD20979A7DB",
+      "record_type": "grease_trap",
+      "facility_id": "54951",
+      "campus": "NORTHSIDE HS",
+      "address": "1101 QUITMAN HOUSTON TX",
+      "zip": "77009",
+      "site": "FOG 102348",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "88DFF77F-DD92-2011-AE425F2C7A2CEEED",
+      "record_type": "inspection",
+      "facility_id": "54995",
+      "campus": "KETELSEN ELEMENTARY",
+      "address": "600 QUITMAN HOUSTON TX",
+      "zip": "77009",
+      "site": "Premises",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "8815F753-A9A8-3246-C9A68AA170017388",
+      "record_type": "grease_trap",
+      "facility_id": "54995",
+      "campus": "KETELSEN ELEMENTARY",
+      "address": "600 QUITMAN HOUSTON TX",
+      "zip": "77009",
+      "site": "FOG 88334",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "88A60A98-DF80-D7B0-0F314E5B470ABD2A",
+      "record_type": "grease_trap",
+      "facility_id": "90541697-A69A-7C2D-78A1EA1A87F8BF6A",
+      "campus": "EDGEWOOD ELEMENTARY",
+      "address": "8757 KEMPWOOD DR HOUSTON TX",
+      "zip": "77080",
+      "site": "FOG 109347",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
     {
       "inspection_id": "F4F676A0-F252-C5F3-04219255ED7B3C63",
       "record_type": "inspection",
@@ -192,6 +297,58 @@
       "violations": []
     },
     {
+      "inspection_id": "52F199F1-0C72-5F05-CF3415D998705048",
+      "record_type": "inspection",
+      "facility_id": "8EFD1CF5-0561-47CF-76188A057F27CF4C",
+      "campus": "SHERMAN ELEMENTARY",
+      "address": "1909 MCKEE ST HOUSTON TX",
+      "zip": "77009",
+      "site": "PREMISES",
+      "date": "2026-11-03",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 4-602.11(E)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 4-202.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "52B8BD4A-09C2-4650-5EE7F88BB918BB60",
+      "record_type": "inspection",
+      "facility_id": "8EFD1CF5-0561-47CF-76188A057F27CF4C",
+      "campus": "SHERMAN ELEMENTARY",
+      "address": "1909 MCKEE ST HOUSTON TX",
+      "zip": "77009",
+      "site": "ESTABLISHMENT",
+      "date": "2026-11-03",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "5266540E-BA6E-2EC9-3F203709C862B55E",
+      "record_type": "grease_trap",
+      "facility_id": "8EFD1CF5-0561-47CF-76188A057F27CF4C",
+      "campus": "SHERMAN ELEMENTARY",
+      "address": "1909 MCKEE ST HOUSTON TX",
+      "zip": "77009",
+      "site": "FOG 201540",
+      "date": "2026-11-03",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
       "inspection_id": "5AF5C9F0-0AAC-4271-B8830A28FAFC82D6",
       "record_type": "inspection",
       "facility_id": "3FE9C4B6-5056-A20B-FA9A33E058C775DC",
@@ -215,6 +372,57 @@
       "date": "2026-11-03",
       "status": "OPEN",
       "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "5637635F-F932-AC3C-1216BDC756E51255",
+      "record_type": "inspection",
+      "facility_id": "11532",
+      "campus": "MARSHALL MIDDLE SCHOOL",
+      "address": "1115 NOBLE HOUSTON TX",
+      "zip": "77009",
+      "site": "Establishment",
+      "date": "2026-11-03",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 34,
+          "item": "Houston Ordinance Violation: 3-305.11(A)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 50,
+          "item": "Houston Ordinance Violation: 6-302.10",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 51,
+          "item": "Houston Ordinance Violation: 5-501.11",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "55AB59C6-E0ED-B42A-22AA2A4EB26F5BDF",
+      "record_type": "grease_trap",
+      "facility_id": "11532",
+      "campus": "MARSHALL MIDDLE SCHOOL",
+      "address": "1115 NOBLE HOUSTON TX",
+      "zip": "77009",
+      "site": "FOG 75289",
+      "date": "2026-11-03",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
       "violations": []
     },
     {
@@ -338,6 +546,98 @@
       "date": "2026-11-03",
       "status": "OPEN",
       "level": "High School",
+      "violations": []
+    },
+    {
+      "inspection_id": "1FC82989-E8FC-6689-4A3F2129181A0769",
+      "record_type": "inspection",
+      "facility_id": "11418",
+      "campus": "TRAVIS ELEMENTARY SCHOOL",
+      "address": "3311 BEAUCHAMP HOUSTON TX",
+      "zip": "77009",
+      "site": "Kitchen",
+      "date": "2026-11-02",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 8-304.11(K)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "1F52ADC3-ECE1-0336-44566AA4A2742A55",
+      "record_type": "grease_trap",
+      "facility_id": "11418",
+      "campus": "TRAVIS ELEMENTARY SCHOOL",
+      "address": "3311 BEAUCHAMP HOUSTON TX",
+      "zip": "77009",
+      "site": "FOG 77544",
+      "date": "2026-11-02",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "246E134C-AE84-7B1F-AD52BA05EBD30B54",
+      "record_type": "inspection",
+      "facility_id": "11528",
+      "campus": "HOGG JR HIGH SCHOOL",
+      "address": "1100 MERRILL HOUSTON TX",
+      "zip": "77009",
+      "site": "Premises",
+      "date": "2026-11-02",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "23707C3F-C757-65F2-0B8127CEE4C4827C",
+      "record_type": "inspection",
+      "facility_id": "11528",
+      "campus": "HOGG JR HIGH SCHOOL",
+      "address": "1100 MERRILL HOUSTON TX",
+      "zip": "77009",
+      "site": "Kitchen",
+      "date": "2026-11-02",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 50,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "233712BF-C15B-7735-AEF86C93EEEC7FBE",
+      "record_type": "grease_trap",
+      "facility_id": "11528",
+      "campus": "HOGG JR HIGH SCHOOL",
+      "address": "1100 MERRILL HOUSTON TX",
+      "zip": "77009",
+      "site": "FOG 80226",
+      "date": "2026-11-02",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
       "violations": []
     },
     {
@@ -630,6 +930,84 @@
           "activity": "Routine Inspection (001)"
         }
       ]
+    },
+    {
+      "inspection_id": "8A30021D-DDB7-3A2B-89C7DF0CA339746A",
+      "record_type": "inspection",
+      "facility_id": "12815",
+      "campus": "DEAN JR HIGH SCHOOL",
+      "address": "14104 REO HOUSTON TX",
+      "zip": "77040",
+      "site": "PREMISES",
+      "date": "2026-10-30",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "8A17CF73-E8E7-1B23-A419F56D0C18066A",
+      "record_type": "inspection",
+      "facility_id": "12815",
+      "campus": "DEAN JR HIGH SCHOOL",
+      "address": "14104 REO HOUSTON TX",
+      "zip": "77040",
+      "site": "TOTAL SITES",
+      "date": "2026-10-30",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "8A06EDA7-BD6A-94EA-9E02894C1B178801",
+      "record_type": "grease_trap",
+      "facility_id": "12815",
+      "campus": "DEAN JR HIGH SCHOOL",
+      "address": "14104 REO HOUSTON TX",
+      "zip": "77040",
+      "site": "FOG 90646",
+      "date": "2026-10-30",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "890C298C-0C8D-7205-78E9F298F5F9584E",
+      "record_type": "inspection",
+      "facility_id": "12814",
+      "campus": "BANE ELEMENTARY SCHOOL",
+      "address": "5805 KAISER HOUSTON TX",
+      "zip": "77040",
+      "site": "ESTABLISHMENT",
+      "date": "2026-10-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "88D17B8F-B88B-9A02-9872B136B7DF534B",
+      "record_type": "inspection",
+      "facility_id": "12814",
+      "campus": "BANE ELEMENTARY SCHOOL",
+      "address": "5805 KAISER HOUSTON TX",
+      "zip": "77040",
+      "site": "PREMISES",
+      "date": "2026-10-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "88C3B575-F0BC-8998-40D9C69FF45731BB",
+      "record_type": "grease_trap",
+      "facility_id": "12814",
+      "campus": "BANE ELEMENTARY SCHOOL",
+      "address": "5805 KAISER HOUSTON TX",
+      "zip": "77040",
+      "site": "FOG",
+      "date": "2026-10-30",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
     },
     {
       "inspection_id": "88129C01-026F-E3BD-0394CF710FF4DF8A",
