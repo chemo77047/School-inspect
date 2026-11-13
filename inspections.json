@@ -1,12 +1,64 @@
 {
-  "generated_at": "2026-11-13T02:28:35+00:00",
+  "generated_at": "2026-11-13T21:51:57+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 2059,
-  "grease_trap_count": 1044,
-  "record_count": 3103,
+  "inspection_count": 2093,
+  "grease_trap_count": 1061,
+  "record_count": 3154,
   "campus_count": 471,
-  "violation_count": 2963,
+  "violation_count": 3005,
   "inspections": [
+    {
+      "inspection_id": "BD1009DE-D5B5-5F7F-F9EEBFDF2E9F8AA5",
+      "record_type": "inspection",
+      "facility_id": "11584",
+      "campus": "SHEARN ELEMENTARY SCHOOL",
+      "address": "9802 STELLA LINK HOUSTON TX",
+      "zip": "77025",
+      "site": "Premises",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "BCEB2609-AFC5-F88F-22DCA42DCA1EE35D",
+      "record_type": "grease_trap",
+      "facility_id": "11584",
+      "campus": "SHEARN ELEMENTARY SCHOOL",
+      "address": "9802 STELLA LINK HOUSTON TX",
+      "zip": "77025",
+      "site": "FOG 75003",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "BCB32A9D-EA25-EF5A-52E7BC33134ECBBE",
+      "record_type": "inspection",
+      "facility_id": "11584",
+      "campus": "SHEARN ELEMENTARY SCHOOL",
+      "address": "9802 STELLA LINK HOUSTON TX",
+      "zip": "77025",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 33,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 51,
+          "item": "Houston Ordinance Violation: 5-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
     {
       "inspection_id": "BEA5EF1D-A5B8-A143-BED9D8AA33D80331",
       "record_type": "inspection",
@@ -52,6 +104,730 @@
         {
           "no": 6,
           "item": "Houston Ordinance Violation: 3-305.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "BADDE544-B696-EDF1-81B1595BF3BF88B7",
+      "record_type": "inspection",
+      "facility_id": "11431",
+      "campus": "PERSHING MIDDLE SCHOOL",
+      "address": "3838 BLUEBONNET HOUSTON TX",
+      "zip": "77025",
+      "site": "Premises",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "BAC85797-FDDF-8C37-B7B48E5FDA1E9BA6",
+      "record_type": "grease_trap",
+      "facility_id": "11431",
+      "campus": "PERSHING MIDDLE SCHOOL",
+      "address": "3838 BLUEBONNET HOUSTON TX",
+      "zip": "77025",
+      "site": "FOG 100568",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "BA8B8E5F-A113-DF89-AD4A294F7CA2E45F",
+      "record_type": "inspection",
+      "facility_id": "11431",
+      "campus": "PERSHING MIDDLE SCHOOL",
+      "address": "3838 BLUEBONNET HOUSTON TX",
+      "zip": "77025",
+      "site": "Kitchen",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Reinspection (002)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "BF39AC17-015C-0602-3DEF69DFED53B978",
+      "record_type": "inspection",
+      "facility_id": "11520",
+      "campus": "MEYERLAND MS",
+      "address": "10410 MANHATTAN HOUSTON TX",
+      "zip": "77096",
+      "site": "PREMISES",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "BF2DEA07-DC16-8E36-7BE2AAD11C784593",
+      "record_type": "grease_trap",
+      "facility_id": "11520",
+      "campus": "MEYERLAND MS",
+      "address": "10410 MANHATTAN HOUSTON TX",
+      "zip": "77096",
+      "site": "FOG 77377",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "BEE89575-D253-D14C-7CE5E78F38E4D926",
+      "record_type": "inspection",
+      "facility_id": "11520",
+      "campus": "MEYERLAND MS",
+      "address": "10410 MANHATTAN HOUSTON TX",
+      "zip": "77096",
+      "site": "KITCHEN",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 51,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 5-501.114",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 53,
+          "item": "Houston Ordinance Violation: 5-501.115",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "BF43540A-0623-15DA-0EF3CD6462F5D2FF",
+      "record_type": "inspection",
+      "facility_id": "11461",
+      "campus": "MADING ELEMENTARY",
+      "address": "8511 CRESTMONT HOUSTON TX",
+      "zip": "77033",
+      "site": "PREMISES",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "BF4308BC-0D85-49CB-5FE17C8E1A404A68",
+      "record_type": "grease_trap",
+      "facility_id": "11461",
+      "campus": "MADING ELEMENTARY",
+      "address": "8511 CRESTMONT HOUSTON TX",
+      "zip": "77033",
+      "site": "FOG 75010",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "BF428666-F482-A4E8-EE2EAF4FA6D7066B",
+      "record_type": "inspection",
+      "facility_id": "11461",
+      "campus": "MADING ELEMENTARY",
+      "address": "8511 CRESTMONT HOUSTON TX",
+      "zip": "77033",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: TAC-228.31(E)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 6-101.11(A)(1)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "C22E994D-ABB9-2A39-4C2B8C83C0463852",
+      "record_type": "inspection",
+      "facility_id": "BA4E92DF-055C-FF8A-55771BA6BAAF2932",
+      "campus": "KIPP Sunnyside HS/MS/PS",
+      "address": "11000 SCOTT ST HOUSTON TX",
+      "zip": "77047",
+      "site": "PREMISES HIGH",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-205.11(C)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "C20CEF4E-A409-EFDE-F8C527A01409851A",
+      "record_type": "inspection",
+      "facility_id": "BA4E92DF-055C-FF8A-55771BA6BAAF2932",
+      "campus": "KIPP Sunnyside HS/MS/PS",
+      "address": "11000 SCOTT ST HOUSTON TX",
+      "zip": "77047",
+      "site": "PREMISES MIDDLE",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-205.11(C)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "C1FBFB64-A729-225C-0618DA1AF490FAAD",
+      "record_type": "inspection",
+      "facility_id": "BA4E92DF-055C-FF8A-55771BA6BAAF2932",
+      "campus": "KIPP Sunnyside HS/MS/PS",
+      "address": "11000 SCOTT ST HOUSTON TX",
+      "zip": "77047",
+      "site": "PREMISES ELEMENTARY",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 5-205.11(C)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 3,
+          "item": "Houston Ordinance Violation: 5-205.15",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "C0EDB7F8-0639-FF24-D9D98A0202B787AB",
+      "record_type": "inspection",
+      "facility_id": "BA4E92DF-055C-FF8A-55771BA6BAAF2932",
+      "campus": "KIPP Sunnyside HS/MS/PS",
+      "address": "11000 SCOTT ST HOUSTON TX",
+      "zip": "77047",
+      "site": "SUNNYSIDE HIGH SCHOOL",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 48,
+          "item": "Houston Ordinance Violation: 5-202.13",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 51,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 5-501.111",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "C0C56BED-FF32-48C5-E5056BDDD64CAD9F",
+      "record_type": "grease_trap",
+      "facility_id": "BA4E92DF-055C-FF8A-55771BA6BAAF2932",
+      "campus": "KIPP Sunnyside HS/MS/PS",
+      "address": "11000 SCOTT ST HOUSTON TX",
+      "zip": "77047",
+      "site": "FOG 201770",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "BFA0AEA6-E292-0129-A20D1EB43078914B",
+      "record_type": "inspection",
+      "facility_id": "BA4E92DF-055C-FF8A-55771BA6BAAF2932",
+      "campus": "KIPP Sunnyside HS/MS/PS",
+      "address": "11000 SCOTT ST HOUSTON TX",
+      "zip": "77047",
+      "site": "SPIRIT MIDDLE SCHOOL",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 48,
+          "item": "Houston Ordinance Violation: 5-202.13",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 51,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 5-501.111",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 53,
+          "item": "Houston Ordinance Violation: 6-501.16",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "BF7ECAD7-9B5E-47BA-6EF3B6957E388ED1",
+      "record_type": "grease_trap",
+      "facility_id": "BA4E92DF-055C-FF8A-55771BA6BAAF2932",
+      "campus": "KIPP Sunnyside HS/MS/PS",
+      "address": "11000 SCOTT ST HOUSTON TX",
+      "zip": "77047",
+      "site": "FOG 201771",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "BE76D69D-C099-1EDD-1565C59F72479E6B",
+      "record_type": "inspection",
+      "facility_id": "BA4E92DF-055C-FF8A-55771BA6BAAF2932",
+      "campus": "KIPP Sunnyside HS/MS/PS",
+      "address": "11000 SCOTT ST HOUSTON TX",
+      "zip": "77047",
+      "site": "ZENITH ELEMENTARY",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-501.11(B)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 44,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 5-501.113",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 53,
+          "item": "Houston Ordinance Violation: 5-501.111",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "BE576B2B-A340-653E-F69292502C7EB310",
+      "record_type": "grease_trap",
+      "facility_id": "BA4E92DF-055C-FF8A-55771BA6BAAF2932",
+      "campus": "KIPP Sunnyside HS/MS/PS",
+      "address": "11000 SCOTT ST HOUSTON TX",
+      "zip": "77047",
+      "site": "FOG 201542",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "BC5E2322-F990-E618-65ED4334C8ABB833",
+      "record_type": "inspection",
+      "facility_id": "11539",
+      "campus": "HARTSFIELD ELEMENTARY",
+      "address": "5001 PERRY HOUSTON TX",
+      "zip": "77021",
+      "site": "Premises",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "BC58E2AF-95B4-9DB9-D22A00EF92562C06",
+      "record_type": "grease_trap",
+      "facility_id": "11539",
+      "campus": "HARTSFIELD ELEMENTARY",
+      "address": "5001 PERRY HOUSTON TX",
+      "zip": "77021",
+      "site": "FOG 102286",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "BC576075-9F1D-DE65-5A44FAC5F2290AB2",
+      "record_type": "inspection",
+      "facility_id": "11539",
+      "campus": "HARTSFIELD ELEMENTARY",
+      "address": "5001 PERRY HOUSTON TX",
+      "zip": "77021",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "C32D8324-F6BC-2638-92DE76D20EBF9FC6",
+      "record_type": "inspection",
+      "facility_id": "0EFD7633-5056-A20B-FA4D0CBB7EBB9BAA",
+      "campus": "DOBIE HIGH SCHOOL 9TH GRADE CAMPUS",
+      "address": "10811 MONROE HOUSTON TX",
+      "zip": "77075",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "C318BBA2-EA2A-19AB-47F7777F5FF5DD96",
+      "record_type": "inspection",
+      "facility_id": "0EFD7633-5056-A20B-FA4D0CBB7EBB9BAA",
+      "campus": "DOBIE HIGH SCHOOL 9TH GRADE CAMPUS",
+      "address": "10811 MONROE HOUSTON TX",
+      "zip": "77075",
+      "site": "PREMISES",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "C31331D9-C375-4862-04628173018F9264",
+      "record_type": "grease_trap",
+      "facility_id": "0EFD7633-5056-A20B-FA4D0CBB7EBB9BAA",
+      "campus": "DOBIE HIGH SCHOOL 9TH GRADE CAMPUS",
+      "address": "10811 MONROE HOUSTON TX",
+      "zip": "77075",
+      "site": "FOG 206993",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: COH-47-512(b)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "BC264DEB-95EC-3539-8ECD2EF62CE8DA46",
+      "record_type": "inspection",
+      "facility_id": "12114",
+      "campus": "BURNETT ELEMENTARY SCHOOL",
+      "address": "11825 TEANECK HOUSTON TX",
+      "zip": "77089",
+      "site": "KITCHEN",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 50,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "BBD0B439-BADF-09FD-2549F3583A6946D9",
+      "record_type": "inspection",
+      "facility_id": "12114",
+      "campus": "BURNETT ELEMENTARY SCHOOL",
+      "address": "11825 TEANECK HOUSTON TX",
+      "zip": "77089",
+      "site": "PREMISES",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "BBC4E4FA-EF8B-9D7B-2E2423BA3032C7CA",
+      "record_type": "grease_trap",
+      "facility_id": "12114",
+      "campus": "BURNETT ELEMENTARY SCHOOL",
+      "address": "11825 TEANECK HOUSTON TX",
+      "zip": "77089",
+      "site": "FOG 80407",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "C0EBE34F-C7C3-A892-100D269DFF53DDE8",
+      "record_type": "inspection",
+      "facility_id": "12105",
+      "campus": "BEVERLY HILLS INTERMEDIATE",
+      "address": "11111 BEAMER HOUSTON TX",
+      "zip": "77089",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 23,
+          "item": "Houston Ordinance Violation: TAC-228.32",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "C0B0FDBD-A4A4-AE34-426D1FAEE8A96753",
+      "record_type": "inspection",
+      "facility_id": "12105",
+      "campus": "BEVERLY HILLS INTERMEDIATE",
+      "address": "11111 BEAMER HOUSTON TX",
+      "zip": "77089",
+      "site": "PREMISES",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "C0AB7AB4-F4A9-5DE2-4176D34D4F5121D9",
+      "record_type": "grease_trap",
+      "facility_id": "12105",
+      "campus": "BEVERLY HILLS INTERMEDIATE",
+      "address": "11111 BEAMER HOUSTON TX",
+      "zip": "77089",
+      "site": "FOG 75460",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "BE5CDBFB-C69F-B5E2-60A95E6174B4F83E",
+      "record_type": "inspection",
+      "facility_id": "12110",
+      "campus": "ATKINSON ELEMENTARY SCHOOL",
+      "address": "9602 KINGSPOINT HOUSTON TX",
+      "zip": "77075",
+      "site": "TOTAL ESTABLISHMENT",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "BE4169F5-BDE5-A0A5-38F2EDEF248D36DE",
+      "record_type": "inspection",
+      "facility_id": "12110",
+      "campus": "ATKINSON ELEMENTARY SCHOOL",
+      "address": "9602 KINGSPOINT HOUSTON TX",
+      "zip": "77075",
+      "site": "PREMISES",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "BE3D22D6-AC33-2252-F2F0AD386123A82C",
+      "record_type": "grease_trap",
+      "facility_id": "12110",
+      "campus": "ATKINSON ELEMENTARY SCHOOL",
+      "address": "9602 KINGSPOINT HOUSTON TX",
+      "zip": "77075",
+      "site": "FOG 75475",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "8A9268C1-D1C9-4121-F1197FFC289EAF43",
+      "record_type": "inspection",
+      "facility_id": "11626",
+      "campus": "RICE SCHOOL",
+      "address": "7550 SEUSS HOUSTON TX",
+      "zip": "77025",
+      "site": "Premises",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "8A821F3B-0147-D3F0-3562DCF7B996B542",
+      "record_type": "grease_trap",
+      "facility_id": "11626",
+      "campus": "RICE SCHOOL",
+      "address": "7550 SEUSS HOUSTON TX",
+      "zip": "77025",
+      "site": "FOG 85043",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "8A48AB7D-FD7B-D6FC-5484A01145E250AC",
+      "record_type": "inspection",
+      "facility_id": "11626",
+      "campus": "RICE SCHOOL",
+      "address": "7550 SEUSS HOUSTON TX",
+      "zip": "77025",
+      "site": "Kitchen",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "8CC66886-998A-5067-DEB89B2C8DA78056",
+      "record_type": "inspection",
+      "facility_id": "11431",
+      "campus": "PERSHING MIDDLE SCHOOL",
+      "address": "3838 BLUEBONNET HOUSTON TX",
+      "zip": "77025",
+      "site": "Premises",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "8CBC49EC-AC76-08F8-2334E445FB3B081B",
+      "record_type": "grease_trap",
+      "facility_id": "11431",
+      "campus": "PERSHING MIDDLE SCHOOL",
+      "address": "3838 BLUEBONNET HOUSTON TX",
+      "zip": "77025",
+      "site": "FOG 100568",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": []
+    },
+    {
+      "inspection_id": "8C64AE5D-BB2D-9A8E-7F519187B0D93A4D",
+      "record_type": "inspection",
+      "facility_id": "11431",
+      "campus": "PERSHING MIDDLE SCHOOL",
+      "address": "3838 BLUEBONNET HOUSTON TX",
+      "zip": "77025",
+      "site": "Kitchen",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 8-404.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 23,
+          "item": "Houston Ordinance Violation: COH-20-19(b)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-501.11(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 47,
+          "item": "Houston Ordinance Violation: 5-103.11(B)",
           "status": "Violation",
           "activity": "Routine Inspection (001)"
         }
@@ -150,6 +926,45 @@
       "violations": []
     },
     {
+      "inspection_id": "88F5D85A-B553-0F42-60E8AFC91AD05207",
+      "record_type": "inspection",
+      "facility_id": "11476",
+      "campus": "GOLFCREST ELEMENTARY",
+      "address": "7414 FAIRWAY HOUSTON TX",
+      "zip": "77087",
+      "site": "PREMISES",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "88F57750-07FD-0D51-95FBAD3C8B6127B5",
+      "record_type": "grease_trap",
+      "facility_id": "11476",
+      "campus": "GOLFCREST ELEMENTARY",
+      "address": "7414 FAIRWAY HOUSTON TX",
+      "zip": "77087",
+      "site": "FOG 79663",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "88F48563-FE8D-35B4-014A65E291093682",
+      "record_type": "inspection",
+      "facility_id": "11476",
+      "campus": "GOLFCREST ELEMENTARY",
+      "address": "7414 FAIRWAY HOUSTON TX",
+      "zip": "77087",
+      "site": "ESTABLISHMENT",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
       "inspection_id": "88A60A98-DF80-D7B0-0F314E5B470ABD2A",
       "record_type": "grease_trap",
       "facility_id": "90541697-A69A-7C2D-78A1EA1A87F8BF6A",
@@ -160,6 +975,122 @@
       "date": "2026-11-09",
       "status": "OPEN",
       "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "8B6B954A-0681-4F03-9B3B082A8A20A3CB",
+      "record_type": "inspection",
+      "facility_id": "11577",
+      "campus": "BROOKLINE ELEMENTARY",
+      "address": "6301 S 610 LOOP E HOUSTON TX",
+      "zip": "77087",
+      "site": "PREMISES",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "8B6B493F-EE75-445E-D3C158AEA07C47D1",
+      "record_type": "grease_trap",
+      "facility_id": "11577",
+      "campus": "BROOKLINE ELEMENTARY",
+      "address": "6301 S 610 LOOP E HOUSTON TX",
+      "zip": "77087",
+      "site": "FOG 77212",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "8B6AFD10-A91B-11E8-4207794DA9CFF4BB",
+      "record_type": "inspection",
+      "facility_id": "11577",
+      "campus": "BROOKLINE ELEMENTARY",
+      "address": "6301 S 610 LOOP E HOUSTON TX",
+      "zip": "77087",
+      "site": "KITCHEN",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "8808D4DE-B9C9-A12F-2FA3EAD5049C7FD8",
+      "record_type": "inspection",
+      "facility_id": "11473",
+      "campus": "BAYLOR COLLEGE OF MEDICINE ACADEMY @ RYAN",
+      "address": "2610 ELGIN HOUSTON TX",
+      "zip": "77004",
+      "site": "PREMISES",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "86D8433F-F8AC-3936-B7D4A42558E691A0",
+      "record_type": "inspection",
+      "facility_id": "11473",
+      "campus": "BAYLOR COLLEGE OF MEDICINE ACADEMY @ RYAN",
+      "address": "2610 ELGIN HOUSTON TX",
+      "zip": "77004",
+      "site": "ESTABLISHMENT",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
+      "violations": [
+        {
+          "no": 33,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 43,
+          "item": "Houston Ordinance Violation: 4-402.11(A)(3)",
+          "status": "Violation Repeat",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 48,
+          "item": "Houston Ordinance Violation: 5-202.13",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 52,
+          "item": "Houston Ordinance Violation: 6-501.11",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "86CE3449-FBBC-6288-F39AF0AA7BD37441",
+      "record_type": "grease_trap",
+      "facility_id": "11473",
+      "campus": "BAYLOR COLLEGE OF MEDICINE ACADEMY @ RYAN",
+      "address": "2610 ELGIN HOUSTON TX",
+      "zip": "77004",
+      "site": "FOG 75052",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Middle / Jr. High",
       "violations": []
     },
     {
