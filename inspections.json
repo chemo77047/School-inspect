@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-25T04:51:55+00:00",
+  "generated_at": "2026-11-25T23:56:15+00:00",
   "source": "https://houston-tx.healthinspections.us/media/search.cfm",
-  "inspection_count": 2093,
-  "grease_trap_count": 1061,
-  "record_count": 3154,
+  "inspection_count": 2096,
+  "grease_trap_count": 1063,
+  "record_count": 3159,
   "campus_count": 471,
-  "violation_count": 3005,
+  "violation_count": 3008,
   "inspections": [
     {
       "inspection_id": "BD1009DE-D5B5-5F7F-F9EEBFDF2E9F8AA5",
@@ -646,6 +646,39 @@
       "violations": []
     },
     {
+      "inspection_id": "BF4B01C7-9940-65CA-7A6EEE181627E2AC",
+      "record_type": "grease_trap",
+      "facility_id": "9EDA3EC2-0631-1249-2B2061528D6D5F0C",
+      "campus": "BRAEBURN ELEMENTARY SCHOOL",
+      "address": "5550 PINE ST HOUSTON TX",
+      "zip": "77081",
+      "site": "FOG 210930",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "BF42721E-CDF4-7BF9-7FB529ED9B984F12",
+      "record_type": "inspection",
+      "facility_id": "9EDA3EC2-0631-1249-2B2061528D6D5F0C",
+      "campus": "BRAEBURN ELEMENTARY SCHOOL",
+      "address": "5550 PINE ST HOUSTON TX",
+      "zip": "77081",
+      "site": "ESTABLISHMENT",
+      "date": "2026-11-10",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 3-501.18(A)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
       "inspection_id": "C0EBE34F-C7C3-A892-100D269DFF53DDE8",
       "record_type": "inspection",
       "facility_id": "12105",
@@ -1120,6 +1153,58 @@
         {
           "no": 3,
           "item": "Houston Ordinance Violation: 5-501.15(A)",
+          "status": "Violation Corrected On Site",
+          "activity": "Routine Inspection (001)"
+        }
+      ]
+    },
+    {
+      "inspection_id": "8AA31D7F-E52E-7025-77EF91F2564D421B",
+      "record_type": "inspection",
+      "facility_id": "11567",
+      "campus": "ASHFORD ELEMENTARY",
+      "address": "1815 SHANNON VALLEY HOUSTON TX",
+      "zip": "77077",
+      "site": "Premises",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "899B47ED-C17B-8D7F-5956275BCFF6DCBB",
+      "record_type": "grease_trap",
+      "facility_id": "11567",
+      "campus": "ASHFORD ELEMENTARY",
+      "address": "1815 SHANNON VALLEY HOUSTON TX",
+      "zip": "77077",
+      "site": "FOG 79606",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": []
+    },
+    {
+      "inspection_id": "893502B4-9C02-6BE0-17DB402282DA9432",
+      "record_type": "inspection",
+      "facility_id": "11567",
+      "campus": "ASHFORD ELEMENTARY",
+      "address": "1815 SHANNON VALLEY HOUSTON TX",
+      "zip": "77077",
+      "site": "Kitchen",
+      "date": "2026-11-09",
+      "status": "OPEN",
+      "level": "Elementary",
+      "violations": [
+        {
+          "no": 1,
+          "item": "Houston Ordinance Violation: 6-202.15(A)",
+          "status": "Violation",
+          "activity": "Routine Inspection (001)"
+        },
+        {
+          "no": 2,
+          "item": "Houston Ordinance Violation: 6-501.111(B)",
           "status": "Violation Corrected On Site",
           "activity": "Routine Inspection (001)"
         }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T04:51:55+00:00",
+ "generated_at": "2026-11-25T23:56:16+00:00",
  "source": "latest day per facility, bundled from inspections.json",
  "record_count": 474,
  "records": [
@@ -121,6 +121,19 @@
    "inspection_id": "BC264DEB-95EC-3539-8ECD2EF62CE8DA46"
   },
   {
+   "facility_id": "9EDA3EC2-0631-1249-2B2061528D6D5F0C",
+   "campus": "BRAEBURN ELEMENTARY SCHOOL",
+   "address": "5550 PINE ST HOUSTON TX",
+   "zip": "77081",
+   "site": "ESTABLISHMENT",
+   "level": "Elementary",
+   "date": "2026-11-10",
+   "status": "OPEN",
+   "violation_count": 1,
+   "inspections_that_day": 1,
+   "inspection_id": "BF42721E-CDF4-7BF9-7FB529ED9B984F12"
+  },
+  {
    "facility_id": "12105",
    "campus": "BEVERLY HILLS INTERMEDIATE",
    "address": "11111 BEAMER HOUSTON TX",
@@ -236,6 +249,19 @@
    "violation_count": 3,
    "inspections_that_day": 1,
    "inspection_id": "895F86AA-C8C2-BFF5-CC44B20F1F8772DD"
+  },
+  {
+   "facility_id": "11567",
+   "campus": "ASHFORD ELEMENTARY",
+   "address": "1815 SHANNON VALLEY HOUSTON TX",
+   "zip": "77077",
+   "site": "Kitchen",
+   "level": "Elementary",
+   "date": "2026-11-09",
+   "status": "OPEN",
+   "violation_count": 2,
+   "inspections_that_day": 2,
+   "inspection_id": "893502B4-9C02-6BE0-17DB402282DA9432"
   },
   {
    "facility_id": "12106",
@@ -4229,19 +4255,6 @@
    "inspection_id": "ED10CBE0-AAFE-2599-A09170D5E3BBFFD4"
   },
   {
-   "facility_id": "9EDA3EC2-0631-1249-2B2061528D6D5F0C",
-   "campus": "BRAEBURN ELEMENTARY SCHOOL",
-   "address": "5550 PINE ST HOUSTON TX",
-   "zip": "77081",
-   "site": "ESTABLISHMENT",
-   "level": "Elementary",
-   "date": "2026-05-08",
-   "status": "OPEN",
-   "violation_count": 4,
-   "inspections_that_day": 1,
-   "inspection_id": "51C0939B-B532-4527-B6C8A96D58D9BEA3"
-  },
-  {
    "facility_id": "11615",
    "campus": "HIGH SCHOOL AHEAD ACADEMY",
    "address": "5320 YALE HOUSTON TX",
@@ -5397,19 +5410,6 @@
    "violation_count": 0,
    "inspections_that_day": 2,
    "inspection_id": "7182250E-FDE1-DC02-9F105FE30ED61DEE"
-  },
-  {
-   "facility_id": "11567",
-   "campus": "ASHFORD ELEMENTARY",
-   "address": "1815 SHANNON VALLEY HOUSTON TX",
-   "zip": "77077",
-   "site": "Premises",
-   "level": "Elementary",
-   "date": "2026-03-03",
-   "status": "OPEN",
-   "violation_count": 0,
-   "inspections_that_day": 2,
-   "inspection_id": "092EA63F-B9B1-B717-C178C94722ACE59C"
   },
   {
    "facility_id": "7709",
